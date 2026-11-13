@@ -1,0 +1,577 @@
+10:09:45 | INFO: Data are loaded, start creating Blender stuff
+10:09:45 | INFO: Blender create Mesh node Z2
+10:09:45 | INFO: glTF import finished in 0.11s
+Info: Saved "eva_rig.blend"
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+10:09:46 | INFO: Starting glTF 2.0 export
+10:09:46 | INFO: Extracting primitive: Z2
+10:09:48 | INFO: Primitives created: 1
+10:09:50 | INFO: Finished glTF 2.0 export in 3.5716898441314697 s
+
+10:09:50 | INFO: Data are loaded, start creating Blender stuff
+10:09:50 | INFO: Blender create Mesh node Cylinder.020
+10:09:50 | INFO: Blender create Mesh node Cube.008
+10:09:50 | INFO: Blender create Mesh node Cube.022
+10:09:50 | INFO: Blender create Mesh node Cube.023
+10:09:50 | INFO: Blender create Mesh node Cylinder.007
+10:09:50 | INFO: Blender create Mesh node Cylinder.002
+10:09:50 | INFO: Blender create Mesh node Cylinder.016
+10:09:50 | INFO: Blender create Mesh node Cylinder.022
+10:09:50 | INFO: Blender create Mesh node 10453412-101_B_3961624.048
+10:09:50 | INFO: Blender create Mesh node 10453412-101_B_3961624.003
+10:09:50 | INFO: Blender create Mesh node 10453412-101_B_3961624.002
+10:09:50 | INFO: Blender create Mesh node 10453412-101_B_3961624.005
+10:09:50 | INFO: Blender create Mesh node 10453412-101_B_3961624.001
+10:09:50 | INFO: Blender create Mesh node Cube.002
+10:09:50 | INFO: Blender create Mesh node Cube.025
+10:09:50 | INFO: Blender create Mesh node 10461516-101_A3-FRONT HAZCAM LENS COVER MOUNTING BRACKET_59.014
+10:09:50 | INFO: Blender create Mesh node 10461516-101_A3-FRONT HAZCAM LENS COVER MOUNTING BRACKET_59.000
+10:09:50 | INFO: Blender create Mesh node 10461523-101_A-REAR -Y HAZCAM BRACKET_12976.004
+10:09:50 | INFO: Blender create Mesh node Cube.001
+10:09:50 | INFO: Blender create Mesh node Cube.013
+10:09:50 | INFO: Blender create Mesh node 10461523-101_A-REAR -Y HAZCAM BRACKET_12976.001
+10:09:50 | INFO: Blender create Mesh node 10453412-101_B_3961624.004
+10:09:50 | INFO: Blender create Mesh node 10272356-101_E-HORIZONTAL SWINGARM_25223.001
+10:09:50 | INFO: Blender create Mesh node 10272356-101_E-HORIZONTAL SWINGARM_25223.002
+10:09:50 | INFO: Blender create Mesh node Cylinder.005
+10:09:50 | INFO: Blender create Mesh node Cylinder.013
+10:09:50 | INFO: Blender create Mesh node Cylinder.014
+10:09:50 | INFO: Blender create Mesh node Cylinder.041
+10:09:50 | INFO: Blender create Mesh node Cylinder.018
+10:09:50 | INFO: Blender create Mesh node Cylinder.015
+10:09:50 | INFO: Blender create Mesh node Cylinder.012
+10:09:50 | INFO: Blender create Mesh node Cylinder.032
+10:09:50 | INFO: Blender create Mesh node Cylinder.031
+10:09:50 | INFO: Blender create Mesh node Cylinder.034
+10:09:50 | INFO: Blender create Mesh node Cylinder.003
+10:09:50 | INFO: Blender create Mesh node Cylinder.001
+10:09:50 | INFO: Blender create Mesh node Cylinder.008
+10:09:50 | INFO: Blender create Mesh node Cylinder.021
+10:09:50 | INFO: Blender create Mesh node Cylinder.024
+10:09:50 | INFO: Blender create Mesh node Cylinder.023
+10:09:50 | INFO: Blender create Mesh node Cylinder.009
+10:09:50 | INFO: Blender create Mesh node Cylinder.054
+10:09:50 | INFO: Blender create Mesh node Cube.009
+10:09:50 | INFO: Blender create Mesh node Cylinder
+10:09:50 | INFO: Blender create Mesh node 10253070-104_B8-MSL_HGA_DISH_INTFC_115678.013
+10:09:50 | INFO: Blender create Mesh node 10450513-101_B-WAVEGUIDE, RIGID, RECTANGULAR_50248.000
+10:09:50 | INFO: Blender create Mesh node Cube.026
+10:09:50 | INFO: Blender create Mesh node Cube.027
+10:09:50 | INFO: Blender create Mesh node Cube.029
+10:09:50 | INFO: Blender create Mesh node Cube.020
+10:09:50 | INFO: Blender create Mesh node Cube.024
+10:09:50 | INFO: Blender create Mesh node 10453412-101_B_3961624.036
+10:09:50 | INFO: Blender create Mesh node Cube.028
+10:09:50 | INFO: Blender create Mesh node Cube.003
+10:09:50 | INFO: Blender create Mesh node 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.013
+10:09:50 | INFO: Blender create Mesh node Cylinder.030
+10:09:50 | INFO: Blender create Mesh node 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.011
+10:09:50 | INFO: Blender create Mesh node 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.009
+10:09:50 | INFO: Blender create Mesh node Cylinder.029
+10:09:50 | INFO: Blender create Mesh node 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.007
+10:09:50 | INFO: Blender create Mesh node 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.000
+10:09:50 | INFO: Blender create Mesh node Cube.000
+10:09:50 | INFO: Blender create Mesh node Cube.006
+10:09:50 | INFO: Blender create Mesh node CEK_M2020_BLANK_SUPPORT_STRUTS_05_A1-BLANK SUPPORT STRUTS_1.000
+10:09:51 | INFO: Blender create Mesh node Cube.005
+10:09:51 | INFO: Blender create Mesh node Cube.019
+10:09:51 | INFO: Blender create Mesh node Cube.021
+10:09:51 | INFO: Blender create Mesh node Cylinder.006
+10:09:51 | INFO: glTF import finished in 0.91s
+Info: Saved "atlas6.blend"
+10:09:52 | INFO: Starting glTF 2.0 export
+10:09:52 | INFO: Extracting primitive: Cylinder.020
+10:09:52 | INFO: Primitives created: 1
+10:09:52 | INFO: Extracting primitive: Cube.008
+10:09:52 | INFO: Primitives created: 8
+10:09:52 | INFO: Extracting primitive: Cube.022
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cube.023
+10:09:52 | INFO: Primitives created: 4
+10:09:52 | INFO: Extracting primitive: Cylinder.007
+10:09:52 | INFO: Primitives created: 1
+10:09:52 | INFO: Extracting primitive: Cylinder.002
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cylinder.016
+10:09:52 | INFO: Primitives created: 8
+10:09:52 | INFO: Extracting primitive: Cylinder.022
+10:09:52 | INFO: Primitives created: 1
+10:09:52 | INFO: Extracting primitive: Cube.002
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cube.025
+10:09:52 | INFO: Primitives created: 6
+10:09:52 | INFO: Extracting primitive: 10461516-101_A3-FRONT HAZCAM LENS COVER MOUNTING BRACKET_59.014
+10:09:52 | INFO: Primitives created: 6
+10:09:52 | INFO: Extracting primitive: 10461516-101_A3-FRONT HAZCAM LENS COVER MOUNTING BRACKET_59.000
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: 10461523-101_A-REAR -Y HAZCAM BRACKET_12976.004
+10:09:52 | INFO: Primitives created: 7
+10:09:52 | INFO: Extracting primitive: Cube.001
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cube.013
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: 10461523-101_A-REAR -Y HAZCAM BRACKET_12976.001
+10:09:52 | INFO: Primitives created: 1
+10:09:52 | INFO: Extracting primitive: 10453412-101_B_3961624.004
+10:09:52 | INFO: Primitives created: 1
+10:09:52 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.002
+10:09:52 | INFO: Primitives created: 7
+10:09:52 | INFO: Extracting primitive: Cylinder.005
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cylinder.013
+10:09:52 | INFO: Primitives created: 4
+10:09:52 | INFO: Extracting primitive: Cylinder.014
+10:09:52 | INFO: Primitives created: 7
+10:09:52 | INFO: Extracting primitive: Cylinder.041
+10:09:52 | INFO: Primitives created: 8
+10:09:52 | INFO: Extracting primitive: Cylinder.018
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cylinder.015
+10:09:52 | INFO: Primitives created: 10
+10:09:52 | INFO: Extracting primitive: Cylinder.012
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cylinder.032
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cylinder.031
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cylinder.034
+10:09:52 | INFO: Primitives created: 1
+10:09:52 | INFO: Extracting primitive: Cylinder.003
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cylinder.001
+10:09:52 | INFO: Primitives created: 3
+10:09:52 | INFO: Extracting primitive: Cylinder.008
+10:09:52 | INFO: Primitives created: 4
+10:09:52 | INFO: Extracting primitive: Cylinder.021
+10:09:52 | INFO: Primitives created: 2
+10:09:52 | INFO: Extracting primitive: Cylinder.024
+10:09:52 | INFO: Primitives created: 1
+10:09:52 | INFO: Extracting primitive: Cylinder.023
+10:09:52 | INFO: Primitives created: 3
+10:09:52 | INFO: Extracting primitive: Cylinder.009
+10:09:52 | INFO: Primitives created: 4
+10:09:52 | INFO: Extracting primitive: Cylinder.054
+10:09:52 | INFO: Primitives created: 9
+10:09:52 | INFO: Extracting primitive: Cube.009
+10:09:53 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+10:09:53 | INFO: Primitives created: 13
+10:09:53 | INFO: Extracting primitive: Cylinder
+10:09:53 | INFO: Primitives created: 2
+10:09:53 | INFO: Extracting primitive: 10253070-104_B8-MSL_HGA_DISH_INTFC_115678.013
+10:09:53 | INFO: Primitives created: 4
+10:09:53 | INFO: Extracting primitive: 10450513-101_B-WAVEGUIDE, RIGID, RECTANGULAR_50248.000
+10:09:53 | INFO: Primitives created: 2
+10:09:53 | INFO: Extracting primitive: Cube.026
+10:09:53 | INFO: Primitives created: 3
+10:09:53 | INFO: Extracting primitive: Cube.027
+10:09:53 | INFO: Primitives created: 3
+10:09:53 | INFO: Extracting primitive: Cube.029
+10:09:53 | INFO: Primitives created: 4
+10:09:53 | INFO: Extracting primitive: Cube.020
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: Cube.024
+10:09:53 | INFO: Primitives created: 5
+10:09:53 | INFO: Extracting primitive: 10453412-101_B_3961624.036
+10:09:53 | INFO: Primitives created: 2
+10:09:53 | INFO: Extracting primitive: Cube.028
+10:09:53 | INFO: Primitives created: 3
+10:09:53 | INFO: Extracting primitive: Cube.003
+10:09:53 | INFO: Primitives created: 3
+10:09:53 | INFO: Extracting primitive: 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.013
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: Cylinder.030
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.011
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.009
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: Cylinder.029
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.007
+10:09:53 | INFO: Primitives created: 2
+10:09:53 | INFO: Extracting primitive: 10463723-1_6-MHDS BELLY PAN_A1-MIA, MHDS BELLY PAN_655754.000
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: Cube.000
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: Cube.006
+10:09:53 | INFO: Primitives created: 19
+10:09:53 | INFO: Extracting primitive: CEK_M2020_BLANK_SUPPORT_STRUTS_05_A1-BLANK SUPPORT STRUTS_1.000
+10:09:53 | INFO: Primitives created: 2
+10:09:53 | INFO: Extracting primitive: Cube.005
+10:09:53 | INFO: Primitives created: 3
+10:09:53 | INFO: Extracting primitive: Cube.019
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: Cube.021
+10:09:53 | INFO: Primitives created: 5
+10:09:53 | INFO: Extracting primitive: Cylinder.006
+10:09:53 | INFO: Primitives created: 6
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.001
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.003
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.004
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.005
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.006
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.007
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.038
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.039
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.050
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.051
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.052
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.053
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.063
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.008
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.009
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.010
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.011
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.012
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.013
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.040
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.041
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.054
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.055
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.056
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.057
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.014
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.015
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.016
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.017
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.018
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.019
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.042
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.043
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.058
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.059
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.060
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.061
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.062
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.064
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.020
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.021
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.022
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.023
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.024
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.025
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.044
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.045
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.065
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.066
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.067
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.068
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.069
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.026
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.027
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.028
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.029
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.030
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.031
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.046
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.047
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.070
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.071
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.072
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.073
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.074
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.032
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.033
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.034
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.035
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.036
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.037
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.048
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.049
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.075
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.076
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.077
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.078
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10272356-101_E-HORIZONTAL SWINGARM_25223.079
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10453412-101_B_3961624.048
+10:09:53 | INFO: Primitives created: 10
+10:09:53 | INFO: Extracting primitive: 10453412-101_B_3961624.003
+10:09:53 | INFO: Primitives created: 4
+10:09:53 | INFO: Extracting primitive: 10453412-101_B_3961624.002
+10:09:53 | INFO: Primitives created: 6
+10:09:53 | INFO: Extracting primitive: 10453412-101_B_3961624.005
+10:09:53 | INFO: Primitives created: 1
+10:09:53 | INFO: Extracting primitive: 10453412-101_B_3961624.001
+10:09:53 | INFO: Primitives created: 7
+10:09:53 | INFO: Finished glTF 2.0 export in 1.4808039665222168 s
+
+10:09:54 | INFO: Data are loaded, start creating Blender stuff
+10:09:54 | INFO: Blender create Mesh node Cube.012
+10:09:54 | INFO: Blender create Mesh node Cube.002
+10:09:54 | INFO: Blender create Mesh node MHP_JR_AV_ROTOR_STOWED_120717_A1-STOWED ROTOR ASSEMBLY, 120.056
+10:09:54 | INFO: Blender create Mesh node MHP_JR_AV_ROTOR_STOWED_120717_A1-STOWED ROTOR ASSEMBLY, 120.027
+10:09:54 | INFO: Blender create Mesh node Cylinder.028
+10:09:54 | INFO: Blender create Mesh node Cylinder.019
+10:09:54 | INFO: Blender create Mesh node Cylinder.005
+10:09:54 | INFO: Blender create Mesh node Cylinder.035
+10:09:54 | INFO: Blender create Mesh node Cylinder.017
+10:09:54 | INFO: Blender create Mesh node Cylinder.014
+10:09:54 | INFO: Blender create Mesh node 10460522-1_2_B1-SOLAR PANEL SUBSTRATE_5781_FILLET5.003
+10:09:54 | INFO: glTF import finished in 0.07s
+Info: Saved "skyscout.blend"
+10:09:54 | INFO: Starting glTF 2.0 export
+10:09:54 | INFO: Extracting primitive: Cube.012
+10:09:54 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+10:09:54 | INFO: Primitives created: 3
+10:09:54 | INFO: Extracting primitive: Cube.004
+10:09:54 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+10:09:54 | INFO: Primitives created: 2
+10:09:54 | INFO: Extracting primitive: MHP_JR_AV_ROTOR_STOWED_120717_A1-STOWED ROTOR ASSEMBLY, 120.056
+10:09:54 | INFO: Primitives created: 3
+10:09:54 | INFO: Extracting primitive: MHP_JR_AV_ROTOR_STOWED_120717_A1-STOWED ROTOR ASSEMBLY, 120.027
+10:09:54 | INFO: Primitives created: 3
+10:09:54 | INFO: Extracting primitive: Cylinder.028
+10:09:54 | INFO: Primitives created: 3
+10:09:54 | INFO: Extracting primitive: Cylinder.019
+10:09:54 | INFO: Primitives created: 3
+10:09:54 | INFO: Extracting primitive: Cylinder.004
+10:09:54 | INFO: Primitives created: 3
+10:09:54 | INFO: Extracting primitive: Cylinder.035
+10:09:54 | INFO: Primitives created: 3
+10:09:54 | INFO: Extracting primitive: 10460522-1_2_B1-SOLAR PANEL SUBSTRATE_5781_FILLET5.003
+10:09:54 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+10:09:54 | INFO: Primitives created: 4
+10:09:54 | INFO: Extracting primitive: Cylinder.017
+10:09:54 | INFO: Primitives created: 4
+10:09:54 | INFO: Extracting primitive: Cylinder.010
+10:09:54 | INFO: Primitives created: 4
+10:09:54 | INFO: Finished glTF 2.0 export in 0.20656061172485352 s
+
+10:09:54 | INFO: Data are loaded, start creating Blender stuff
+10:09:54 | INFO: Blender create Mesh node R2.001
+10:09:54 | INFO: Blender create Mesh node Mesh.033
+10:09:54 | INFO: Blender create Mesh node Mesh.032
+10:09:54 | INFO: Blender create Mesh node Mesh.030
+10:09:54 | INFO: Blender create Mesh node Mesh.034
+10:09:54 | INFO: Blender create Mesh node R2.019
+10:09:54 | INFO: Blender create Mesh node Sphere
+10:09:54 | INFO: Blender create Mesh node Sphere.001
+10:09:54 | INFO: Blender create Mesh node Mesh.027
+10:09:54 | INFO: Blender create Mesh node Mesh.037
+10:09:54 | INFO: Blender create Mesh node Mesh.015
+10:09:54 | INFO: Blender create Mesh node Mesh.016
+10:09:54 | INFO: Blender create Mesh node Mesh.021
+10:09:54 | INFO: Blender create Mesh node Mesh.022
+10:09:54 | INFO: Blender create Mesh node Mesh.017
+10:09:54 | INFO: Blender create Mesh node Mesh.018
+10:09:54 | INFO: Blender create Mesh node Mesh.019
+10:09:54 | INFO: Blender create Mesh node Mesh.020
+10:09:54 | INFO: Blender create Mesh node Mesh
+10:09:54 | INFO: Blender create Mesh node Mesh.039
+10:09:54 | INFO: Blender create Mesh node Mesh.024
+10:09:54 | INFO: Blender create Mesh node Sphere.003
+10:09:54 | INFO: Blender create Mesh node Sphere.004
+10:09:54 | INFO: Blender create Mesh node Mesh.008
+10:09:54 | INFO: Blender create Mesh node Mesh.028
+10:09:54 | INFO: Blender create Mesh node Mesh.036
+10:09:54 | INFO: Blender create Mesh node Mesh.010
+10:09:54 | INFO: Blender create Mesh node Mesh.006
+10:09:54 | INFO: Blender create Mesh node Mesh.009
+10:09:54 | INFO: Blender create Mesh node Mesh.007
+10:09:54 | INFO: Blender create Mesh node Mesh.012
+10:09:54 | INFO: Blender create Mesh node Mesh.004
+10:09:54 | INFO: Blender create Mesh node Mesh.011
+10:09:54 | INFO: Blender create Mesh node Mesh.005
+10:09:54 | INFO: Blender create Mesh node Mesh.014
+10:09:54 | INFO: Blender create Mesh node Mesh.002
+10:09:54 | INFO: Blender create Mesh node Mesh.013
+10:09:54 | INFO: Blender create Mesh node Mesh.003
+10:09:54 | INFO: Blender create Mesh node Mesh.026
+10:09:54 | INFO: Blender create Mesh node Mesh.025
+10:09:54 | INFO: Blender create Mesh node Mesh.023
+10:09:54 | INFO: Blender create Mesh node Mesh.029
+10:09:54 | INFO: Blender create Mesh node Mesh.035
+10:09:54 | INFO: Blender create Mesh node Mesh.031
+10:09:54 | INFO: Blender create Mesh node Mesh.001
+10:09:54 | INFO: Blender create Mesh node Mesh.038
+10:09:54 | INFO: Blender create Mesh node waist_1
+10:09:54 | INFO: glTF import finished in 0.59s
+Info: Saved "alpha.blend"
+10:09:55 | INFO: Starting glTF 2.0 export
+10:09:55 | INFO: Extracting primitive: R2.001
+10:09:55 | INFO: Primitives created: 2
+10:09:55 | INFO: Extracting primitive: Mesh.033
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.032
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: R2.019
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Sphere
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Sphere.001
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.024
+10:09:55 | INFO: Primitives created: 5
+10:09:55 | INFO: Extracting primitive: Sphere.003
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Sphere.004
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.008
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.026
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.025
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.023
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.031
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: waist_1
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.030
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.027
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.028
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.029
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.001
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.015
+10:09:55 | INFO: Primitives created: 2
+10:09:55 | INFO: Extracting primitive: Mesh.016
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.017
+10:09:55 | INFO: Primitives created: 2
+10:09:55 | INFO: Extracting primitive: Mesh.018
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.010
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.009
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.012
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.011
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.014
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.013
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.034
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.037
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.036
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.035
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.038
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.021
+10:09:55 | INFO: Primitives created: 2
+10:09:55 | INFO: Extracting primitive: Mesh.022
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.019
+10:09:55 | INFO: Primitives created: 2
+10:09:55 | INFO: Extracting primitive: Mesh.020
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.039
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.006
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.007
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.004
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.005
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.002
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Extracting primitive: Mesh.003
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Finished glTF 2.0 export in 0.7459845542907715 s
+
+10:09:55 | INFO: Data are loaded, start creating Blender stuff
+10:09:55 | INFO: Blender create Mesh node HDU_lowRez_part1
+10:09:55 | INFO: glTF import finished in 0.01s
+Info: Saved "habitat.blend"
+10:09:55 | INFO: Starting glTF 2.0 export
+10:09:55 | INFO: Extracting primitive: HDU_lowRez_part1
+10:09:55 | INFO: Primitives created: 1
+10:09:55 | INFO: Finished glTF 2.0 export in 0.019038677215576172 s
+
+Assets rebuilt: real EVA skin, 17 clips, corrected world-preserving vehicle pivots
+Blender 4.3.2
+
+Blender quit

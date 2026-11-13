@@ -1,0 +1,38 @@
+[
+  {
+    "file": "trek_capabilities.xml",
+    "url": "https://trek.nasa.gov/tiles/Mars/EQ/Mars_MGS_MOLA_ClrShade_merge_global_463m/1.0.0/WMTSCapabilities.xml",
+    "bytes": 7040,
+    "status": "downloaded"
+  },
+  {
+    "file": "trek_west.jpg",
+    "url": "https://trek.nasa.gov/tiles/Mars/EQ/Mars_MGS_MOLA_ClrShade_merge_global_463m/1.0.0/default/default028mm/0/0/0.jpg",
+    "bytes": 62976,
+    "status": "downloaded"
+  },
+  {
+    "file": "trek_east.jpg",
+    "url": "https://trek.nasa.gov/tiles/Mars/EQ/Mars_MGS_MOLA_ClrShade_merge_global_463m/1.0.0/default/default028mm/0/0/1.jpg",
+    "bytes": 62983,
+    "status": "downloaded"
+  },
+  {
+    "file": "images_perseverance.json",
+    "url": "https://images-api.nasa.gov/search?q=Perseverance%20Mars&media_type=image&page_size=12",
+    "bytes": 22461,
+    "status": "downloaded"
+  },
+  {
+    "file": "meda_page.html",
+    "url": "https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/PERSEVERANCE/meda.html",
+    "bytes": 30620,
+    "status": "downloaded"
+  },
+  {
+    "file": "mars_facts.html",
+    "url": "https://science.nasa.gov/mars/facts/",
+    "bytes": 300755,
+    "status": "downloaded"
+  }
+]

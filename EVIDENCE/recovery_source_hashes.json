@@ -1,0 +1,54 @@
+{
+  "SOURCE_CURRENT/viewer/src/router.js": {
+    "sha256": "cdb727b58ba838573fd0de105f82484d9f9fe6a50788d43e1071878a3524e68d",
+    "bytes": 3836
+  },
+  "SOURCE_CURRENT/viewer/src/style.css": {
+    "sha256": "8917968086fe54a0a6d6870bb5934d8243aec7892df3a98370504d5ef368a686",
+    "bytes": 18752
+  },
+  "SOURCE_CURRENT/viewer/src/runtime_qa.js": {
+    "sha256": "793453ade7695b61e73a386c2d06fe895dd98258c03943fd846d418a1f42d74a",
+    "bytes": 11137
+  },
+  "SOURCE_CURRENT/viewer/src/world.js": {
+    "sha256": "b78abcdf612a62d74df2550c32b5040586d12663c080d6c7d4836e48b204dbce",
+    "bytes": 29770
+  },
+  "SOURCE_CURRENT/viewer/src/controller.js": {
+    "sha256": "a84f3d71b3c9fbd386e84054da82eaee63f13c3bc9b4c9e2711e6e88c04567bd",
+    "bytes": 7163
+  },
+  "SOURCE_CURRENT/viewer/src/save.js": {
+    "sha256": "45b934bc72749100cb18010e7dee33b798eb4dd81e635046e6809fbc2207010f",
+    "bytes": 2316
+  },
+  "SOURCE_CURRENT/viewer/src/audio.js": {
+    "sha256": "bcec2ecf8582f353658c8d3ebedab07c09bd10fcc95676f3313fed822be27ccf",
+    "bytes": 8889
+  },
+  "SOURCE_CURRENT/viewer/src/missions.js": {
+    "sha256": "9cd1d05e71c7b76fbd87e139fcd11fa32c20bf527fb81d3f358683cf9538bc5c",
+    "bytes": 13604
+  },
+  "SOURCE_CURRENT/viewer/src/main.js": {
+    "sha256": "ebc025d0a7fa632698e9cfa2e2409f132cd233ffb32a95b8500f726d0af17a85",
+    "bytes": 49851
+  },
+  "SOURCE_CURRENT/viewer/src/tools.js": {
+    "sha256": "7fac4e237309203e9fba86118051d69882cbecbe7b2bbd9b265f3a02226f375f",
+    "bytes": 5225
+  },
+  "SOURCE_CURRENT/serve.py": {
+    "sha256": "887f8728a584ff9fccaae173142991e3671fad6ed033e80727cafb9c758763bc",
+    "bytes": 6387
+  },
+  "START_ARES_WINDOWS.bat": {
+    "sha256": "19275cb93706b9ee1cbbb4033b0b5d40ee088ad626fbb90b15fdad37eb35e8fa",
+    "bytes": 435
+  },
+  "START_ARES_OFFLINE_WINDOWS.bat": {
+    "sha256": "5dd5156d4fca74de604b4ba22879f7761accf5fd032d0148dc2704b4cb4df290",
+    "bytes": 455
+  }
+}

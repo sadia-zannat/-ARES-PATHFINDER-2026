@@ -1,0 +1,11 @@
+test_env_not_served (__main__.GatewayTests.test_env_not_served) ... ok
+test_no_arbitrary_proxy (__main__.GatewayTests.test_no_arbitrary_proxy) ... ok
+test_offline_catalog (__main__.GatewayTests.test_offline_catalog) ... ok
+test_orbit_and_trek (__main__.GatewayTests.test_orbit_and_trek) ... ok
+test_real_historical_mars_observation (__main__.GatewayTests.test_real_historical_mars_observation) ... ok
+test_status_has_no_key (__main__.GatewayTests.test_status_has_no_key) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.525s
+
+OK

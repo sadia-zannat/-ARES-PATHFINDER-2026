@@ -1,0 +1,12 @@
+{
+  "src/router.js": "cdb727b58ba838573fd0de105f82484d9f9fe6a50788d43e1071878a3524e68d",
+  "src/style.css": "8917968086fe54a0a6d6870bb5934d8243aec7892df3a98370504d5ef368a686",
+  "src/runtime_qa.js": "ef3fb276d4dc865bfda256be52380989d0de2f65ea7d3393e7e87ec71477b359",
+  "src/world.js": "d868140aeafcdc731a11104613d433ddfd519cb94944d4923789f95cf76171f6",
+  "src/controller.js": "a84f3d71b3c9fbd386e84054da82eaee63f13c3bc9b4c9e2711e6e88c04567bd",
+  "src/save.js": "45b934bc72749100cb18010e7dee33b798eb4dd81e635046e6809fbc2207010f",
+  "src/audio.js": "bcec2ecf8582f353658c8d3ebedab07c09bd10fcc95676f3313fed822be27ccf",
+  "src/missions.js": "9cd1d05e71c7b76fbd87e139fcd11fa32c20bf527fb81d3f358683cf9538bc5c",
+  "src/main.js": "c271b95865f31e9e38d1cf8a01ed9d60ccb282f5a94a7cbdc80bda6352de91ca",
+  "src/tools.js": "7fac4e237309203e9fba86118051d69882cbecbe7b2bbd9b265f3a02226f375f"
+}

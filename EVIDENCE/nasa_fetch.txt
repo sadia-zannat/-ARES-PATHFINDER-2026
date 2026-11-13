@@ -1,0 +1,4 @@
+MEDA links ['?C=N;O=D', '?C=M;O=A', '?C=S;O=A', '?C=D;O=A', '/PDS/data/PDS4/Mars2020/mars2020_meda/data_derived_env/', 'sol_0001/', 'sol_0002/', 'sol_0004/', 'sol_0009/', 'sol_0010/', 'sol_0014/', 'sol_0015/', 'sol_0016/', 'sol_0017/', 'sol_0018/', 'sol_0019/']
+images saved
+MEDA index only
+Horizons saved

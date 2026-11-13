@@ -1,0 +1,88 @@
+11:22:16 | INFO: Data are loaded, start creating Blender stuff
+11:22:16 | INFO: Blender create Mesh node rock_PROXY_5m.002
+11:22:16 | INFO: glTF import finished in 0.50s
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+11:22:32 | INFO: Starting glTF 2.0 export
+11:22:32 | INFO: Extracting primitive: rock_PROXY_5m.002
+11:22:33 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+11:22:33 | INFO: Primitives created: 1
+11:22:33 | INFO: Finished glTF 2.0 export in 0.8982503414154053 s
+
+11:22:33 | INFO: Starting glTF 2.0 export
+11:22:33 | INFO: Extracting primitive: rock_PROXY_5m.002
+11:22:33 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+11:22:34 | INFO: Primitives created: 1
+11:22:34 | INFO: Finished glTF 2.0 export in 0.31824803352355957 s
+
+11:22:35 | INFO: Starting glTF 2.0 export
+11:22:35 | INFO: Extracting primitive: Z2
+11:22:36 | INFO: Primitives created: 2
+11:22:36 | INFO: Extracting primitive: Leon_Scalp
+11:22:36 | INFO: Primitives created: 1
+11:22:36 | INFO: Extracting primitive: Leon_MakeHuman_Head
+11:22:36 | INFO: Primitives created: 1
+11:22:55 | INFO: Finished glTF 2.0 export in 20.419761180877686 s
+
+CREW EXPORTED Leon 4387
+11:22:56 | INFO: Starting glTF 2.0 export
+11:22:56 | INFO: Extracting primitive: Z2
+11:22:58 | INFO: Primitives created: 2
+11:22:58 | INFO: Extracting primitive: Ethan_Scalp
+11:22:58 | INFO: Primitives created: 1
+11:22:58 | INFO: Extracting primitive: Ethan_MakeHuman_Head
+11:22:58 | INFO: Primitives created: 1
+11:23:17 | INFO: Finished glTF 2.0 export in 20.87929344177246 s
+
+CREW EXPORTED Ethan 4387
+11:23:18 | INFO: Starting glTF 2.0 export
+11:23:19 | INFO: Extracting primitive: Z2
+11:23:20 | INFO: Primitives created: 2
+11:23:20 | INFO: Extracting primitive: Orion_Scalp
+11:23:20 | INFO: Primitives created: 1
+11:23:20 | INFO: Extracting primitive: Orion_MakeHuman_Head
+11:23:20 | INFO: Primitives created: 1
+11:23:44 | INFO: Finished glTF 2.0 export in 25.241910457611084 s
+
+CREW EXPORTED Orion 4387
+11:23:45 | INFO: Starting glTF 2.0 export
+11:23:45 | INFO: Extracting primitive: Z2
+11:23:47 | INFO: Primitives created: 2
+11:23:48 | INFO: Extracting primitive: Sadia_Scalp
+11:23:48 | INFO: Primitives created: 0
+11:23:48 | WARNING: Mesh 'Sadia_Scalp' has no primitives and will be omitted.
+11:23:48 | INFO: Extracting primitive: Sadia_MakeHuman_Head
+11:23:48 | INFO: Primitives created: 1
+11:24:20 | INFO: Finished glTF 2.0 export in 34.92388296127319 s
+
+CREW EXPORTED Sadia 4387
+11:24:22 | INFO: Starting glTF 2.0 export
+11:24:22 | INFO: Extracting primitive: Z2
+11:24:24 | INFO: Primitives created: 2
+11:24:24 | INFO: Extracting primitive: Amelia_Scalp
+11:24:24 | INFO: Primitives created: 0
+11:24:24 | WARNING: Mesh 'Amelia_Scalp' has no primitives and will be omitted.
+11:24:24 | INFO: Extracting primitive: Amelia_MakeHuman_Head
+11:24:24 | INFO: Primitives created: 1
+11:24:46 | INFO: Finished glTF 2.0 export in 23.93859076499939 s
+
+CREW EXPORTED Amelia 4387
+11:24:47 | INFO: Starting glTF 2.0 export
+11:24:47 | INFO: Extracting primitive: Z2
+11:24:49 | INFO: Primitives created: 2
+11:24:49 | INFO: Extracting primitive: Noor_Scalp
+11:24:49 | INFO: Primitives created: 1
+11:24:49 | INFO: Extracting primitive: Noor_MakeHuman_Head
+11:24:49 | INFO: Primitives created: 1
+11:25:08 | INFO: Finished glTF 2.0 export in 21.09231948852539 s
+
+CREW EXPORTED Noor 4387
+Six separate skinned characters and photogrammetry LODs exported
+Blender 4.3.2
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+
+Blender quit

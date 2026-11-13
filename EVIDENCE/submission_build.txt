@@ -1,0 +1,19 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> ares-pathfinder@0.3.0 build
+> vite build
+
+vite v7.3.8 building client environment for production...
+transforming...
+✓ 23 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                            10.61 kB │ gzip:   3.52 kB
+dist/assets/index-g9eRPl9i.css             20.00 kB │ gzip:   5.50 kB
+dist/assets/preload-helper-BXl3LOEh.js      1.11 kB │ gzip:   0.65 kB
+dist/assets/submission_audit-t-7n-aoW.js    4.21 kB │ gzip:   2.05 kB
+dist/assets/runtime_qa-DwhR1-oG.js          9.82 kB │ gzip:   4.16 kB
+dist/assets/save-Wskmz71n.js               14.81 kB │ gzip:   6.07 kB
+dist/assets/three.core-D4HbIbV9.js        229.99 kB │ gzip:  63.44 kB
+dist/assets/index-DOVx2JOa.js             491.13 kB │ gzip: 137.64 kB
+✓ built in 7.05s

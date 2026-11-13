@@ -1,0 +1,70 @@
+{
+  "boulder_01_files.json": {
+    "bytes": 24428,
+    "sha256": "c2b21c87241cbe9a46c190c6cd231cd943c4ff5dbd28b634cf19613a21a75167"
+  },
+  "makehuman_asset_license.md": {
+    "bytes": 6962,
+    "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+  },
+  "makehuman_targets.json": {
+    "bytes": 124411,
+    "sha256": "cc51ae12511b810c510352aca3b0473a1bd0dde3dfd471102904729c299928b9"
+  },
+  "makehuman_base.obj": {
+    "bytes": 1749303,
+    "sha256": "8e761e6624b8f54536409135d1636da63b32486a90d4897f84e121d144f6fb4c"
+  },
+  "makehuman_tree.json": {
+    "bytes": 3857,
+    "sha256": "0f0af3a111291424251f4468f51e4971b6ed8fdd26141c70c777ea4f5d82681b"
+  },
+  "caucasian-female-young.target": {
+    "bytes": 420559,
+    "sha256": "118379f6e8ba9266247fdb8788a20e1df40a239f97ced0b9905bcbcc74f6e820"
+  },
+  "polyhaven_models.json": {
+    "bytes": 550529,
+    "sha256": "bba99bb5ad1f27e6eb9164f9a3b7a5602601d37969445d18e7c91ca715feb5bb"
+  },
+  "african-male-young.target": {
+    "bytes": 406170,
+    "sha256": "894abc1fbb3d28543a51fef16f89d5d4bdf9aa2e1534413339811a3d47818b7d"
+  },
+  "african-female-young.target": {
+    "bytes": 411735,
+    "sha256": "92d61eeb3c164b421fd5a7c3537ee45e7e1a51de4d49bf312e19c3df2be1d8fc"
+  },
+  "asian-female-young.target": {
+    "bytes": 435553,
+    "sha256": "095fe79694fa19e1fe98d93009ec116199bd524e081c640351a10eccf2cca1eb"
+  },
+  "caucasian-male-young.target": {
+    "bytes": 396479,
+    "sha256": "70e228ba7164737dae664454394536fc5935fa48d333c1a97d77e2dc6eacc5f5"
+  },
+  "asian-male-young.target": {
+    "bytes": 421040,
+    "sha256": "ed2e8c191cb6b87b4a2d97c80486acb2604fa549316c7aa2a738a5d5a14334dc"
+  },
+  "boulder_01/boulder_01.bin": {
+    "bytes": 2938808,
+    "sha256": "7f5b06503d62bd95bfe9c6b8a354a5cc8ff04a4d271a8cf87a3e3125db4232d7"
+  },
+  "boulder_01/boulder_01.gltf": {
+    "bytes": 2773,
+    "sha256": "52d118b56748a18509e4ec0075d07b254d72a0401793f22363c0bb3a682e7361"
+  },
+  "boulder_01/textures/boulder_01_arm_2k.jpg": {
+    "bytes": 2273068,
+    "sha256": "ab52859dde519b4822111aa60916b6d21f8a6966c67b6cec44d1cd0775b8a86a"
+  },
+  "boulder_01/textures/boulder_01_nor_gl_2k.jpg": {
+    "bytes": 4649207,
+    "sha256": "5174b318712ac7725cbcb55d422607f9c66d7f8d035c5412ab897b5939e2db6b"
+  },
+  "boulder_01/textures/boulder_01_diff_2k.jpg": {
+    "bytes": 3672483,
+    "sha256": "90bbaa17c1fe0254d2b0b6e5148264fa834953a72724d566f14af029eebe3ca3"
+  }
+}

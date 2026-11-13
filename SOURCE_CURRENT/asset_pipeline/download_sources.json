@@ -1,0 +1,98 @@
+[
+  {
+    "file": "Z2 Spacesuit.glb",
+    "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Z2%20Spacesuit/Z2%20Spacesuit.glb",
+    "credit": "NASA 3D Resources",
+    "license": "NASA educational / informational media usage guidelines",
+    "sha256": "4199762c27f8e730030a7bf9f1a453c203457e84c33b36247c0237a74f9a0c2a",
+    "bytes": 16933148
+  },
+  {
+    "file": "Mars 2020 Perseverance Rover.glb",
+    "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%202020%20Perseverance%20Rover/Mars%202020%20Perseverance%20Rover.glb",
+    "credit": "NASA 3D Resources",
+    "license": "NASA educational / informational media usage guidelines",
+    "sha256": "10db7c03a5e63a5a3b3e7baa6243aa4918ba045fa8ff0a731d0217491adc727f",
+    "bytes": 4987176
+  },
+  {
+    "file": "Ingenuity Mars Helicopter.glb",
+    "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ingenuity%20Mars%20Helicopter/Ingenuity%20Mars%20Helicopter.glb",
+    "credit": "NASA 3D Resources",
+    "license": "NASA educational / informational media usage guidelines",
+    "sha256": "9e5a5398ab335eae7d46335085301ce46fb7de052300b645debe8bac6d39f2b5",
+    "bytes": 2019408
+  },
+  {
+    "file": "Robonaut 2.glb",
+    "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Robonaut%202/Robonaut%202.glb",
+    "credit": "NASA 3D Resources",
+    "license": "NASA educational / informational media usage guidelines",
+    "sha256": "21739a4f7632cb8f34d12fd988900cb132c83d1447c007dd2ed170282b17b5b8",
+    "bytes": 1066836
+  },
+  {
+    "file": "Habitat Demonstration Unit (part 1).glb",
+    "url": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Habitat%20Demonstration%20Unit/Habitat%20Demonstration%20Unit%20%28part%201%29.glb",
+    "credit": "NASA 3D Resources",
+    "license": "NASA educational / informational media usage guidelines",
+    "sha256": "3106557bea24c9ba012556ddbecf3740c39276dc369cf359b77225de97458cfe",
+    "bytes": 516748
+  },
+  {
+    "file": "aerial_rocks_02_diff.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_rocks_02/aerial_rocks_02_diff_2k.jpg",
+    "credit": "Poly Haven / Rob Tuytel",
+    "license": "CC0",
+    "sha256": "f759d2471cb6a4b3b37d0a5a249adbad1d4d48d67825f37622a603dac8d9bb22",
+    "bytes": 2914545
+  },
+  {
+    "file": "aerial_rocks_02_nor_gl.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_rocks_02/aerial_rocks_02_nor_gl_2k.jpg",
+    "credit": "Poly Haven / Rob Tuytel",
+    "license": "CC0",
+    "sha256": "e7ad2a65b446ef70c3eb8b32267bee74d91d9759ed52c349c38e34cfd62d079e",
+    "bytes": 4300188
+  },
+  {
+    "file": "aerial_rocks_02_rough.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_rocks_02/aerial_rocks_02_rough_2k.jpg",
+    "credit": "Poly Haven / Rob Tuytel",
+    "license": "CC0",
+    "sha256": "f1808dec1ad6dd77881baa41813d9718bb93e9aa1dabdcd9d6dc9b7f45dd90da",
+    "bytes": 1475961
+  },
+  {
+    "file": "rock_face_03_diff.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face_03/rock_face_03_diff_2k.jpg",
+    "credit": "Poly Haven / Rob Tuytel",
+    "license": "CC0",
+    "sha256": "644ee79df7ffbf5f6afc330b64dd3f33794bab8820915fe61ffe0c88ecfd7ece",
+    "bytes": 3814362
+  },
+  {
+    "file": "rock_face_03_nor_gl.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face_03/rock_face_03_nor_gl_2k.jpg",
+    "credit": "Poly Haven / Rob Tuytel",
+    "license": "CC0",
+    "sha256": "a498cef4ba6191f6959b6d03fb835263c77271948264a289af24497ab7111dec",
+    "bytes": 4473242
+  },
+  {
+    "file": "rock_face_03_rough.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_face_03/rock_face_03_rough_2k.jpg",
+    "credit": "Poly Haven / Rob Tuytel",
+    "license": "CC0",
+    "sha256": "9ca3e9e196685f702328f24d66f039b72f5330fc35cf2a2c265cfa50a7916301",
+    "bytes": 2601552
+  },
+  {
+    "file": "nasa_sol1.wav",
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/05/scam-mic-sol001-run001.wav",
+    "credit": "NASA/JPL-Caltech/LANL/CNES/CNRS/ISAE-Supaero",
+    "license": "NASA media usage guidelines",
+    "sha256": "b38c8e1edd9f7f50b9b1df6c624811596ed79b7a89c6f29845770b8dbbd8d26d",
+    "bytes": 6000044
+  }
+]

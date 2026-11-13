@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en"><head><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" --><!-- InstanceBeginEditable name="doctitle" --><title>MEDA - Mars Environmental Dynamics Analyzer </title><!-- InstanceEndEditable -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link href="https://pds-atmospheres.nmsu.edu/atmospage_files/mars.css" type="text/css" rel="stylesheet" media="all">
+<script language="JavaScript" src="https://pds-atmospheres.nmsu.edu/oodt/js/lastMod.js"></script>
+<script src="https://pds-atmospheres.nmsu.edu/atmospage_files/jquery-1.js" type="text/javascript"></script>
+<script src="https://pds-atmospheres.nmsu.edu/atmospage_files/email.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://pds-atmospheres.nmsu.edu/oodt/js/color.js">
+</script>
+<script type="text/javascript">
+$(fixEmail);
+</script>
+
+<style>
+.img_center {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!-- InstanceParam name="menu_section" type="text" value="data" --><!-- InstanceParam name="menu_item" type="text" value="" --><!-- InstanceParam name="left_sidebar" type="boolean" value="true" --><!-- InstanceParam name="standard_sidebar" type="boolean" value="true" --><!-- InstanceParam name="standard_page_content" type="boolean" value="true" --><!-- InstanceParam name="custom_page_class" type="text" value="" --><link href="https://pds.nasa.gov/pds-app-bar/pds-app-bar.css" type="text/css" rel="stylesheet"><link href="https://pds.nasa.gov/pds-app-bar/pds-app-bar.css" type="text/css" rel="stylesheet"><script src="https://pds.nasa.gov/pds-app-bar/pds-app-bar.js" type="text/javascript"></script><link href="https://pds.nasa.gov/pds-app-bar/pds-app-bar.css" type="text/css" rel="stylesheet"><link href="https://pds.nasa.gov/pds-app-bar/pds-app-bar.css" type="text/css" rel="stylesheet"><script src="https://pds.nasa.gov/pds-app-bar/pds-app-bar.js" type="text/javascript"></script></head><body class="sidebar menu_data menu_item_">
+<!--[if IE]>
+<div id="IE">
+<![endif]--> 
+
+<!-- Header -->
+<div id="header">
+<!--
+<div class="nonvisual">
+  <h2>Menu: Skip within this page</h2>
+  <ul>
+    <li><a href="#mainContent">Skip to main content</a></li>
+    <li><a href="#mainMenu">Skip to menu</a></li>
+  </ul>
+</div>
+-->
+<p id="logo">
+  <a href="https://pds.nasa.gov/index.shtml" onclick="this.blur()"><img src="https://pds-atmospheres.nmsu.edu/atmospage_files/nasa-logo.gif" alt="NASA logo" border="0" height="50" width="60">&nbsp;PDS: The Planetary Atmospheres Node</a><!--<span style="position: relative; left: -3em; bottom: -1em; color: rgb(255, 51, 51); font-size: 90%; font-family: 'Arial Black';">BETA</span> -->
+</p>
+
+<!--    
+<form id="dummyForm" action="/" method="get"></form>
+<script type="text/javascript">
+function setSearchAction(form, actionSelector) {
+    var baseAction = document.getElementById("dummyForm").action;
+    form.action = baseAction + actionSelector.value;
+    return true;
+}
+</script>-->
+<form id="search" action="https://atmos.nmsu.edu/cgi-bin/retrieve_lines" method="post" enctype="application/x-www-form-urlencoded">
+<input name="q" value="" type="hidden">
+<input name="facet" value="" type="hidden">
+<input name="in" value="all" type="hidden">
+<label for="searchPhrase">Search for:</label><br>
+<input id="searchPhrase" class="text" size="30" name="DATA_SET" type="text"> <input class="submit" value="Go" type="submit"><br>
+</select>
+</form>
+<h2 class="nonvisual">Menu: Help Links</h2>
+<ul id="nasaLinks">
+  <li><a href="https://www.nasa.gov/">NASA Portal</a></li>
+  
+</ul>
+<ul id="nasaLinks">
+<img src="https://atmos.nmsu.edu/images/PDS_Planets_comet.jpg" border="0" width="100" alt="pds logo">
+</ul>
+
+<div class="clear"></div>
+
+</div>
+<!-- Main menu -->
+
+<div id="menu">
+
+<a class="nonvisual" name="mainMenu"></a>
+
+<h2 class="nonvisual">Main menu</h2>
+<ul>
+  <li id="home"><a href="https://pds-atmospheres.nmsu.edu/">Home</a></li>
+  <li id="about"><a href="https://pds-atmospheres.nmsu.edu/about_t_node/about_t_node.htm">About Us</a></li>
+  <li id="data"><a href="https://pds-atmospheres.nmsu.edu/data_and_services/data_and_services.htm">Data and Services</a></li>
+  <li id="education"><a href="https://pds-atmospheres.nmsu.edu/education_and_outreach/education_and_outreach.htm">Education</a></li>
+  <li id="contact"><a href="https://pds-atmospheres.nmsu.edu/contact_us/contact_us.htm">Contact Us</a></li>
+  
+  <li id="external"><a href="https://pds-atmospheres.nmsu.edu/other_i_sites/other_i_sites.htm">External Links</a></li>
+
+</ul>
+
+<div class="clear"></div>
+</div>
+
+
+<div id="submenu">
+<div id="submenu">
+<div id="submenu_data_and_services">
+<h2 class="nonvisual">Home submenu</h2>
+<ul>
+<li id="data_catalog"><a href="https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/catalog.htm">Data Catalog</a>
+
+
+<li id="home_ads"><a href="https://ui.adsabs.harvard.edu//">ADS NASA Astrophysics Data System</a>
+<li id="home_nrs"><a href="https://nspires.nasaprs.com/external/solicitations/solicitations.do?method=open&stack=push">NASA Research Solicitations</a>
+<li id="home_abstracts"><a href="https://nspires.nasaprs.com/external/solicitations/solicitations.do?method=past&stack=push">Abstracts of Funded NASA Proposals</a>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+
+<!-- <ul id="submenu_standards"><li>&nbsp;</li></ul> -->
+
+<div class="clear"></div>
+</div>
+
+<!-- Sidebar -->
+
+<div id="sidebar">
+
+					<div class="sidebarSection">
+						<h2>Atmospheres data and related services</h2>
+						<ul>
+                                                        <li><a href="https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/atmospheres_data.htm">Atmospheres data</a></li>
+							<li><a href="https://pds-atmospheres.nmsu.edu/data_and_services/software/software.htm">Software</a></li>
+
+						</ul>
+					</div>
+					<div class="sidebarSection">
+						<h2>PDS Nodes</h2>
+						<ul>
+                                                        <li><a href="https://pds.nasa.gov/">PDS</a></li>
+							<li><a href="https://pds-atmospheres.nmsu.edu/">Atmospheres</a></li>
+							<li><a href="https://pds-geosciences.wustl.edu/">Geosciences</a></li>
+							<li><a href="https://pds-imaging.jpl.nasa.gov/">Cartography and Imaging</a></li>
+							<li><a href="https://naif.jpl.nasa.gov/naif/">Navigation &amp; Ancillary Information Facility&nbsp;(NAIF)</a></li>
+							<li><a href="https://pds-ppi.igpp.ucla.edu/">Planetary Plasma Interactions&nbsp;(PPI)</a></li>
+							<li><a href="https://pds-rings.seti.org/">Ring-Moon Systems</a></li>
+							<li><a href="https://pds-smallbodies.astro.umd.edu/">Small Bodies</a></li>
+						</ul>
+					</div>
+                                        <!-- InstanceBeginEditable name="leftSidebar" -->
+                                         <div class="sidebarSection2">
+                                         <h2><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/data_archive.html">Mars Summary Page</a></h2>
+                                         <ul class="news">
+                                         <li>&nbsp;<big>Mars Orbiter</big></li>
+                                         <div id="indenttext">
+                                         <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/mariner9.html">Mariner 9</a></li>
+                                         <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/vikingorbiter1.html">Viking Orbiter 1</a></li>
+                                         <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/vikingorbiter2.html">Viking Orbiter 2</a></li>
+                                         <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/mgs.html">Mars Global Surveyor</a></li>
+                                         <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/mars_odyssey.html">Mars Odyssey</a></li>
+                                         <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/mars_express.html">Mars Express</a></li>
+                                         <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/mars_reconnaissance_orbiter.html">Mars Reconnaissance Orbiter</a></li>
+<li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MAVEN/maven_main.html">MAVEN</a></li>
+
+                                         </div>
+                                         <li>&nbsp;<big>Mars Lander</big></li>
+                                         <div id="indenttext">
+                                           <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/viking/viking_lander.html">Viking Lander</a></li>
+                                           <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/pathfinder/pathfinder.html">Mars Pathfinder</a></li>
+                                           <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/MER/mer.html">Mars Exploration Rover</a></li>
+                                           <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/phoenix/phoenix.html">Mars Phoenix Lander</a></li>
+                                           <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MARS/curiosity/curiosity.html">Mars Science Laboratory - Curiosity</a></li>
+                                            <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/INSIGHT/insight.html">Insight</a></li>
+                                            <li><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/PERSEVERANCE/perseverance_rover.html">MARS 2020 - Perseverance</a></li>
+                                            <li><div id="indenttext"><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/PERSEVERANCE/meda.html">MEDA</a></div></li>
+                                            <li><div id="indenttext"><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/PERSEVERANCE/moxie.html">MOXIE</a></div></li>
+                                          </ul>
+                                          </div>
+                                          </div>
+
+				<!-- InstanceEndEditable -->
+</div>
+
+
+<!-- Main content -->
+<div id="content">
+<a name="mainContent"></a>
+<div>
+<!-- InstanceBeginEditable name="content" -->
+                                                <div style="border-top: 1px solid white; position: relative;">
+
+
+<!-- main content begin -->
+<h1><!-- InstanceBeginEditable name="pageTitle" --></h1><ul>
+  <img src="images/M2020-Patch-clear.png" style="top:10px; left:30px; position: absolute;" width="190">
+
+<br><br>
+<div id="banholder">
+ <div id="banner">
+    <div id="bannertext" style="font-family: Tahoma, Geneva">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to the Mars 2020 Perseverance Archive
+    </div>
+  </div>
+  <div id="banner2">
+    <div id="bannertext3" style="font-family: Tahoma, Geneva">
+    &nbsp;&nbsp;MEDA - Mars Environmental Dynamics Analyzer - CERTIFIED
+    </div>
+  </div>
+</div>
+<!--
+<img src="images/Main_Banner.jpg" width="850" alt="Main Banner" align="left">
+-->
+<div id="date_line">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feb 19, 2021 (Ls 6.1 MY 36) to [ongoing] </div>
+<br><br><br>
+
+<a href="images/meda_pic_2.png"><img src="images/meda_pic_2.png" width="600" class="img_center"  alt="" border="0" alt="MEDA pic"></a>
+<div id="smalltext4">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Location of MEDA Sensors onboard the Mars2020 rover Credit NASA/JPL-Caltech
+</div>
+<br><br>
+<div id="longertext">
+<b>Goal</b><br><br>
+The MEDA goal is to provide continuous measurements that characterize the diurnal to seasonal cycles of the local environmental dust properties (opacity, size distribution, and phase function) and their temporal response to meteorology, and the local near-surface environment (pressure, air and surface temperature, relative humidity, wind, and solar radiative forcing in the UV-visible-IR parts of the spectrum).
+<br><br>
+<div id="bigheader">The Instrument Package</div>
+<br>
+The MEDA instrument consists of a suite of sensors and a control unit, packaged in eleven enclosures:
+<br><br>
+<ul>
+<li>
+Wind Sensor, WS (two detectors, WS1 and WS2, placed on two booms)
+</li>
+<li>
+Air Temperature Sensor, ATS (five detectors: three of them placed on the RSM, and two more at the front of the rover body)
+</li>
+<li>
+Thermal Infra-Red Sensor, TIRS
+</li>
+<li>
+Relative Humidity Sensor, HS
+</li>
+<li>
+Radiation and Dust Sensor, RDS (it also includes the SkyCam imager)
+</li>
+<li>
+Pressure Sensor, PS (inside the Instrument Control Unit, ICU)
+</li>
+</ul>
+<br>
+Along with SKyCAM browse and images
+<br><br>
+The wind sensors are housed in two small Booms structures mounted orthogonal to the Remote Sensing Mast (RSM) of the Rover. Each Boom provides 6 wind sensor transducer boards on the head of the main boom cylinder. Booms include front-end mixed ASICs to condition and acquire the data from the wind sensors and to communicate serially with the Instrument Control Unit (ICU). 
+<br><br>
+The Thermal-Infrared Radiation Sensor (TIRS) is also mounted on the RSM and it is composed of 5 thermopiles pointing upward and downward to measure different ground and atmosphere temperatures in different infrared bands and the solar radiation reflected on the ground (albedo). 
+<br><br>
+The Humidity Sensor (HS) is directly mounted to the RMS as well. It contains up to three capacitive sensor heads sensitive to the ambient relative humidity.
+<br><br>
+
+The Radiation and Dust sensor (RDS) is mounted on the rover top deck and comprises of eight upward viewing UV photodetectors (8 photodiodes), 8 lateral viewing UV photodiodes (every photodiode looking 45º apart from the previous to cover the full 360º around the unit), a reference dark-current photodiode and an upward looking camera. The signals coming from these photodiodes and thermopiles will be routed to the ICU to be conditioned and digitized inside the ICU. The ICU will also control the camera through its power and data interfaces.
+<br><br>
+The instrument control unit, the ICU, is mounted upside-down to the Rover Avionics Mounting Panel (RAMP), inside the rover chassis just under the top deck. It plans and controls the sensors’ data acquisition, communicating with Rover Computer Element (RCE) and temporarily storing science and housekeeping data.
+<br><br>
+The pressure sensor (PS) is located with the ICU analog module but additionally uses a small tube to reach the Martian environment outside the rover. This tube passes through the ICU base plate, the RAMP, and into a cavity in the rover top deck. The opening is protected from dust and for planetary protection reasons by a cover that attaches to the rover top deck
+<br><br>
+The instrument will regularly make measurements throughout the Martian day and night, over the lifetime of the Mars 2020 mission.  To achieve these measurements, MEDA is designed primarily to operate from an autonomous, low-power “sleep” mode.  An internal timer wakes MEDA to take observations according to a pre-determined schedule, saves the data internally, and goes back to sleep.
+<br><br><br>
+<div id="bigheader">Useful Publications</div>
+<br>
+Farley, K.A., Williford, K.H., Stack, K.M. et al. <b>Mars 2020 Mission Overview.</b> <i>Space Sci Rev</i> <b>216,</b> 142 (2020). <a href="https://doi.org/10.1007/s11214-020-00762-y">https://doi.org/10.1007/s11214-020-00762-y</a>
+<br><br>
+Rodriguez-Manfredi, J.A., de la Torre Juárez, M., Alonso, A. et al. The Mars Environmental Dynamics Analyzer, MEDA. A Suite of Environmental Sensors for the Mars 2020 Mission. Space Sci Rev 217, 48 (2021). <a href="https://link.springer.com/article/10.1007/s11214-021-00816-9">https://link.springer.com/article/10.1007/s11214-021-00816-9</a>
+<br><br>
+Balaram, J., Aung, M. & Golombek, M.P. The <i>Ingenuity Helicopter</i> on the Perseverance Rover. <i>Space Sci Rev</i> <b>217</b>, 56 (2021). <a href="https://doi.org/10.1007/s11214-021-00815-w">https://doi.org/10.1007/s11214-021-00815-w</a>
+<br><br><br>
+<div id="bigheader">MEDA Documents</div>
+<br>
+Software Interface Specification <a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/document/meda_env_edr_sis.pdf">SIS for Raw Data (EDRs)</a>
+<br><br>
+Software Interface Specification <a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/document/meda_env_rdr_sis.pdf">SIS for processed, calibrated and derived data (RDR)</a>
+<br><br>
+<a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/readme.txt">README</a>
+<br><br>
+<a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/">The MEDA Bundle</a>
+<br><br>
+<b>Data</b><br>
+MEDA science data products are ASCII text comma-separated value (CSV) tables except for SkyCam, which are two-dimensional binary image arrays.
+See a <a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/readme.txt">summary</a> of the data.
+
+<br><br>
+<b><a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_raw_env/">Raw Data</a></b><br><br>
+MEDA data comes down in Science Data Frames (SDF) which contain a number of Science Data Products (SDP). These are converted into EDRs which are processed, using NAIF, calibration data and any other ancillary information needed to generate the RDR processed data products.
+<br><br>
+<b><a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_partially_processed_env/">Partially Processed Data</a></b><br>
+These data products contain data from processing at an intermediate step between the raw digital numbers obtained from sensors and the generation of physical environmental magnitudes. The magnitudes provided in these files are mainly voltages, intensities and resistances. Their main purpose is to facilitate engineering evaluation of the sensors’ health and trends.
+<br><br>
+<b><a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_calibrated_env/">Calibrated Data</a></b><br>
+These data are the least processed data products at which science environmental magnitudes are provided and include pressure, humidity, wind, temperatures and radiation. When a sensor subsystem has multiple detectors, the data provided are per individual detector. The processing applied to get the data for these data products is based exclusively on pre-landing calibration and post-landing adjustments (based on observed trends). Little or no assumptions of external conditions or models are made. 
+<br><br>
+In addition to science data from the sensor, there is also a calibrated engineering data product. The magnitudes contained within this data product have two purposes: to be used in the generation of calibrated data and to help evaluate the health of MEDA from an engineering point-of-view. 
+<br><br>
+Some data products have some additional “flag” fields noting additional factors that could have an impact on the reliability of the measurements, such as shadows, noise sources or blocking objects. When those fields exist, a general convention is used in which a value of “1” represents a good condition (e. g. the possible source of noise is off), and “0” represents a bad condition
+<br><br>
+<a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_derived_env/sol_0000_0089/">Included in the Derived directory</a> there is a file with “ANCILLARY” in the file name that is a second-by-second geometry data set relevant for the interpretation of the data, such as the relative position of the sun, rover location and orientation.
+<br><br>
+
+<b><a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_derived_env/">Derived Data</a></b><br><br>
+Derived data are what most users wanting to work MEDA’s data will want, when available for a particular sensor.
+<br><br>
+Derived data products are processed from calibrated data products using assumptions or models. For some sensors, this is necessary to provide a unique magnitude when there are several detectors involved (e. g. pressure or wind). For other sensors, such as TIRS, there are further assumptions on external conditions not used in calibrated data products. Not all sensors have derived data products.
+<br><br>
+In addition to science derived data, there is also a special <a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_derived_env/sol_0000_0089/">data product</a>, called ancillary data, that contains geometry information that may have an impact in the sensors’ measurements, such as the position of the sun, RSM head or rover speed. This information is calculated using the NAIF SPICE tool kit. It is provided as part of the MEDA dataset for convenience.
+<br><br><br>
+<b>SkyCam Data</b><br>
+<br>
+
+
+
+<div id=indenttext">
+<a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_skycam/">Images taken by SkyCam</a> and <a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/browse_skycam/">browse products</a> are available.
+<br><br>
+The documentation for SkyCam is included in the <a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/PERSEVERANCE/logs/Mars2020_Camera_SIS.pdf">Software Interface Specifications document</a> for all the cameras on MARS2020 (See section 2.6 for camera characteristics). Also see <a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/readme.txt">README</a>.&nbsp;&nbsp;  Browse images are available for files corresponding to various levels of processing.
+<br><br>
+Indexes to facilitate recovery at the file level are available (note: browse images are not available for all images.  They can be compared with data file via the SOL number.
+<br>
+<!--
+<div id="indenttext">
+Indexes for raw images — <a href="logs/MARS2020_SKYCAM_RAW_Data_Del-1-9.htm">Image index</a> (<a href="logs/MARS2020_SKYCAM_RAW_Data_Del-1-9.csv">csv</a>)— <a href="logs/MARS2020_SKYCAM_RAW_Browse_del-1-9.htm">Browse index</a> (<a href="logs/MARS2020_SKYCAM_RAW_Browse_del-1-9.csv">csv</a>)<br>
+Indexes for partially processed images — <a href="logs/MARS2020_SKYCAM_Partial_Data_Del-1-9.htm">Image index</a> (<a href="logs/MARS2020_SKYCAM_Partial_Data_Del-1-9.csv">csv</a>) — <a href="logs/MARS2020_SKYCAM_Partial_Browse_Del-1-9.htm">Browse index</a> (<a href="logs/MARS2020_SKYCAM_Partial_Browse_Del-1-9.csv">csv</a>)<br>
+Indexes for calibrated images — <a href="logs/MARS2020_SKYCAM_Calibrated_Data_Del-1-9.htm">Image index</a> (<a href="logs/MARS2020_SKYCAM_Calibrated_Data_Del-1-9.csv">csv</a>)— <a href="logs/MARS2020_SKYCAM_Calibrated_Browse_Del-1-9.htm">Browse index</a> (<a href="logs/MARS2020_SKYCAM_Calibrated_Browse_Del-1-9.csv">csv</a>)
+</div>
+-->
+ 
+
+</div>
+<br><br>
+<b>Selected data can be retrieved in 2 ways</b>
+<br><br>
+<b>1) Downloading an index, selecting components and uploading your selection.</b>
+<br><br>
+Indices that tabulate information associated with each product are available.
+<br><br>
+ 
+
+a.  Select your index
+<br><br>
+<div id="indenttext">
+<b>Calibrated Indexes</b><br><br>
+<a href="logs/mars2020_meda_calibrated_ATS.htm">ATS - Air Temperature Sensor</a> (<a href="logs/mars2020_meda_calibrated_ATS.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_calibrated-ENG.htm">ENG - Engineering</a> (<a href="logs/mars2020_meda_calibrated-ENG.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_calibrated-PS.htm">PS - Pressure Sensor</a> (<a href="logs/mars2020_meda_calibrated-PS.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_calibrated_RDS.htm">RDS - Radiation and Dust Sensor</a> (<a href="logs/mars2020_meda_calibrated_RDS.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_calibrated-RHS.htm">RHS -Relative Humidity Sensor</a> (<a href="logs/mars2020_meda_calibrated-RHS.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_calibrated-TIRS.htm">TIRS -Thermal Infrared Sensor</a> (<a href="logs/mars2020_meda_calibrated-TIRS.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_calibrated-WIND.htm">WIND – Wind Sensor</a> (<a href="logs/mars2020_meda_calibrated-WIND.csv">csv</a>)<br><br>
+<!--
+Skycam  —  The documentation for SkyCam is included in the <a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/PERSEVERANCE/logs/Mars2020_Camera_SIS.pdf">Software Interface Specifications document</a> for all the cameras on MARS2020 (See section 2.6 for camera characteristics). Also see <a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/readme.txt">README</a>.&nbsp;&nbsp;  Browse images are available for files corresponding to various levels of processing.
+-->
+
+<!--
+An <a href="logs/mars_2020_meda_data_and_browse_skycam.htm">index</a> (<a href="logs/mars_2020_meda_data_and_browse_skycam.csv">csv</a>) that combines browse images with corresponding data levels is provided.
+-->
+
+
+<b>Derived Indexes</b><br><br>
+<a href="logs/mars2020_meda_derived_ancillary.htm">ANC – Ancillary Data</a> (<a href="logs/mars2020_meda_derived_ancillary.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_derived_PS.htm">PS – Pressure Sensor Data</a> (<a href="logs/mars2020_meda_derived_PS.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_derived_RHS.htm">RHS-Relative Humidity Sensor</a> (<a href="logs/mars2020_meda_derived_RHS.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_derived_TRS.htm">TIRS -Thermal Infrared Sensor</a> (<a href="logs/mars2020_meda_derived_TRS.csv">csv</a>)<br><br>
+<a href="logs/mars2020_meda_derived_wind.htm">WIND – Wind Sensor</a> (<a href="logs/mars2020_meda_derived_wind.csv">csv</a>)<br><br>
+<!--<a href="logs/mars_2020_meda_data_skycam_del1-2.htm">Skycam</a> (<a href="logs/mars_2020_meda_data_skycam_del1-2.csv">csv</a>)-->
+</div>
+<br>
+<b>SkyCam Indexes</b><br><br>
+
+
+Indexes to facilitate recovery at the file level are available (note: browse images are not available for all images.  They can be compared with data file via the SOL number.
+<br>
+
+<div id="indenttext">
+Indexes for raw images — <a href="logs/mars2020_meda_SkyCAm_raw.htm">Image index</a> (<a href="logs/mars2020_meda_SkyCAm_raw.csv">csv</a>)— <a href="logs/maes2020_meda_1-SkyCam_Brouse_raw.htm">Browse index</a> (<a href="logs/maes2020_meda_1-SkyCam_Brouse_raw.csv">csv</a>)<br>
+Indexes for partially processed images — <a href="logs/mars2020_meda_SkyCAm_partially processed.htm">Image index</a> (<a href="logs/mars2020_meda_SkyCAm_partially processed.csv">csv</a>) — <a href="logs/maes2020_meda_1-SkyCam_Brouse_partially_processed.htm">Browse index</a> (<a href="logs/maes2020_meda_1-SkyCam_Brouse_partially_processed.csv">csv</a>)<br>
+Indexes for calibrated images — <a href="logs/mars2020_meda_SkyCAm_calibrated.htm">Image index</a> (<a href="logs/mars2020_meda_SkyCAm_calibrated.csv">csv</a>)— <a href="logs/maes2020_meda_1-SkyCam_Brouse_calibrated.htm">Browse index</a> (<a href="logs/maes2020_meda_1-SkyCam_Brouse_calibrated.csv">csv</a>)
+</div>
+
+
+<br><br>
+b.  Sort and make your selection
+<br><br>
+<a href="retrieving_mars2020.html">c.  Upload the URN values from your revised index (note the total uncompressed file size before requesting)</a>
+<br><br>
+ 
+<b>2)  Selecting specific parameters and requesting limited data files</b>
+<br><br>
+<b>Downloading annual collections of data</b><br>
+<table>
+<tr><td><a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/meda_calibrated.tar.gz">MEDA CALIBRATED</a> (10 GB)</td><td><a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/meda_derived.tar.gz">MEDA DERIVED</a> (2.9 GB)</td><td><a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/meda_processed.tar.gz">MEDA PROCESSED</a> (15.3 GB)</td><td><a href="https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/meda_skycam.tar.gz">MEDA SKYCAM</a> (35.2 GB)</td></tr>
+</table>
+<br><br>
+<b>Citing datasets for publication</b><br>
+J.A. Rodriguez-Manfredi et al. (2021), The Mars Environmental Dynamics Analyzer, MEDA, NASA Planetary Data System, DOI 10.17189/1522849
+<br><br>
+<b><a href="https://atmos.nmsu.edu/data_and_services/atmospheres_data/MAVEN/naif.html">Spice</a></b> - Archived SPICE ancillary data providing observation geometry (positions, orientations, instrument pointing, time conversions, etc.) are available from the PDS NAIF Node.
+<br><br>
+
+<div class="clear"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<!-- main content end -->
+						</div>
+					<!-- InstanceEndEditable -->
+</div>
+</div>
+
+
+
+<div id="footer" style="color: black; background: #CCCCCC; vertical-align: middle;">
+  <a href="https://www.nasa.gov/"><img class="left" src="https://pds-atmospheres.nmsu.edu/atmospage_files/usa-gov.gif" alt="Link to www.usa.gov" border="0"></a>
+
+  <p class="left">
+<a href="https://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy</a> / <a href="https://www.jpl.nasa.gov/imagepolicy/">Copyright</a><br />
+<a href="https://www.hq.nasa.gov/office/pao/FOIA/">Freedom of Information Act</a>
+  </p>
+  
+  <p class="right">
+Curator: <a href="mailto:lhuber@nmsu.edu">Lyle Huber</a><br />
+ATM Mgr: <a href="mailto:nchanove@nmsu.edu">Nancy Chanover</a><br />
+Last updated:
+<script>
+  document.write(lastMod());
+</script>
+ 
+  </p>
+  
+  <img class="right" src="https://pds-atmospheres.nmsu.edu/atmospage_files/nasa-logo-small.gif" alt="Small NASA logo">
+  
+  <div style="clear: both;"></div>
+</div>
+
+
+    <!--[if IE]>
+    </div>
+    <![endif]--> 
+  <!-- InstanceEnd --></body></html>
+sure-sensor_derived.htm

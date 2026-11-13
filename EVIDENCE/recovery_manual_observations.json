@@ -1,0 +1,43 @@
+{
+  "observedAtUTC": "2026-11-13T06:37:23.372854+00:00",
+  "browser": "Linux Qt WebEngine / ANGLE SwiftShader (software rendering)",
+  "checks": [
+    {
+      "name": "Current crew screen displays six recovered head/suit meshes",
+      "status": "PASS structure; FAIL approved artistic quality"
+    },
+    {
+      "name": "Mission Ops Compare / Reserve / Execute navigation",
+      "status": "PASS; corrected integrated regression separately recorded"
+    },
+    {
+      "name": "Keyboard W drives ATLAS, HUD changes from 0.0 to 0.4 m/s",
+      "status": "PASS"
+    },
+    {
+      "name": "Audio button activation, world to home to Atlas navigation",
+      "status": "PASS navigation; perceived audio not verified"
+    },
+    {
+      "name": "Home, crew, Atlas, Mission Ops and Stages 01/03/07/09/10 rendered",
+      "status": "PASS asset/page rendering; FAIL approved AAA appearance"
+    }
+  ],
+  "screenshots": [
+    "recovery_atlas.png",
+    "recovery_campaign_pass.png",
+    "recovery_crew.png",
+    "recovery_home.png",
+    "recovery_ops.png",
+    "recovery_ops_explorer.png",
+    "recovery_stage01.png",
+    "recovery_stage03.png",
+    "recovery_stage07.png",
+    "recovery_stage09.png",
+    "recovery_stage10.png"
+  ],
+  "consoleLevels": {
+    "JavaScriptConsoleMessageLevel.InfoMessageLevel": 427
+  },
+  "performance": "Not benchmarked. Severe software-rendering latency; no RTX, mobile or headset claim."
+}

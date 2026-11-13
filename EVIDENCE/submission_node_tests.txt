@@ -1,0 +1,41 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> ares-pathfinder@0.3.0 test
+> node --test tests/*.test.mjs
+
+✔ A* flat-grid distance equals independent octile optimum (4.753371ms)
+✔ NoData and invalid endpoints cannot be crossed (1.134365ms)
+✔ Diagonal corners cannot cut through blocked cells (2.867801ms)
+✔ Metric slope cap rejects steep cliffs (0.41104ms)
+✔ Risk mode detours around rough cells while fast takes shortest (1.237156ms)
+✔ New hazard changes an existing valid route (2.774004ms)
+✔ Round trip budgets reject time, O2 and battery failures (0.653369ms)
+✔ Route statistics preserve metric ascent and travel time (5.505751ms)
+✔ All ten missions have distinct typed physical sequences (1.246274ms)
+✔ Distance and wrong evidence cannot advance any first objective (3.169996ms)
+✔ Physical mode and actual rover distance gate traversal (1.269001ms)
+✔ Sample sealing requires correct identity and intact recovered core (1.204245ms)
+✔ All ten stages fail on exhausted resources and permit checkpoint recovery (1.891923ms)
+✔ Rewards require completion and cannot be duplicated (1.684524ms)
+✔ Progress round-trip and equipment transaction preserve state (0.647693ms)
+✔ Exported astronaut contains actual skin weights, 18 bones and 17 clips (22.397621ms)
+✔ Three NASA vehicles have animated wheel, rotor and limb articulation nodes (29.192086ms)
+✔ All 32 processed NASA terrain tiles load finite valid measurements (64.738048ms)
+✔ Six individually exported heads and skinned EVA meshes are present (60.717081ms)
+✔ Photogrammetry scan and dense LOD are actual imported meshes (34.721063ms)
+✔ Final expedition requires physical ALPHA repair before convoy (0.260518ms)
+✔ Modeled radiation limit can reject an otherwise feasible EVA (0.579024ms)
+✔ All 10 missions provide actionable task guidance and habitat return directions (3.02261ms)
+✔ Auto-docking only when astronaut is alive, all prior objectives completed and near habitat (2.903457ms)
+✔ Dock awards final task only when reached with required proof, then save logic can unlock next stage (1.06821ms)
+✔ Planning rejects NaN, Infinity and negative resource budgets (2.201031ms)
+✔ Shortest baseline ignores modeled hazard cost while safer path detours (5.412144ms)
+✔ All processed tile borders share exact DTM samples and optical coverage (32.509221ms)
+ℹ tests 28
+ℹ suites 0
+ℹ pass 28
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 533.756416

@@ -1,0 +1,1116 @@
+# ARES PATHFINDER
+## Complete Homepage, UI/UX, Features & 10-Stage Interactive Gameplay Description
+
+**Project Name:** ARES PATHFINDER  
+**Team:** PROXIMA  
+**Project Concept:** NASA Data-Driven Mars Exploration, Scientific Mission Planning & Immersive 3D Adventure
+
+---
+
+# PART 1 — HOMEPAGE UI & DESIGN
+
+## 1. Homepage — Full Visual Description
+
+ARES PATHFINDER-এর Homepage হবে একটি premium, photorealistic, cinematic, interactive 3D Mars environment, যেখানে website খোলার সঙ্গে সঙ্গে ব্যবহারকারী সত্যিকারের মঙ্গলের পরিবেশের মতো একটি বিশাল Martian landscape দেখতে পাবে।
+
+এটি সাধারণ website landing page-এর মতো হবে না। পুরো screen জুড়ে থাকবে realistic 3D Mars surface, যেখানে দূরে বড় বড় পাহাড়, rocky terrain, crater-এর অংশ, Martian dust, natural shadows এবং horizon দেখা যাবে। আকাশ হবে Mars-এর বাস্তব atmospheric conditions অনুযায়ী dusty orange, yellow-brown বা হালকা salmon colour-এর।
+
+Homepage-এর মূল আকর্ষণ হবে একটি অত্যন্ত detailed **ATLAS-6 Mars Rover**, একটি উড়ন্ত **SKYSCOUT Drone** এবং দূরে একটি futuristic Mars research base। Rover-টি স্থির ছবির মতো থাকবে না—ধীরে ধীরে চলবে, তার ছয়টি wheel ঘুরবে, suspension terrain-এর সঙ্গে react করবে এবং camera/sensor mast ডানে-বাঁয়ে scan করবে।
+
+SKYSCOUT Drone-টি আকাশে ধীরে বাম দিক থেকে ডান দিকে উড়বে, rotor ঘুরবে এবং altitude ও position সামান্য adjust করবে। Drone এবং Rover উভয়ের movement বাস্তব 3D animation দিয়ে তৈরি হবে।
+
+ব্যবহারকারী mouse নড়ালে 3D camera-তে সামান্য parallax movement হবে, যাতে Mars-এর landscape-এ depth অনুভব করা যায়। তবে camera অস্বাভাবিকভাবে ঘুরবে না এবং website-এর buttons ব্যবহার করতে সমস্যা হবে না।
+
+পুরো visual style হবে professional aerospace mission interface-এর মতো—dark charcoal/navy, rust-orange highlights, limited cyan accents, realistic lighting এবং minimal UI।
+
+### Homepage-এ দৃশ্যমান UI elements
+
+1. **Logo:** উপরের বাম পাশে ARES PATHFINDER-এর original logo।
+2. **Project Title:** বড় করে `ARES PATHFINDER`।
+3. **Navigation Bar:** `MARS ATLAS` | `MARS ODYSSEY` | `MISSION OPS` | `PROFILE`
+4. **START EXPEDITION Button:** Interactive adventure শুরু করার প্রধান button।
+5. **EXPLORE ATLAS Button:** NASA data-based Mars map-এ যাওয়ার button।
+6. **3D Rover:** Realistically moving ATLAS-6।
+7. **Flying Drone:** Animated SKYSCOUT।
+8. **Mars Base:** Futuristic research station in the background।
+9. **Mars Terrain:** Detailed rocks, dusty soil, distant ridges এবং realistic horizon।
+10. **Mouse Interaction:** Gentle camera movement এবং scene depth।
+
+Homepage-এ কোনো astronaut character থাকবে না। পুরোনো tagline, অতিরিক্ত description, unnecessary statistics, বড় dashboard, `OFFLINE DEMO` label কিংবা decorative bottom disclaimer থাকবে না।
+
+### Homepage-এর animations
+
+- Rover 2–4 metre-এর মতো ছোট staging loop-এ ধীরে চলবে।
+- Wheel rotation এবং suspension terrain-এর সঙ্গে synchronised হবে।
+- Rover camera mast প্রায় ±35° scan করবে।
+- Drone smoothly বাম থেকে ডানে যাবে এবং পুনরায় loop করবে।
+- Dust particles ও shadow subtleভাবে পরিবর্তিত হবে।
+- Mars sky scene-এর time অনুযায়ী render হবে।
+- Mouse movement অনুযায়ী camera-তে gentle cinematic parallax হবে।
+- 3D assets load হওয়ার সময় lightweight fallback scene থাকবে।
+- Homepage-এর সব navigation এবং CTA buttons বাস্তবে কাজ করবে।
+
+---
+
+# PART 2 — HOMEPAGE থেকে PROJECT-এ প্রবেশের সম্পূর্ণ FLOW
+
+## 2. START EXPEDITION
+
+ব্যবহারকারী যখন `START EXPEDITION`-এ click করবে, তখন শুরু হবে Mars Odyssey-এর interactive adventure experience।
+
+প্রথমবার খেলার সময় একটি optional cinematic sequence থাকবে, যেখানে পৃথিবী থেকে Mars-এর উদ্দেশ্যে spacecraft যাত্রা করবে।
+
+### Cinematic Experience
+
+1. Earth-এর orbit থেকে spacecraft departure।
+2. মহাকাশের মধ্য দিয়ে Mars-এর দিকে যাত্রা।
+3. দূর থেকে Mars planet-এর appearance।
+4. Mars orbit-এর কাছে spacecraft approach।
+5. Atmospheric entry এবং landing sequence।
+6. Mars landing zone-এ spacecraft touchdown।
+7. Mars Base এবং surrounding landscape প্রকাশ।
+8. এরপর Character Selection Screen।
+
+এই cinematic sequence skip করার button থাকবে। Returning player সরাসরি `CONTINUE MISSION` দিয়ে saved progress থেকে শুরু করতে পারবে।
+
+### Character Selection
+
+ব্যবহারকারী ছয়জন astronaut-এর মধ্যে একজনকে নির্বাচন করবে। এরপর rover, equipment ও mission নির্বাচন করবে।
+
+### Stage Selection
+
+প্রথমে Stage 1 unlocked থাকবে। Stage 1 successfully শেষ করলে Stage 2 unlock হবে। এভাবে Stage 10 পর্যন্ত এগোবে।
+
+## 3. EXPLORE ATLAS
+
+`EXPLORE ATLAS`-এ click করলে ব্যবহারকারী সরাসরি Mars-এর interactive scientific map-এ যাবে।
+
+সেখান থেকে Mars-এর বিভিন্ন location নির্বাচন, geological data দেখা, 3D world-এ প্রবেশ এবং scientific route planning করা যাবে।
+
+---
+
+# PART 3 — COMPLETE PROJECT FEATURES
+
+## Feature 1 — NASA Data-Based Mars Atlas
+
+Mars Atlas হবে Project-এর মূল scientific exploration system।
+
+এখানে Mars-এর বিভিন্ন গুরুত্বপূর্ণ location দেখানো হবে। ব্যবহারকারী সেগুলো search, select এবং explore করতে পারবে।
+
+**Locations:**
+
+- Jezero Crater
+- Gale Crater
+- Olympus Mons
+- Nili Fossae
+- Elysium Planitia
+- Noctis Labyrinthus
+- Valles Marineris
+- Martian South Polar Region
+
+প্রতিটি location-এ terrain এবং available scientific data আলাদাভাবে দেখানো হবে। যেখানে verified high-resolution data নেই, সেখানে reconstructed বা illustrative terrain স্পষ্টভাবে চিহ্নিত থাকবে।
+
+## Feature 2 — Interactive Planetary Map
+
+Mars map-এ zoom, pan, location selection এবং available science layers control করার সুবিধা থাকবে।
+
+Map-এর location-এ click করলে তার scientific details দেখা যাবে।
+
+সেখান থেকে দুটি প্রধান action পাওয়া যাবে: `ENTER 3D WORLD` এবং `PLAN ROUTE`।
+
+## Feature 3 — Multiple NASA Scientific Layers
+
+Mars Atlas-এ নিম্নলিখিত data layers থাকবে:
+
+1. **Optical Imagery:** Mars surface-এর NASA spacecraft imagery।
+2. **Elevation:** পাহাড়, crater, slope এবং surface height।
+3. **Thermal:** যেখানে available, historical/regional thermal measurements।
+4. **Mineral:** CRISM-এর মতো source-এর mineral observations।
+5. **Terrain Hazard:** Slope, roughness, obstacles এবং route difficulty।
+6. **Atmospheric Data:** Relevant historical Mars weather observations।
+7. **Data Uncertainty:** Measured, derived, modeled এবং reconstructed তথ্য আলাদা করে দেখানো।
+
+এখানে NASA-এর available observations ব্যবহার করা হবে; unavailable জায়গায় fabricated scientific measurements দেখানো যাবে না।
+
+## Feature 4 — Immersive 3D Mars Digital Twin
+
+Mars Atlas-এর কোনো location নির্বাচন করে ব্যবহারকারী সেই জায়গার corresponding 3D environment-এ প্রবেশ করতে পারবে।
+
+3D world-এ থাকবে:
+
+- Realistic rocky surfaces
+- Mountains এবং crater rims
+- Sand dunes
+- Valleys এবং canyon walls
+- Dust-covered ground
+- Mineral-rich formations
+- Polar frost, appropriate regions-এ
+- Terrain elevation ও shadows
+- Realistic astronaut এবং vehicles
+- Scientific instruments
+- Distant Martian horizon
+
+বিশ্বটি দেখতে অনেক বড় এবং প্রায় endless মনে হবে। এজন্য terrain streaming, Level of Detail এবং distant horizon rendering ব্যবহার করা হবে।
+
+তবে NASA-এর measured coverage-এর বাইরে procedural landscape-কে measured terrain বলা হবে না।
+
+## Feature 5 — Realistic Martian Sky
+
+Mars-এর আকাশ পৃথিবীর মতো নীল হবে না।
+
+Environment-এর location, sol, season এবং atmospheric condition অনুযায়ী sky পরিবর্তিত হবে।
+
+**Sky states:**
+
+- Early Morning — dusty beige, low sunlight।
+- Midday — yellow-tan/orange atmosphere।
+- Evening — Sun-এর কাছে subtle bluish sunset glow।
+- Night — dark sky, suitable stars এবং spacecraft lights।
+- Dust Storm — reduced visibility, orange-grey haze।
+- Polar Region — low Sun, long shadows এবং cold illumination।
+
+আকাশে position ও visibility বাস্তবসম্মত হলে Sun, Earth, অন্যান্য গ্রহ, Phobos ও Deimos দেখানো হবে। পৃথিবী বিশাল গোলকের মতো Mars-এর আকাশে ঝুলে থাকবে না।
+
+## Feature 6 — Realistic Mars Audio & Sound System
+
+Project-এ পৃথিবীর মতো বাতাস, পাখির ডাক, বৃষ্টি কিংবা সাধারণ outdoor sound ব্যবহার করা হবে না।
+
+Mars-এর thin CO₂ atmosphere অনুযায়ী sound attenuation-এর simulation থাকবে।
+
+**Audio categories:**
+
+- Astronaut helmet breathing।
+- Life-support fan এবং oxygen system।
+- Radio communications।
+- Suit movement এবং surface contact।
+- Rover motor ও wheel vibrations।
+- Drone rotor এবং movement sounds।
+- Robotic arm servo sounds।
+- Scientific scanner এবং drilling।
+- Sampling ও equipment placement।
+- Dust storm microphone effects।
+- Warning এবং emergency alerts।
+- Mission achievement sounds।
+- Optional cinematic background music।
+
+Astronaut helmet-এর ভেতরের sound, external Mars microphone recording এবং cinematic game audio আলাদা mode হিসেবে থাকবে।
+
+NASA Perseverance-এর historical audio references ব্যবহার করা যাবে, তবে সেগুলোকে live Mars audio হিসেবে দেখানো হবে না।
+
+## Feature 7 — Third-Person & First-Person Exploration
+
+Player astronaut-কে third-person view-তে control করতে পারবে।
+
+Camera astronaut-এর পেছনে থেকে movement follow করবে।
+
+প্রয়োজন অনুযায়ী first-person view-ও ব্যবহার করা যাবে, বিশেষ করে scientific observation, scanning এবং VR exploration-এ।
+
+Camera terrain, rocks এবং obstacles-এর সঙ্গে collision-aware হবে।
+
+## Feature 8 — Six Playable Astronauts
+
+মোট ছয়জন playable character থাকবে।
+
+| Character | Role |
+|---|---|
+| Leon | Mission Commander |
+| Ethan | Engineer |
+| Orion | Navigator |
+| Sadia | Mission Commander |
+| Amelia | Scientist |
+| Noor | Explorer |
+
+সব astronaut-এর আলাদা suit appearance, details, identifier এবং visual personality থাকবে।
+
+Character models হবে detailed 3D rigged models।
+
+**Animations:**
+
+- Idle
+- Walk
+- Run
+- Turn
+- Jump/step
+- Crouch
+- Climb
+- Scan
+- Sample collection
+- Equipment repair
+- Flag placement
+- Instrument interaction
+
+শুধু character selection portrait নয়—actual gameplay-এ model এবং animation কাজ করতে হবে।
+
+কোনো character কেবল gender-এর কারণে mechanical advantage পাবে না। Gameplay ability equipment এবং mission condition-এর উপর নির্ভর করবে।
+
+## Feature 9 — Three Interactive Rover/Robot Classes
+
+### ATLAS-6 — Ground Rover
+
+ছয় চাকার Mars rover।
+
+Features:
+
+- Manual driving।
+- Wheel steering এবং suspension।
+- Terrain-aware movement।
+- Cargo transportation।
+- Rough-ground navigation।
+- Sand traction।
+- Equipment towing।
+- Battery consumption।
+
+### SKYSCOUT — Aerial Drone
+
+Mars scouting drone।
+
+Features:
+
+- Controlled flight।
+- Rotor animation।
+- Aerial terrain inspection।
+- Canyon scouting।
+- Mission waypoint observation।
+- Limited battery ও flight time।
+- Atmospheric এবং dust-related flight restrictions।
+
+### ALPHA — Utility Robot
+
+Articulated robotic support system।
+
+Features:
+
+- Robotic manipulator arm।
+- Sample handling।
+- Communication relay installation।
+- Equipment repair।
+- Object pickup ও placement।
+- Precision mission assistance।
+
+তিনটি vehicle-ই functional হবে। কেবল decorative 3D model হিসেবে থাকবে না।
+
+## Feature 10 — Rover Garage & Equipment Bay
+
+এখানে Player নিজের rover এবং mission equipment নির্বাচন করতে পারবে।
+
+Vehicle preview, capabilities, battery status এবং available upgrades দেখা যাবে।
+
+নির্বাচিত rover mission-এর সঙ্গে যাবে এবং প্রয়োজন অনুযায়ী player সেটি control করতে পারবে।
+
+## Feature 11 — Intelligent Mission Ops
+
+Mission Ops হবে Mars exploration-এর scientific decision-making system।
+
+ব্যবহারকারী যেকোনো available region থেকে science target নির্বাচন করে mission plan করতে পারবে।
+
+System route calculate করার সময় বিবেচনা করবে:
+
+- Distance
+- Slope
+- Terrain roughness
+- Obstacles
+- Travel time
+- Oxygen consumption
+- Energy requirements
+- Radiation exposure assumptions
+- Return reserve
+- Terrain-data uncertainty
+
+## Feature 12 — A* Intelligent Route Planning
+
+A* pathfinding algorithm ব্যবহার করে route planning করা হবে।
+
+Player তিন ধরনের route compare করতে পারবে:
+
+1. **Fastest Route:** সবচেয়ে দ্রুত পৌঁছানোর পথ।
+2. **Lower-Hazard Route:** তুলনামূলক কম ঝুঁকিপূর্ণ পথ।
+3. **Reserve-Conserving Route:** নিরাপদ return reserve বজায় রাখার উপযোগী পথ।
+
+Route-এর distance, estimated travel time, slope এবং resource cost দেখানো হবে।
+
+কোনো route infeasible হলে সেটি approve করা যাবে না। AI শুধু ব্যাখ্যা করবে; hard safety calculations override করবে না।
+
+## Feature 13 — Safe Return & Emergency Abort
+
+Mars-এ expedition মানেই শুধু destination-এ পৌঁছানো নয়; নিরাপদে ফিরে আসাও বাধ্যতামূলক।
+
+System player-এর current location এবং remaining resources অনুযায়ী return feasibility calculate করবে।
+
+Oxygen কমে গেলে, battery dangerously low হলে অথবা hazard তৈরি হলে system সতর্ক করবে।
+
+Player emergency return, replan অথবা available recovery mechanism ব্যবহার করতে পারবে।
+
+## Feature 14 — Mission Resource Management
+
+প্রতিটি mission-এ থাকবে actual game-state-based resources:
+
+- Oxygen
+- Battery/Power
+- Mission time
+- Safe-return reserve
+- Equipment capacity
+- Payload weight
+- Rover energy
+- Communication availability
+- Thermal constraints
+- Radiation-risk assumptions
+
+Resource ব্যবহার করলে HUD-এর values পরিবর্তিত হবে। এগুলো fixed বা decorative percentages হবে না।
+
+## Feature 15 — Scientific Interaction System
+
+Player Mars-এর বিভিন্ন science task বাস্তবে interact করে সম্পন্ন করবে।
+
+উদাহরণ:
+
+- Rock scanning
+- Mineral observation
+- Surface photography
+- Sample collection
+- Core drilling
+- Sensor installation
+- Thermal measurements
+- Communication relay placement
+- Survey marker deployment
+- Rover equipment recovery
+- Scientific data recording
+
+প্রতিটি action-এর animation, task state, result এবং feedback থাকবে।
+
+## Feature 16 — Country Flag Placement
+
+Player নিজের country নির্বাচন করতে পারবে।
+
+Mission অনুযায়ী Mars surface-এর appropriate location-এ সেই দেশের flag physically স্থাপন করতে পারবে।
+
+Astronaut flag হাতে নিয়ে নির্ধারিত স্থানে যাবে, pole ground-এ বসাবে এবং flag deployment animation সম্পন্ন করবে।
+
+Flag স্থাপনের পরে photo অথবা panorama capture করতে পারবে।
+
+এটি symbolic in-game achievement, NASA-এর বাস্তব Mars expedition নয়।
+
+## Feature 17 — Dynamic Environmental Hazards
+
+Mars environment সবসময় সহজ থাকবে না।
+
+Mission ও region অনুযায়ী hazard তৈরি হতে পারে:
+
+- Dust storms
+- Low visibility
+- Dangerous slopes
+- Loose sand
+- Rover wheel slip
+- Canyon obstacles
+- Communication failures
+- Low battery
+- Equipment malfunction
+- Thermal stress
+- Polar frost
+- Emergency rescue situations
+
+Hazard gameplay-কে প্রভাবিত করবে, শুধু cinematic effect হিসেবে থাকবে না।
+
+## Feature 18 — Interactive Game HUD
+
+Gameplay শুরু হলে পুরো viewport-এ Mars world দেখা যাবে।
+
+**Top-left:**
+- Current mission objective
+- Immediate subgoals
+- Oxygen
+- Power
+- Return reserve
+
+**Top-centre:**
+- Compass
+- Direction indicator
+
+**Top-right:**
+- Circular minimap
+- Player position
+- Waypoint
+- Current route
+- Destination
+
+**Right side, directly below minimap:**
+- Circular movement wheel / virtual joystick
+
+**Bottom action controls:**
+- MAP
+- ROVER
+- INTERACT
+- SLIDE
+- JUMP
+- RUN / BOOST
+
+HUD হবে compact ও translucent, যাতে Mars world দেখতে বাধা না হয়।
+
+## Feature 19 — Desktop, Mobile & VR Controls
+
+| Action | Desktop | Mobile |
+|---|---|---|
+| Move | WASD / Arrow Keys | Right-side joystick |
+| Camera | Mouse movement/drag | Screen drag |
+| Run | Shift | RUN |
+| Jump | Space | JUMP |
+| Interact | E | INTERACT |
+| Rover Control | R | ROVER |
+| Map | M | MAP |
+| Slide/Crouch | Ctrl/C | SLIDE |
+| Pause | ESC | Pause control |
+
+VR headset ব্যবহার করলে compatible WebXR controller input এবং comfortable view system থাকবে।
+
+Unverified headset support-কে fully working বলে দাবি করা হবে না।
+
+## Feature 20 — Mars Odyssey Game Campaign
+
+এটি Project-এর ১০টি sequential mission-এর playable adventure।
+
+প্রথম stage সহজ হবে। পরবর্তী stage-গুলোতে skill, equipment এবং decision-making complexity বাড়বে।
+
+প্রতিটি stage-এ আলাদা environment, science objective, hazard, interaction এবং success condition থাকবে।
+
+## Feature 21 — Equipment Shop
+
+Game-এর মধ্যে free in-game equipment shop থাকবে।
+
+Player mission সম্পন্ন করে fictional credits earn করবে।
+
+এগুলো দিয়ে unlock হওয়া equipment obtain বা equip করতে পারবে।
+
+Equipment categories:
+
+- Oxygen reserve upgrades
+- Scanner
+- Waypoint tools
+- Sample collection kits
+- Rover traction equipment
+- Communication beacons
+- Energy modules
+- Thermal protection
+- Recovery tools
+- Mission-specific equipment
+
+Real-money purchases বা monetization থাকবে না।
+
+## Feature 22 — Rewards & Achievements
+
+Mission সফলভাবে শেষ করলে player পাবে:
+
+- Mission completion status
+- Science score
+- Earned credits
+- Equipment unlocks
+- Achievement badges
+- Next stage unlock
+- Recorded mission result
+
+Stage 10 complete করলে game-only Master Explorer certificate/achievement পাওয়া যাবে।
+
+## Feature 23 — Profile & Mission History
+
+Profile section-এ থাকবে:
+
+- Selected astronaut
+- Current level
+- Completed missions
+- Achievements
+- Earned credits
+- Equipment inventory
+- Mission history
+- Saved progress
+
+## Feature 24 — Save, Restart & Recovery
+
+Player mission-এর মাঝখানে progress save করতে পারবে।
+
+Pause Menu-তে থাকবে Resume, Restart Checkpoint, Settings এবং Exit।
+
+Mission fail করলে কী কারণে fail হয়েছে তা দেখাবে। এরপর Retry অথবা Replan করা যাবে।
+
+কোনো stage-এ player-কে permanently stuck অবস্থায় রাখা যাবে না।
+
+## Feature 25 — Free Exploration Mode
+
+Campaign-এর বাইরে available regions স্বাধীনভাবে explore করা যাবে।
+
+Player নতুন terrain inspect, science layers দেখা, rover পরীক্ষা এবং previously visited locations-এ ফিরে যেতে পারবে।
+
+Free Explorer এবং story stages আলাদা progression mode হবে।
+
+## Feature 26 — Scientific Evidence & Provenance
+
+যেখানে scientific claim রয়েছে, সেখানে প্রয়োজন অনুযায়ী source details দেখা যাবে।
+
+সেখানে থাকবে NASA/USGS source, observation period, resolution, valid coverage এবং uncertainty।
+
+Scientific information-এর জন্য minimal contextual panel থাকবে; Gameplay screen-এ অপ্রয়োজনীয় report/dashboard থাকবে না।
+
+## Feature 27 — Performance & Accessibility
+
+PC, laptop ও mobile-এর জন্য adaptive graphical settings থাকবে।
+
+Terrain LOD, texture compression, reasonable shadows, adjustable render quality এবং loading fallback ব্যবহার করা হবে।
+
+Accessibility-তে থাকবে subtitle, control sensitivity, reduced motion, readable alerts এবং responsive controls।
+
+---
+
+# PART 4 — MARS ODYSSEY: COMPLETE 10-STAGE INTERACTIVE GAMEPLAY
+
+## Overall Gameplay Concept
+
+Mars Odyssey হবে এমন একটি adventure, যেখানে player শুধু Mars-এর উপর হাঁটবে না। প্রতিটি level-এ তাকে scientific mission সম্পন্ন করতে হবে, বাস্তবসম্মত obstacles মোকাবিলা করতে হবে এবং প্রয়োজন হলে নিজের সিদ্ধান্ত পরিবর্তন করতে হবে।
+
+প্রতিটি stage-এর মূল gameplay loop:
+
+**EXPLORE → DISCOVER → SOLVE → EXECUTE → RETURN → REWARD**
+
+Player প্রথমে mission briefing পাবে। এরপর location explore করে প্রয়োজনীয় science objective খুঁজবে, instrument বা rover ব্যবহার করে কাজ সম্পন্ন করবে, hazards মোকাবিলা করবে এবং নির্দিষ্ট resource reserve নিয়ে base-এ ফিরে আসবে।
+
+Stage complete করার পর science result, earned reward এবং next mission unlock হবে।
+
+---
+
+## STAGE 01 — FIRST FOOTSTEPS
+
+**Location:** Jezero Plains  
+**Target Duration:** 8–12 minutes  
+**Difficulty:** Beginner  
+**Mission:** First Marswalk, EVA Calibration & National Flag Deployment
+
+### Description
+
+প্রথম stage-এ player Mars-এর landing zone-এ থাকবে। চারদিকে rocky Martian plain, ছোট ছোট পাথর, landing equipment, দূরে পাহাড় এবং research habitat দেখা যাবে।
+
+এই stage-এর উদ্দেশ্য হলো player-কে movement, camera, oxygen management, scientific survey এবং safe-return system শেখানো।
+
+এখানে astronaut প্রথমবার Mars surface-এ বের হবে এবং ছোট একটি scientific mission সম্পন্ন করবে।
+
+### Interactive Gameplay
+
+1. Landing module থেকে astronaut বের হবে।
+2. Helmet seal, oxygen pack এবং radio connection check করবে।
+3. Mars-এর দুইটি visible landmark দিয়ে compass calibrate করবে।
+4. Virtual joystick অথবা WASD দিয়ে survey location-এর দিকে হাঁটবে।
+5. Rocky depression-এ পড়ে যাওয়া survey marker খুঁজে উদ্ধার করবে।
+6. Valid location-এ survey tripod বসাবে।
+7. Player নিজের country নির্বাচন করবে।
+8. Astronaut physically country flag স্থাপন করবে।
+9. Mars-এর একটি panorama photo capture করবে।
+10. A* route দেখে safe path নির্বাচন করে habitat-এ ফিরে আসবে।
+
+### Player Decisions & Challenges
+
+- Short rocky path নাকি safer longer route ব্যবহার করবে?
+- Extra panorama নিয়ে science score বাড়াবে, নাকি oxygen reserve বাঁচাবে?
+- ভুলভাবে flag/marker বসালে আবার position ঠিক করতে হবে।
+- EVA check ভুল হলে feedback অনুযায়ী সংশোধন করতে হবে।
+
+### Stage Success
+
+সব objective complete করে astronaut নিরাপদে habitat-এ ফিরতে হবে।
+
+**Reward:** Starter Scanner + Waypoint Tool  
+**Unlock:** Stage 02
+
+---
+
+## STAGE 02 — ANCIENT RIVER
+
+**Location:** Jezero Delta  
+**Target Duration:** 10–16 minutes  
+**Difficulty:** Easy–Intermediate  
+**Mission:** Ancient River Delta Geological Investigation
+
+### Description
+
+এই stage-এ player Mars-এর Jezero Delta অঞ্চলে যাবে, যেখানে অতীতে পানি প্রবাহের geological evidence পাওয়া গেছে।
+
+চারদিকে sedimentary layers, fractured rocks, eroded cliffs এবং ancient river delta-এর geological structures থাকবে।
+
+Player-এর উদ্দেশ্য হবে geological formations inspect করা এবং evidence-based sample সংগ্রহ করা।
+
+### Interactive Gameplay
+
+1. Delta region-এ প্রবেশ করবে।
+2. তিনটি different rock outcrop খুঁজে বের করবে।
+3. Camera ও scanner দিয়ে rock layers inspect করবে।
+4. Available science information দেখে sampling location নির্বাচন করবে।
+5. Sampling arm/drill rock-এর সঙ্গে align করবে।
+6. Drilling-এর pressure এবং heat নিয়ন্ত্রণ করবে।
+7. Collected core sample contamination check করবে।
+8. Sample bag-এ সংরক্ষণ ও label করবে।
+9. চাইলে অতিরিক্ত science target inspect করবে।
+10. Safe route ধরে sample নিয়ে research station-এ ফিরবে।
+
+### Player Decisions & Challenges
+
+- Low-risk sample নেবে নাকি potentially valuable কিন্তু difficult sample?
+- Drill pressure বেশি হলে sample damage হতে পারে।
+- Incorrect sample label হলে verification fail করবে।
+- Limited storage থাকায় কোন sample রাখবে তা নির্বাচন করতে হবে।
+
+### Stage Success
+
+Valid sample collection, correct labelling এবং safe return।
+
+**Reward:** Sampling Arm + Archive Kit  
+**Unlock:** Stage 03
+
+---
+
+## STAGE 03 — SHIFTING DUNES
+
+**Location:** Gale Crater Dunes  
+**Target Duration:** 12–18 minutes  
+**Difficulty:** Intermediate  
+**Mission:** Rover Navigation & Equipment Recovery
+
+### Description
+
+এই stage-এ player Gale Crater-এর sandy dune region explore করবে।
+
+এখানে বড় বড় sand dunes, dark sand, ripple patterns এবং steep dune crests থাকবে।
+
+এই mission-এর প্রধান focus হবে **ATLAS-6 rover driving**, wheel traction, battery management এবং trapped equipment recovery।
+
+### Interactive Gameplay
+
+1. ATLAS-6 Rover activate করবে।
+2. Rover camera দিয়ে dune route inspect করবে।
+3. Manual steering করে soft-sand areas এড়িয়ে চলবে।
+4. Steering এবং throttle-এর মাধ্যমে traction control করবে।
+5. এক পর্যায়ে rover-এর wheel loose sand-এ আটকে যেতে পারে।
+6. Wheel-slip telemetry inspect করে সমস্যা diagnose করবে।
+7. Traction aid ব্যবহার অথবা alternative route নির্বাচন করবে।
+8. Winch cable দিয়ে stuck instrument sled উদ্ধার করবে।
+9. উদ্ধার করা equipment rover-এ load করবে।
+10. Cargo নিয়ে safely research base-এ ফিরবে।
+
+### Player Decisions & Challenges
+
+- Direct route নাকি ridge detour?
+- Manual slow driving নাকি waypoint autonomy?
+- অতিরিক্ত torque দিলে wheel আরো আটকে যেতে পারে।
+- Battery কমে গেলে alternative recovery strategy ব্যবহার করতে হবে।
+
+### Stage Success
+
+Rover ও equipment দুটোই safely ফিরিয়ে আনতে হবে।
+
+**Reward:** Sand Wheels + Traction Module  
+**Unlock:** Stage 04
+
+---
+
+## STAGE 04 — MINERAL HUNTER
+
+**Location:** Nili Fossae  
+**Target Duration:** 13–20 minutes  
+**Difficulty:** Intermediate  
+**Mission:** Mars Mineral Identification
+
+### Description
+
+Player একটি mineral-rich Martian geological region explore করবে।
+
+এখানে fractured cliffs, layered rocks, broken bedrock এবং scientific mineral map overlays থাকবে।
+
+Mission-এর উদ্দেশ্য হলো evidence-based mineral investigation করা। শুধু rock-এর colour দেখে mineral declare করা যাবে না।
+
+### Interactive Gameplay
+
+1. Mars Atlas-এ available mineral data footprint inspect করবে।
+2. Science targets selection করবে।
+3. Fractured terrain-এ তিনটি outcrop খুঁজবে।
+4. Handheld spectral scanner ব্যবহার করবে।
+5. Scanner দিয়ে rock surfaces inspect করবে।
+6. Available source data এবং simulated readings আলাদা করে দেখবে।
+7. Mineral candidate classify করবে।
+8. Unsupported target হলে সেটিকে reject/unknown mark করবে।
+9. Physical science markers স্থাপন করবে।
+10. Safe return route ধরে station-এ ফিরবে।
+
+### Player Decisions & Challenges
+
+- Steep location-এর high-value target নাকি safer exposure?
+- Additional scan করে uncertainty কমাবে, নাকি battery সংরক্ষণ করবে?
+- Wrong classification হলে feedback দেখে সংশোধন করবে।
+- Valid data coverage না থাকলে unknown result গ্রহণ করতে হবে।
+
+### Stage Success
+
+সঠিক evidence-based science task সম্পন্ন করা।
+
+**Reward:** Spectral Analyzer  
+**Unlock:** Stage 05
+
+---
+
+## STAGE 05 — VOLCANIC FRONTIER
+
+**Location:** Elysium Planitia  
+**Target Duration:** 14–21 minutes  
+**Difficulty:** Intermediate–Advanced  
+**Mission:** Volcanic Terrain & Thermal Instrument Deployment
+
+### Description
+
+এই stage-এ player Mars-এর volcanic plain অঞ্চলে প্রবেশ করবে।
+
+এখানে basaltic rocks, lava plains, pressure ridges এবং volcanic fissure-like formations থাকবে।
+
+Mission-এর প্রধান challenge হবে difficult rocky terrain অতিক্রম করে scientific thermal probe install করা।
+
+### Interactive Gameplay
+
+1. Volcanic plain-এ প্রবেশ করবে।
+2. তিনটি geological structure identify করবে।
+3. Rover camera দিয়ে terrain inspect করবে।
+4. Narrow fissure-এর কাছে পৌঁছাবে।
+5. Terrain stability এবং slope analyse করবে।
+6. Safe crossing location নির্বাচন করবে।
+7. প্রয়োজন অনুযায়ী cable/bridge support install করবে।
+8. Thermal probe physically বহন করে measurement location-এ স্থাপন করবে।
+9. Probe calibration এবং measurement task complete করবে।
+10. Instruments নিয়ে safe route দিয়ে base-এ ফিরবে।
+
+### Player Decisions & Challenges
+
+- Short কিন্তু risky crossing নাকি longer accessible ramp?
+- Heavy equipment বহন করলে battery/power cost বাড়বে।
+- Bridge anchor ভুল হলে পুনরায় install করতে হবে।
+- Thermal probe malfunction করলে recalibrate করতে হবে।
+
+### Stage Success
+
+Thermal survey complete করে instruments safely ফিরিয়ে আনা।
+
+**Reward:** Thermal Probe + Reinforced Tires  
+**Unlock:** Stage 06
+
+---
+
+## STAGE 06 — LABYRINTH NETWORK
+
+**Location:** Noctis Labyrinthus  
+**Target Duration:** 16–24 minutes  
+**Difficulty:** Advanced  
+**Mission:** Communication Network Restoration
+
+### Description
+
+Player একটি বিশাল fractured valley network-এর মধ্যে mission পরিচালনা করবে।
+
+এখানে narrow passages, steep walls, dark cliff shadows এবং limited communication থাকবে।
+
+গভীর valleys-এর কারণে signal বাধাগ্রস্ত হতে পারে। Player-কে robotic system ব্যবহার করে communication relay network তৈরি করতে হবে।
+
+### Interactive Gameplay
+
+1. Valley entrance থেকে environment inspect করবে।
+2. Communication dead zone identify করবে।
+3. Route এবং possible relay positions নির্বাচন করবে।
+4. Rover/Drone দিয়ে safe locations scout করবে।
+5. ALPHA robotic support unit activate করবে।
+6. Robotic arm manually control করে relay beacon বসাবে।
+7. Relay-এর physical orientation adjust করবে।
+8. Communication signal test করবে।
+9. Signal blocked হলে relay reposition করবে।
+10. Recovered scientific materials নিয়ে communication link বজায় রেখে ফিরবে।
+
+### Player Decisions & Challenges
+
+- দুইটি short-distance relay নাকি একটি elevated long-distance relay?
+- Battery power কীভাবে distribute করবে?
+- Robot arm target-এ না পৌঁছালে rover reposition করতে হবে।
+- Signal obstruction হলে communication network পুনরায় configure করতে হবে।
+
+### Stage Success
+
+Functional communication link তৈরি এবং safe mission return।
+
+**Reward:** Relay Beacon + ALPHA Arm Extension  
+**Unlock:** Stage 07
+
+---
+
+## STAGE 07 — CANYON RESCUE
+
+**Location:** Valles Marineris  
+**Target Duration:** 18–28 minutes  
+**Difficulty:** Advanced  
+**Mission:** Lost Rover Rescue Operation
+
+### Description
+
+Mars-এর বিশাল canyon system-এর মধ্যে একটি rover যোগাযোগ হারিয়ে ফেলেছে।
+
+Player-এর কাজ হবে সেটিকে locate, repair এবং recover করা।
+
+এই stage-এ থাকবে steep cliffs, layered canyon walls, shadowed terrain এবং dangerous descent routes।
+
+### Interactive Gameplay
+
+1. Base থেকে intermittent distress signal receive করবে।
+2. Canyon map inspect করবে।
+3. তিনটি possible rescue route compare করবে।
+4. Safe flight condition থাকলে SKYSCOUT drone deploy করবে।
+5. Drone camera দিয়ে lost rover locate করবে।
+6. Emergency location mark করবে।
+7. Astronaut/Rover নিয়ে suitable route দিয়ে নিচে নামবে।
+8. Damaged rover-এর battery অথবা wheel inspect করবে।
+9. Power cell replace, wheel repair বা tow cable attach করবে।
+10. নতুন hazard তৈরি হলে safe route recalculate করবে।
+11. Recovered rover-কে escort করে base-এ ফিরবে।
+
+### Player Decisions & Challenges
+
+- Steep shortcut নাকি safer switchback route?
+- Drone battery scouting-এ খরচ করবে, নাকি recovery monitoring-এর জন্য রাখবে?
+- Excessive tow tension হলে cable damage হতে পারে।
+- Unsafe slope হলে route engine সেই পথ block করবে।
+
+### Stage Success
+
+Lost rover এবং required equipment safely rescue করা।
+
+**Reward:** Emergency Recovery Kit  
+**Unlock:** Stage 08
+
+---
+
+## STAGE 08 — FROZEN FRONTIER
+
+**Location:** Martian South Polar Region  
+**Target Duration:** 18–28 minutes  
+**Difficulty:** Advanced  
+**Mission:** Polar Frost Investigation & Thermal Survival
+
+### Description
+
+এই stage-এ player Mars-এর South Polar Region explore করবে।
+
+এখানে appropriate seasonal CO₂ frost, pale icy deposits, dusty surface, long shadows এবং low-angle sunlight থাকবে।
+
+Player-কে thermal conditions, energy budget এবং surface traction বিবেচনা করে mission complete করতে হবে।
+
+### Interactive Gameplay
+
+1. Heated habitat module থেকে mission শুরু করবে।
+2. Frost coverage এবং sunlight angle inspect করবে।
+3. Suit heater schedule নির্বাচন করবে।
+4. Polar terrain-এর উপর সাবধানে চলবে।
+5. Slippery/low-traction surface এড়িয়ে চলবে।
+6. Frost sensor install করবে।
+7. Seasonal layer boundary map করবে।
+8. Scientific sample capture করবে।
+9. Heater-এর battery consumption monitor করবে।
+10. Energy কমে গেলে safe return strategy পরিবর্তন করবে।
+11. Thermal equipment ব্যবহার করে habitat-এ ফিরবে।
+
+### Player Decisions & Challenges
+
+- Short কিন্তু colder route নাকি longer route?
+- Additional traction equipment নাকি extra thermal energy cells?
+- Thermal reserve কমে গেলে emergency abort করতে হবে।
+- Slippery patch-এ astronaut পড়ে গেলে recovery movement করতে হবে।
+
+### Stage Success
+
+Polar measurements এবং resource-safe return complete করা।
+
+**Reward:** Thermal Suit Module  
+**Unlock:** Stage 09
+
+---
+
+## STAGE 09 — INTO THE DUST
+
+**Location:** Simulated Mars Dust Emergency  
+**Target Duration:** 20–32 minutes  
+**Difficulty:** Expert  
+**Mission:** Dust Storm Survival & Emergency Navigation
+
+### Description
+
+Player Mars-এর একটি dusty basin explore করবে। Mission চলাকালে একটি simulated dust event শুরু হবে এবং visibility ধীরে ধীরে কমে যাবে।
+
+আকাশ orange-grey হয়ে যাবে। Distant landscape অস্পষ্ট দেখা যাবে এবং solar power কমতে থাকবে।
+
+এই stage-এর মূল challenge হলো limited visibility-তে navigation, equipment management এবং safe emergency return।
+
+### Interactive Gameplay
+
+1. প্রথমে moderate visibility-তে mapping mission শুরু করবে।
+2. Multiple waypoints establish করবে।
+3. Dust event trigger হলে environment পরিবর্তিত হবে।
+4. Visibility এবং solar power কমে যাবে।
+5. Compass, map এবং rover data compare করবে।
+6. Incorrect/uncertain navigation signal identify করবে।
+7. Emergency ground beacon deploy করবে।
+8. Backup energy source activate করবে।
+9. A* route পুনরায় calculate করবে।
+10. Unsafe বা unknown terrain avoid করবে।
+11. প্রয়োজনে optional science task abandon করবে।
+12. Reduced visibility-তে base-এ ফিরে আসবে।
+
+### Player Decisions & Challenges
+
+- Extra science points-এর জন্য mission চালিয়ে যাবে নাকি abort করবে?
+- Uncertain drone guidance নাকি ground markers-এর উপর নির্ভর করবে?
+- Scanner battery শেষ হলে backup navigation ব্যবহার করতে হবে।
+- Safe route না থাকলে rescue/checkpoint recovery mechanism ব্যবহার করতে হবে।
+
+### Stage Success
+
+Hazard মোকাবিলা করে safe emergency return।
+
+**Reward:** Emergency Energy Cell + Marker System  
+**Unlock:** Stage 10
+
+---
+
+## STAGE 10 — THE LAST EXPEDITION
+
+**Location:** Multi-Region Composite Mars Expedition  
+**Target Duration:** 28–45+ minutes  
+**Difficulty:** Final / Master  
+**Mission:** Complete Integrated Mars Science & Survival Expedition
+
+### Description
+
+এটি ARES PATHFINDER-এর final এবং সবচেয়ে complex mission।
+
+এই stage-এ পূর্ববর্তী সব stage-এর skill, technology, equipment এবং decision-making system একসঙ্গে ব্যবহার করতে হবে।
+
+Mission environment-এ থাকবে rocky plains, delta-like terrain, dunes, crater rim এবং canyon-like passages।
+
+Player একটি বড় scientific expedition পরিচালনা করবে, যেখানে multiple science objectives, rover coordination, communication, changing hazards এবং safe return একসঙ্গে manage করতে হবে।
+
+### Act 1 — Mission Preparation
+
+1. Mars mission briefing receive করবে।
+2. Available science objectives inspect করবে।
+3. কোন research tasks আগে করবে তা নির্ধারণ করবে।
+4. Scientific route plan করবে।
+5. Oxygen, time এবং energy budget calculate করবে।
+
+### Act 2 — Crew, Rover & Equipment Selection
+
+1. Astronaut নির্বাচন করবে।
+2. ATLAS-6, SKYSCOUT এবং ALPHA-র roles নির্ধারণ করবে।
+3. Oxygen ও energy reserve allocate করবে।
+4. Sampling, scanning এবং communication equipment নির্বাচন করবে।
+5. Payload capacity-এর মধ্যে gear arrange করবে।
+
+### Act 3 — Scientific Expedition
+
+1. Terrain survey complete করবে।
+2. Geological sample সংগ্রহ করবে।
+3. Thermal অথবা spectral investigation করবে।
+4. Communication relay স্থাপন করবে।
+5. Rover দিয়ে equipment transport করবে।
+6. ALPHA দিয়ে precision interaction করবে।
+7. SKYSCOUT দিয়ে suitable area scout করবে।
+8. Multiple research objectives complete করবে।
+
+### Act 4 — Dynamic Emergency
+
+Mission চলাকালে একটি simulated hazard তৈরি হবে।
+
+এটি dust, communication interruption, thermal problem অথবা route obstruction হতে পারে।
+
+Player-এর current safe route invalid হয়ে যেতে পারে।
+
+তখন তাকে নতুন পরিস্থিতি evaluate করতে হবে, available equipment ব্যবহার করতে হবে এবং return strategy পরিবর্তন করতে হবে।
+
+### Act 5 — Final Return
+
+1. Remaining oxygen এবং battery check করবে।
+2. Rover এবং science equipment recovery state inspect করবে।
+3. A* দিয়ে feasible return route নির্বাচন করবে।
+4. Crew এবং rover coordination বজায় রাখবে।
+5. Dangerous terrain এড়িয়ে চলবে।
+6. Habitat docking complete করবে।
+7. Final mission summary ও science score দেখবে।
+
+### Player Decisions & Challenges
+
+- Optional high-value science নাকি guaranteed safe return?
+- Drone scouting-এ battery খরচ নাকি ground navigation?
+- Equipment repair নাকি mission abort?
+- Hazard-এর পর কোন alternative route সবচেয়ে feasible?
+- কোন research objective-এ বেশি resource allocate করা উচিত?
+
+### Stage Success
+
+Core objectives সম্পন্ন করা, প্রয়োজনীয় safety conditions বজায় রাখা এবং safe expedition return। যদি পরিস্থিতি unsafe হয়ে যায়, সঠিক সময়ে safe abort করাও mission policy অনুযায়ী গ্রহণযোগ্য outcome হতে পারে।
+
+**Final Reward:**
+- Pathfinder Master Explorer achievement
+- Game-only completion certificate
+- Free Explorer mastery unlock
+- Complete mission record
+
+---
+
+# PART 5 — GAME COMPLETION, REWARDS & PROGRESSION
+
+## Stage Progression Rules
+
+1. Player প্রথমে Stage 01 থেকে শুরু করবে।
+2. প্রতিটি stage-এর objectives সম্পন্ন করতে হবে।
+3. Successful completion-এর পর next stage unlock হবে।
+4. Collected equipment পরবর্তী relevant missions-এ ব্যবহার করা যাবে।
+5. Previous completed stages revisit করা যাবে।
+6. Mission progress save থাকবে।
+7. Retry করলে প্রয়োজনীয় checkpoint থেকে restart করা যাবে।
+8. Credits ও rewards কেবল verified gameplay events-এর ভিত্তিতে দেওয়া হবে।
+9. Gameplay finish হলে scientific result ও used resources দেখা যাবে।
+10. Stage 10 সম্পন্ন করলে final achievement unlock হবে।
+
+## Level Completion-এর পর যা দেখা যাবে
+
+- Stage completed status
+- Objectives achieved
+- Science score
+- Mission time
+- Resources consumed
+- Remaining return reserve
+- Earned credits
+- Unlocked equipment
+- Next stage option
+
+---
+
+# PART 6 — FINAL GAME QUALITY & INTERACTIVITY REQUIREMENTS
+
+ARES PATHFINDER-এর কোনো stage কেবল scenery দেখানো বা waypoint-এর কাছে গিয়ে button চাপার মধ্যে সীমাবদ্ধ থাকবে না।
+
+প্রতিটি stage-এ অবশ্যই থাকতে হবে:
+
+1. **Unique environment:** আলাদা terrain, landscape এবং visual conditions।
+2. **Player-controlled movement:** Astronaut বাস্তবে চলবে, ঘুরবে এবং interact করবে।
+3. **Functional equipment:** Instruments বাস্তবে task state পরিবর্তন করবে।
+4. **Meaningful objectives:** Science অথবা engineering task সম্পন্ন করতে হবে।
+5. **Player decisions:** একাধিক valid strategic choice থাকবে।
+6. **Dynamic hazards:** Relevant obstacles gameplay-কে প্রভাবিত করবে।
+7. **Resource management:** Oxygen, battery, time এবং return conditions কাজ করবে।
+8. **Failure handling:** ভুল সিদ্ধান্তের ফলাফল ও recovery থাকবে।
+9. **Sound response:** Animation এবং real game events-এর সঙ্গে sound synchronised থাকবে।
+10. **Completion and unlock:** Safe return, progress saving এবং earned rewards কাজ করবে।
+
+---
+
+# FINAL PROJECT EXPERIENCE
+
+ARES PATHFINDER-এ একজন ব্যবহারকারী প্রথমে একটি animated, cinematic Martian Homepage দেখবে। সেখান থেকে NASA-based Mars Atlas explore করতে পারবে, বিজ্ঞানভিত্তিক terrain information পর্যালোচনা করতে পারবে এবং intelligent Mission Ops ব্যবহার করে নিরাপদ exploration route তৈরি করতে পারবে।
+
+এরপর সে নিজের পছন্দের astronaut, rover এবং equipment নিয়ে photorealistic Mars environment-এ প্রবেশ করবে। সেখানে হাঁটবে, rover চালাবে, drone পরিচালনা করবে, sample সংগ্রহ করবে, national flag স্থাপন করবে, hazard মোকাবিলা করবে এবং mission objectives সম্পন্ন করবে।
+
+Mars Odyssey-এর ১০টি stage-এর মাধ্যমে সে ধাপে ধাপে basic Marswalk থেকে advanced scientific exploration, robotic rescue, survival planning এবং final integrated expedition পর্যন্ত পৌঁছাবে।
+
+**ARES PATHFINDER-এর মূল পরিচয়: একটি connected Mars Atlas, explainable scientific mission planner এবং genuinely interactive 3D Mars exploration adventure—যেখানে Mars science, intelligent decision-making এবং gameplay একই platform-এ কাজ করবে।**

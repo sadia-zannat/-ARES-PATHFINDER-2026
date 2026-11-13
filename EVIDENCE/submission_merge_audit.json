@@ -1,0 +1,19 @@
+{
+  "startedUTC": "2026-11-13T08:54:35.109397+00:00",
+  "attachedArchive": "ARES_PATHFINDER_FINAL_DEMO_READY_2026 (1)(1).zip",
+  "changesMerged": [
+    "PRESENTER_DEMO_GUIDE_BN.md",
+    "START_ARES_PRESENTER_WINDOWS.bat",
+    "QA_DEMO_PATCH_REPORT.md",
+    "README.md",
+    "WINDOWS_BANGLA.md",
+    "SOURCE_CURRENT/serve.py",
+    "SOURCE_CURRENT/viewer/index.html",
+    "SOURCE_CURRENT/viewer/tests/presenter_guidance.test.mjs",
+    "SOURCE_CURRENT/viewer/src/style.css",
+    "SOURCE_CURRENT/viewer/src/demo_guidance.js",
+    "SOURCE_CURRENT/viewer/src/main.js"
+  ],
+  "assetsAndTerrain": "All corresponding archive asset and terrain bytes match existing recovered workspace. No model or terrain replaced.",
+  "strategy": "Merged attached presenter/guidance/auto-dock source onto existing workspace; ignore manually patched dist and perform fresh Vite build."
+}

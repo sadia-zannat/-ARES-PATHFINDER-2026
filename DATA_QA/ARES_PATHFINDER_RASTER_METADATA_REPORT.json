@@ -1,0 +1,297 @@
+{
+  "tool": "ARES PATHFINDER read-only metadata check",
+  "utc_created": "2026-11-10T16:49:07.540047+00:00",
+  "limitations": [
+    "Not a full 1.7/3.2 GB pixel-by-pixel integrity check.",
+    "NASA source identity and exact checksum have NOT been independently matched to official source.",
+    "Map bounds overlap does NOT prove visual terrain/optical landmark alignment.",
+    "Five small read windows per TIFF are sampled, not full data.",
+    "Do not use for certified astronaut traversability or safety."
+  ],
+  "dtm": {
+    "filename": "JEZ_hirise_soc_006_DTM_MOLAtopography_DeltaGeoid_1m_Eqc_latTs0_lon0_blend40.tif",
+    "bytes": 1839545409,
+    "open_ok": true,
+    "read_sample_ok": true,
+    "driver": "GTiff",
+    "width": 21400,
+    "height": 21488,
+    "band_count": 1,
+    "dtypes": [
+      "float32"
+    ],
+    "crs": "ESRI:103885",
+    "crs_wkt": "PROJCS[\"Equirectangular Mars 2000 Sphere IAU\",GEOGCS[\"D_Mars_2000_Sphere\",DATUM[\"Mars_2000_(Sphere)\",SPHEROID[\"Mars_2000_Sphere_IAU\",3396190,0],AUTHORITY[\"ESRI\",\"106971\"]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Equirectangular\"],PARAMETER[\"standard_parallel_1\",0],PARAMETER[\"central_meridian\",0],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+      1.0,
+      0.0,
+      4577366.0,
+      0.0,
+      -1.0,
+      1106618.0
+    ],
+    "pixel_size_in_crs_units": [
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      4577366.0,
+      1085130.0,
+      4598766.0,
+      1106618.0
+    ],
+    "nodata": -3.4028226550889045e+38,
+    "pixel_size_is_valid": true,
+    "has_crs": true,
+    "is_tiled": false,
+    "block_shapes": [
+      [
+        1,
+        21400
+      ]
+    ],
+    "samples": [
+      {
+        "row": 4297,
+        "col": 4280,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 1.0,
+        "first_valid_value": -2072.246826171875
+      },
+      {
+        "row": 4297,
+        "col": 17120,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 0.0,
+        "first_valid_value": null
+      },
+      {
+        "row": 10744,
+        "col": 10700,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 1.0,
+        "first_valid_value": -2436.89306640625
+      },
+      {
+        "row": 17190,
+        "col": 4280,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 1.0,
+        "first_valid_value": -1904.1575927734375
+      },
+      {
+        "row": 17190,
+        "col": 17120,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 1.0,
+        "first_valid_value": -2609.29833984375
+      }
+    ],
+    "path": "C:\\Users\\USER\\Downloads\\JEZ_hirise_soc_006_DTM_MOLAtopography_DeltaGeoid_1m_Eqc_latTs0_lon0_blend40.tif"
+  },
+  "optical": {
+    "filename": "JEZ_hirise_soc_007_orthoMosaic_25cm_Ortho_blend120.tif",
+    "bytes": 3408854746,
+    "open_ok": true,
+    "read_sample_ok": true,
+    "driver": "GTiff",
+    "width": 81064,
+    "height": 85936,
+    "band_count": 1,
+    "dtypes": [
+      "uint8"
+    ],
+    "crs": "PROJCS[\"unnamed\",GEOGCS[\"Geographic Coordinate System\",DATUM[\"Mars_2000_(Sphere)\",SPHEROID[\"Mars_2000_Sphere_IAU\",3396190,0],AUTHORITY[\"ESRI\",\"106971\"]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Orthographic\"],PARAMETER[\"latitude_of_origin\",18.4663],PARAMETER[\"central_meridian\",77.4298],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "crs_wkt": "PROJCS[\"unnamed\",GEOGCS[\"Geographic Coordinate System\",DATUM[\"Mars_2000_(Sphere)\",SPHEROID[\"Mars_2000_Sphere_IAU\",3396190,0],AUTHORITY[\"ESRI\",\"106971\"]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Orthographic\"],PARAMETER[\"latitude_of_origin\",18.4663],PARAMETER[\"central_meridian\",77.4298],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+      0.25,
+      0.0,
+      -11612.0,
+      0.0,
+      -0.25,
+      12036.0
+    ],
+    "pixel_size_in_crs_units": [
+      0.25,
+      0.25
+    ],
+    "bounds": [
+      -11612.0,
+      -9448.0,
+      8654.0,
+      12036.0
+    ],
+    "nodata": 0.0,
+    "pixel_size_is_valid": true,
+    "has_crs": true,
+    "is_tiled": true,
+    "block_shapes": [
+      [
+        256,
+        256
+      ]
+    ],
+    "samples": [
+      {
+        "row": 17187,
+        "col": 16212,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 1.0,
+        "first_valid_value": 86.0
+      },
+      {
+        "row": 17187,
+        "col": 64851,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 0.0,
+        "first_valid_value": null
+      },
+      {
+        "row": 42968,
+        "col": 40532,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 1.0,
+        "first_valid_value": 105.0
+      },
+      {
+        "row": 68748,
+        "col": 16212,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 1.0,
+        "first_valid_value": 88.0
+      },
+      {
+        "row": 68748,
+        "col": 64851,
+        "window_width": 8,
+        "window_height": 8,
+        "read_ok": true,
+        "valid_pixel_fraction": 1.0,
+        "first_valid_value": 136.0
+      }
+    ],
+    "path": "C:\\Users\\USER\\Downloads\\JEZ_hirise_soc_007_orthoMosaic_25cm_Ortho_blend120.tif"
+  },
+  "comparison": {
+    "geometric_overlap_found": true,
+    "landmark_alignment_verified": false,
+    "note": "CRS/grid compatibility and coverage are NOT visual landmark alignment.",
+    "same_crs": false,
+    "posting_ratio_dtm_over_optical_x": 4.0,
+    "posting_ratio_dtm_over_optical_y": 4.0,
+    "optical_bounds_transformed_to_dtm_crs": [
+      4577371.015481966,
+      1085129.7115532297,
+      4598762.63242759,
+      1106620.3698494842
+    ],
+    "status": "METADATA_OVERLAP_FOUND_LANDMARK_QA_STILL_REQUIRED",
+    "overlap_bounds_in_dtm_crs_units": [
+      4577371.015481966,
+      1085130.0,
+      4598762.63242759,
+      1106618.0
+    ],
+    "overlap_fraction_of_dtm_bounds": 0.9996082684871193,
+    "overlap_fraction_of_optical_bounds": 0.9998763045683469,
+    "shared_footprint_points": [
+      {
+        "dtm_rowcol": [
+          17190,
+          4283
+        ],
+        "optical_rowcol": [
+          68759,
+          16161
+        ],
+        "inside_both": true
+      },
+      {
+        "dtm_rowcol": [
+          17190,
+          17118
+        ],
+        "optical_rowcol": [
+          68766,
+          64882
+        ],
+        "inside_both": true
+      },
+      {
+        "dtm_rowcol": [
+          10744,
+          10700
+        ],
+        "optical_rowcol": [
+          42984,
+          40525
+        ],
+        "inside_both": true
+      },
+      {
+        "dtm_rowcol": [
+          4297,
+          4283
+        ],
+        "optical_rowcol": [
+          17188,
+          16199
+        ],
+        "inside_both": true
+      },
+      {
+        "dtm_rowcol": [
+          4297,
+          17118
+        ],
+        "optical_rowcol": [
+          17195,
+          64859
+        ],
+        "inside_both": true
+      }
+    ]
+  },
+  "spice_text_files": [
+    {
+      "filename": "KPLLSK.txt",
+      "present": true,
+      "classification": "LIKELY_LSK",
+      "preview_lines": [
+        "KPL/LSK",
+        "",
+        "",
+        "LEAPSECONDS KERNEL FILE"
+      ]
+    },
+    {
+      "filename": "KPLPCK.txt",
+      "present": true,
+      "classification": "LIKELY_PCK",
+      "preview_lines": [
+        "KPL/PCK",
+        "",
+        "P_constants (PCK) SPICE kernel file pck00011.tpc",
+        "==========================================================================="
+      ]
+    }
+  ]
+}

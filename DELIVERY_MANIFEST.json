@@ -1,0 +1,2550 @@
+{
+  "QA_REPORT.md": {
+    "bytes": 107,
+    "sha256": "4940d947b91f5b1ea076571a0077252201b09f1e183d10fb9a957d6e571c0a25"
+  },
+  "ASSET_CREDITS.md": {
+    "bytes": 5061,
+    "sha256": "fba3aa63be923ca3f707105c5ca8de01a169ece575862636f30123f85a9d235e"
+  },
+  "DATA_STATUS.md": {
+    "bytes": 1560,
+    "sha256": "f1dac0a31d58e4566835a86993dcac6b16b77b6f3f880a0b5eec95c059ba8c03"
+  },
+  "QA_DEMO_PATCH_REPORT.md": {
+    "bytes": 3974,
+    "sha256": "68acb41eb2928397c78c84c3e7e63ed71f4642a2d1ff3e8303a6598fb72f611b"
+  },
+  "ACCEPTANCE_MATRIX.md": {
+    "bytes": 6758,
+    "sha256": "e094025dc409100bc371834677afb2f59ab74bb12e9d17c6ff94c44fc54ee570"
+  },
+  "WINDOWS_BANGLA.md": {
+    "bytes": 7273,
+    "sha256": "9080a9a00362f44991cf2ee6f1e9844cb12ab1a89b5b1771010cba1bb0787d24"
+  },
+  "START_ARES_PRESENTER_WINDOWS.bat": {
+    "bytes": 370,
+    "sha256": "6698d7a02ee46e660f3bccef7b202aa995def233b34c984054b9d360ce90dff8"
+  },
+  ".gitignore": {
+    "bytes": 131,
+    "sha256": "7887b3aac2368b8121016e0b857a0527ce68ad5b54dc3ec875e5df5f56d81c40"
+  },
+  "START_ARES_WINDOWS.bat": {
+    "bytes": 435,
+    "sha256": "19275cb93706b9ee1cbbb4033b0b5d40ee088ad626fbb90b15fdad37eb35e8fa"
+  },
+  "FINAL_QA_REPORT.md": {
+    "bytes": 6758,
+    "sha256": "e094025dc409100bc371834677afb2f59ab74bb12e9d17c6ff94c44fc54ee570"
+  },
+  "DEMO_SCRIPT_BANGLA.md": {
+    "bytes": 3571,
+    "sha256": "c954efff60eb139d8fce32228ee505e9c355f6666c524aefb6a401ac3450568f"
+  },
+  "EDIT_AND_BUILD_WINDOWS.bat": {
+    "bytes": 123,
+    "sha256": "1d6e35d8f2711a14f59081460413c6c3d180baec83a98b9a238f508b4aa111fb"
+  },
+  "README.md": {
+    "bytes": 9368,
+    "sha256": "e0d88af3a54d1e7d1707b0f13df506d6fd644623c2629ac238f27265d1647df0"
+  },
+  "START_ARES_OFFLINE_WINDOWS.bat": {
+    "bytes": 455,
+    "sha256": "5dd5156d4fca74de604b4ba22879f7761accf5fd032d0148dc2704b4cb4df290"
+  },
+  "SUBMISSION_DEMO_SCRIPT.md": {
+    "bytes": 3188,
+    "sha256": "0575de038b8984a59cdf6b02608430b964f3ef7dd9bc648a1baf1588732e889a"
+  },
+  "PRESENTER_DEMO_GUIDE_BN.md": {
+    "bytes": 3489,
+    "sha256": "d477f7d9be3b3bef7a77fdc252a5876b4839b58c3fb2cc6e5a8abecbc4fe8a59"
+  },
+  "EVIDENCE/runtime_campaign_recovery_final.json": {
+    "bytes": 16113,
+    "sha256": "763899194b475f36deadc3d9b12a8d5de9f90ecdc34799606ee4e387588894ea"
+  },
+  "EVIDENCE/cliff_surface_repair.txt": {
+    "bytes": 839,
+    "sha256": "f541d3bc71f3f5944981f37f59e7b7a25aee7bd6e60539b2b09e9ad3f72af22c"
+  },
+  "EVIDENCE/submission_node_tests.txt": {
+    "bytes": 2532,
+    "sha256": "62cc3c0b1384ef07fbfd3a1c8fc1754e88f25f9a59f712a069c3d3c49d570245"
+  },
+  "EVIDENCE/nasa_live_cache_tests.txt": {
+    "bytes": 415,
+    "sha256": "6de8c566dcaa59e603dcd1e1819062a62c0e60b8c66ef346f5b875295747c71c"
+  },
+  "EVIDENCE/submission_browser_console.jsonl": {
+    "bytes": 969547,
+    "sha256": "c9fd3342a8b995ab89afe02ef1840d0da97b76c0145ef6a30635cfe91c2f77a1"
+  },
+  "EVIDENCE/submission_normal_sequence.json": {
+    "bytes": 2137,
+    "sha256": "c7a239289df033324e6c5883c86250ef3986422f0567ca7f08aad4579c69cb9d"
+  },
+  "EVIDENCE/recovery_manual_observations.json": {
+    "bytes": 1415,
+    "sha256": "69c1262b633d1bd083e3a1ac39886aaa906b2a25e5d444816b8246a69da9e5bd"
+  },
+  "EVIDENCE/asset_integrity.log": {
+    "bytes": 59838,
+    "sha256": "58b3d2c528ff59fb13674cb0aa7752f8b5a3a8444a0a7cee982ef0da6007eec5"
+  },
+  "EVIDENCE/recovery_unit_tests.txt": {
+    "bytes": 1959,
+    "sha256": "52e3369415a396fa97d6e3aa6a6284123778b5dfd2766b8b3898a6cc3a026bdc"
+  },
+  "EVIDENCE/production_build.txt": {
+    "bytes": 638,
+    "sha256": "941d22089ce27a4337d89d282d84df8d816aaaadd43e9dbeb5c1dfa5e9d86e5f"
+  },
+  "EVIDENCE/scan_optimization.txt": {
+    "bytes": 1356,
+    "sha256": "65f574ebba5ee80c28c8891e39211613d66c315c9eb3435c2796934f423c86e7"
+  },
+  "EVIDENCE/submission_gateway_tests.txt": {
+    "bytes": 576,
+    "sha256": "d31ce07b85aefaae41748e1d67c2e9e54dd074685441a383b6ad6b4015f84f5a"
+  },
+  "EVIDENCE/submission_campaign.json": {
+    "bytes": 16072,
+    "sha256": "ac2a5a97e9ab5b72500651a0f7ef0329c9f2fb2b3e501ece110b2525ec7bded7"
+  },
+  "EVIDENCE/browser_console_recovery_final.jsonl": {
+    "bytes": 3978534,
+    "sha256": "d06d2f0b31438d3b591b0ac9a255cd54e090960079b83b33fdbd9a29012a881b"
+  },
+  "EVIDENCE/new_asset_manifest.json": {
+    "bytes": 2416,
+    "sha256": "cec76f57cd4695aef10687791c0c47e5b4374b620feea3f308e2a3ffd204b70c"
+  },
+  "EVIDENCE/submission_build.txt": {
+    "bytes": 884,
+    "sha256": "7220b259393b92e808c53fc5667e84e177fbcc2f9abb381942df8c4ad2ca26f9"
+  },
+  "EVIDENCE/upgrade_character_build.log": {
+    "bytes": 3302,
+    "sha256": "0aa98cdb6c450fa5a36c1b8eeedba6387d636840f82dda09ae60c892caf2ff28"
+  },
+  "EVIDENCE/submission_merge_audit.json": {
+    "bytes": 861,
+    "sha256": "742322d6a2d8b9c50d46dc9e6c4521156e0cb8c9c15a7d0cc4cc5cae162ea580"
+  },
+  "EVIDENCE/submission_normal.json": {
+    "bytes": 519,
+    "sha256": "f75524ae553ee3300ca6cbf9e4d650c3acb3c367a35843ad3c5e5fc043770613"
+  },
+  "EVIDENCE/nasa_gateway_tests.txt": {
+    "bytes": 576,
+    "sha256": "e7ed985a1128195d75af039cab9b7cad0a7d81949f30c9a445d8b355e666c6b2"
+  },
+  "EVIDENCE/upgrade_asset_build.log": {
+    "bytes": 4342,
+    "sha256": "45ff0181a67dd1b376811be37327d7993caabb4cf5009b3536e7ed86d11f201f"
+  },
+  "EVIDENCE/unit_tests_upgrade.txt": {
+    "bytes": 1956,
+    "sha256": "6540eb8cd5b9f0e78fa042164ac5694ed0cd8b7b37c00e6f0f8ba761feef1b85"
+  },
+  "EVIDENCE/nasa_authenticated_probe.json": {
+    "bytes": 174,
+    "sha256": "15e2f419fc74bdcd010bf8998493b9f11f571cae809728b415b6c119d9c86537"
+  },
+  "EVIDENCE/browser_console_upgrade.jsonl": {
+    "bytes": 3032988,
+    "sha256": "436501a7a60fe101bd2c657c5abc17c5efd6f4e6d78fab0f43ee23eaf3fe2fbd"
+  },
+  "EVIDENCE/final_source_hashes.json": {
+    "bytes": 875,
+    "sha256": "9efcc3b3b696e65cdea0dea1c5461c7d452c8bf71cd25de8562ea3f84bf14a7d"
+  },
+  "EVIDENCE/recovery_production_build.txt": {
+    "bytes": 638,
+    "sha256": "1f9aa5bca886104dd20d795d131acd8282bab9370bafd1f17f9d20e9f2fe8be5"
+  },
+  "EVIDENCE/nasa_gateway_upgrade.txt": {
+    "bytes": 576,
+    "sha256": "ba2b5e3a12df987c8addfab01f81b95ba5465c4c66271a016192b0d98e5986d7"
+  },
+  "EVIDENCE/unit_tests.txt": {
+    "bytes": 1638,
+    "sha256": "453c8e1840a5e22ee72b48c7914a8b0a5e982a4156385680597bc7a37f4aaab3"
+  },
+  "EVIDENCE/upgrade_source_hashes.json": {
+    "bytes": 875,
+    "sha256": "8e48a3ec252e33b1cea36901f993204a5ad535d15dbbee7657539e057c8f75c7"
+  },
+  "EVIDENCE/runtime_campaign_final.json": {
+    "bytes": 16379,
+    "sha256": "de1cd57d9d90ffd76b04427622daaae27d37ff081c42ac903eb5d47cd5fcee3b"
+  },
+  "EVIDENCE/asset_build.log": {
+    "bytes": 31390,
+    "sha256": "ac1be3ef4ee7047a0676df0ad5da044ab9a6522d1ecc35a1058760da88af2cab"
+  },
+  "EVIDENCE/submission_ops.json": {
+    "bytes": 2323,
+    "sha256": "277a1affc7cbdd4f6d0cd1b9baa4ef3b7de161f7a9ec83ffb156b424c6402150"
+  },
+  "EVIDENCE/recovery_gateway_tests.txt": {
+    "bytes": 576,
+    "sha256": "f9a9b35959d5d22e45f05619c057edbd6c24227c43fba1cf429b2b74c0863e3d"
+  },
+  "EVIDENCE/browser_console.jsonl": {
+    "bytes": 2067498,
+    "sha256": "2e554e7f55d19d260ed97b0ab15e9d197e9264e6f58929c2595cee8f1ea2ca14"
+  },
+  "EVIDENCE/submission_terrain.json": {
+    "bytes": 4517,
+    "sha256": "85bdf856f12e403a749f2d4718d19bc9503f388077bb19f5d90c4f48c96d655a"
+  },
+  "EVIDENCE/submission_presenter.json": {
+    "bytes": 1559,
+    "sha256": "d4459a96401ea7b2f1178da311e5349145c94d79fe0bc6c9955cb6b0d7ec537a"
+  },
+  "EVIDENCE/pebble_lod_budget.txt": {
+    "bytes": 735,
+    "sha256": "8da39b8eeafe74d6cad6c4f68079119983c1f832e8cb5aa5b05d0eda6614c045"
+  },
+  "EVIDENCE/runtime_campaign_upgrade.json": {
+    "bytes": 16107,
+    "sha256": "851eb741b2712918aefd43cb9bed87d32afa3d4691da710f42178e9c46e69484"
+  },
+  "EVIDENCE/nasa_fetch.txt": {
+    "bytes": 306,
+    "sha256": "3d260ee2146faa10c2af153857312fd06aaca5c7d00027cee6d3d9a360510ae0"
+  },
+  "EVIDENCE/runtime_campaign_run_01.json": {
+    "bytes": 16442,
+    "sha256": "00a68bc11b35c19fd082c1742a282e35cb6152add65c748e15b5f573c43faa34"
+  },
+  "EVIDENCE/production_build_upgrade.txt": {
+    "bytes": 638,
+    "sha256": "5a93bdf5c933726f14d0daff74f68910e71121406a453cc15a8d0173dde083c1"
+  },
+  "EVIDENCE/recovery_source_hashes.json": {
+    "bytes": 1902,
+    "sha256": "0c894e94852cf51930abb1b9ab4cf832b452804d7bb143a3a3b6b27b72b45a80"
+  },
+  "EVIDENCE/runtime_mission_ops_recovery.json": {
+    "bytes": 783,
+    "sha256": "e8bb9523be419811795ca0fd04999875b64a509ef939b7f032e17d6b0499515f"
+  },
+  "EVIDENCE/nasa_live_probe_01.txt": {
+    "bytes": 943,
+    "sha256": "2f120a1b26cf3d13dc1663fea13703988dcd92a9342aebddb736a560e38daa10"
+  },
+  "REFERENCE_VIDEO_FRAMES/video_04s.jpg": {
+    "bytes": 155723,
+    "sha256": "0b92c8a571d42062c1f491964dcd47092a0c488d060597ca7f58961e49a17dba"
+  },
+  "REFERENCE_VIDEO_FRAMES/video_20s.jpg": {
+    "bytes": 168582,
+    "sha256": "4e2ba277547d99c60d019942583fcc361542ea139b4ab0bec7d1b382c17a5644"
+  },
+  "REFERENCE_VIDEO_FRAMES/video_42s.jpg": {
+    "bytes": 153825,
+    "sha256": "095b6e006763bc9b6f4bd841f30e6f450776f37ff74355794edd3ce648e7e10a"
+  },
+  "DATA_QA/ARES_PATHFINDER_RASTER_METADATA_REPORT.json": {
+    "bytes": 8687,
+    "sha256": "4b288c140c56c5cd55bce08466460b63ff7e19b0f86f5c38863236de325fc3d4"
+  },
+  "DATA_QA/ARES_ALIGNMENT_QA_REPORT.json": {
+    "bytes": 2734,
+    "sha256": "d541c021fccfa8b4bd00871ecbcc72decd6c3b645eae32782e89a06220882095"
+  },
+  "DATA_QA/ARES_NASA_SHA256.csv": {
+    "bytes": 338,
+    "sha256": "4c575c1cc47e4537484102204dc757b5276d103ade3aae4bec950c6c7192d0ef"
+  },
+  "DATA_QA/ARES_ALIGNMENT_CONTACT_SHEET.jpg": {
+    "bytes": 700836,
+    "sha256": "9a12d4d904d48bb30a8a01c74516559c93a95021ab063d3d84b7843da26d796b"
+  },
+  "DESIGN/TEXT_REQUIREMENTS.txt": {
+    "bytes": 52404,
+    "sha256": "9ffdc31f3f893bb080609ef609c3c779fa28895ce57d545fe6404bf5c0da5424"
+  },
+  "DESIGN/MASTER_BLUEPRINT.pdf": {
+    "bytes": 9688554,
+    "sha256": "c21ed2917331a5afcd1ead73d863c760b30ed7a94cf7685e16922a785acfe4ba"
+  },
+  "THIRD_PARTY/rock_face_03_metadata.json": {
+    "bytes": 1112,
+    "sha256": "7ffe0bedf8299c31742d71ec2e6c0749e5412e7501be9ffa9aea62f22b239c8e"
+  },
+  "THIRD_PARTY/NASA_3D_README.md": {
+    "bytes": 2396,
+    "sha256": "2e86b56d48a27803fa32f6fe66d252746c92a875865af162b3a0941435199a12"
+  },
+  "THIRD_PARTY/NASA_MEDIA_POLICY.html": {
+    "bytes": 318329,
+    "sha256": "fd5b6f1895b77042324db43fa986b5cbeabfbeb3949c39a798b962c1f84d163e"
+  },
+  "THIRD_PARTY/aerial_rocks_02_metadata.json": {
+    "bytes": 916,
+    "sha256": "51a1f72df85a7a3e3fcdbde47c605a3ae54076f0b523a0ed6f4ed0ac9ada2ba5"
+  },
+  "THIRD_PARTY/MAKEHUMAN_ASSETS_CC0.md": {
+    "bytes": 6962,
+    "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+  },
+  "THIRD_PARTY/POLYHAVEN_LICENSE.html": {
+    "bytes": 73016,
+    "sha256": "2904dda3b01b63b035b53dfc0f47eef48f4c1dc183397da0ffe719ee35a32902"
+  },
+  "SOURCE_CURRENT/.env.example": {
+    "bytes": 142,
+    "sha256": "c238864cb1e95cabddacbaf014f429c5ed8bd23fa0b36173c6b9396a39038ebc"
+  },
+  "SOURCE_CURRENT/.gitignore": {
+    "bytes": 131,
+    "sha256": "7887b3aac2368b8121016e0b857a0527ce68ad5b54dc3ec875e5df5f56d81c40"
+  },
+  "SOURCE_CURRENT/START_VIEWER_WINDOWS.bat": {
+    "bytes": 50,
+    "sha256": "c37460bc0850f5a963de6cb81e15deefea14e69aea836f91f0b5015c268d7b09"
+  },
+  "SOURCE_CURRENT/START_PATHFINDER_WINDOWS.bat": {
+    "bytes": 50,
+    "sha256": "c37460bc0850f5a963de6cb81e15deefea14e69aea836f91f0b5015c268d7b09"
+  },
+  "SOURCE_CURRENT/test_server.py": {
+    "bytes": 1690,
+    "sha256": "077625ef1a1ea2cdd65f46116312491d9e83e42a81976f1a9f5060e06349d0b8"
+  },
+  "SOURCE_CURRENT/process_real_terrain.py": {
+    "bytes": 10144,
+    "sha256": "e55b7845c54dd208f42ad0556f3834b43fd3bbbf8ec97cf0bf5767a824c174f7"
+  },
+  "SOURCE_CURRENT/test_nasa_cache.py": {
+    "bytes": 1291,
+    "sha256": "9f6841773298a1e8844c8d06c129a784e6c37aaebd0ec7230a7993af06c229d5"
+  },
+  "SOURCE_CURRENT/serve.py": {
+    "bytes": 6486,
+    "sha256": "eabacc4077644db4e7ebd4bb4f9c8ba384e554616c525c6ef09a5664262e9d9f"
+  },
+  "SOURCE_CURRENT/requirements.txt": {
+    "bytes": 47,
+    "sha256": "ccb1b288b3ef4b322bb30d3336477c49232b3d089a8f33e00f1dc55e949f4b81"
+  },
+  "SOURCE_CURRENT/PREPARE_REAL_TERRAIN_WINDOWS.bat": {
+    "bytes": 725,
+    "sha256": "fec51f4e74ab795e8c29e24392ef28f835d3ced98e527537ca68b1872f9aa2d2"
+  },
+  "EVIDENCE/prior_reports/QA_REPORT.md": {
+    "bytes": 10004,
+    "sha256": "19169cc31fbcc476bb54efd9e54ba3b7674c609b7ec58e424813f6f1dbb41027"
+  },
+  "EVIDENCE/prior_reports/QA_DEMO_PATCH_REPORT.md": {
+    "bytes": 3974,
+    "sha256": "68acb41eb2928397c78c84c3e7e63ed71f4642a2d1ff3e8303a6598fb72f611b"
+  },
+  "EVIDENCE/runtime_screenshots/submission_atlas.png": {
+    "bytes": 158021,
+    "sha256": "6f4fdb51d47101237d60a3248578bca76f7d3a60b23e7fcb93fbcc04fd60df0c"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_stage01.png": {
+    "bytes": 170383,
+    "sha256": "ae9c41b01b514e7281b5fe4a80efaeb023d48b66d6e2964dd1be17e7ebd8ce4e"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_stage03.png": {
+    "bytes": 234875,
+    "sha256": "21ce467b757cfa1fefe798bda2d1d13f122e6655b274d86e8243b1bcf05284e3"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_stage07.png": {
+    "bytes": 232106,
+    "sha256": "34516bdfbb5036f92c7f96f91c0264dc7ca8c7a5355736351edec07a1294ba34"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_stage01.png": {
+    "bytes": 179095,
+    "sha256": "91e120248ae21078a8447233412870f4c007f334764d9bd2654bf7a392ed3f28"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_stage10.png": {
+    "bytes": 213401,
+    "sha256": "e06409fc8535e40f6afd22771996301116b8bf1f4430957200a7fa0a3c8ef382"
+  },
+  "EVIDENCE/runtime_screenshots/submission_presenter_stage10.png": {
+    "bytes": 199937,
+    "sha256": "ae30a5cae84dc72e7fb3590dc706bd3086c2dbcbac78c9c7c58c17b11d4f6290"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_ops_explorer.png": {
+    "bytes": 174374,
+    "sha256": "1bbbf158c5e86f77971fb8e95e9c6ebd566dd131488da5cbb57316b35fdff775"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_home.png": {
+    "bytes": 155091,
+    "sha256": "95415543929909c827d563446c64ec82cd49db55da896daac399e63a40bd536b"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_stage10.png": {
+    "bytes": 218800,
+    "sha256": "48fe5e2d099dbbd41e96ed5f507f6805bc0434f2f364502f6078fb9622e26466"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_crew.png": {
+    "bytes": 180841,
+    "sha256": "f510c23c0c29295d52a33d15bbe0731f5dced353f3f446f03c0f7ef6a24f84af"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_campaign_pass.png": {
+    "bytes": 77665,
+    "sha256": "b3084b3efc4819ed986dcb8a439dcad0b0d811e575d5074babca9d038f4c5d90"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_crew.png": {
+    "bytes": 180889,
+    "sha256": "2a6e1535e719854c231a073cdf24a4b2ac48ea1127683208ff3c3fe1ebd0ad86"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_atlas.png": {
+    "bytes": 170312,
+    "sha256": "9c7b810cbeaf5945790473c99f695f4d6cf3a4b325f95530ee4312bac18d0328"
+  },
+  "EVIDENCE/runtime_screenshots/submission_mission_ops.png": {
+    "bytes": 169051,
+    "sha256": "f10c79dd2beec79b12d1c80df2e296059be74847c7a8a5e2d7b30efd4a9ff23d"
+  },
+  "EVIDENCE/runtime_screenshots/submission_normal_unlock.png": {
+    "bytes": 139468,
+    "sha256": "faead19697f96a8fc50d096efc97032763bf8c2c6b99becde59a0f7e8c1c67ab"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_stage09.png": {
+    "bytes": 187993,
+    "sha256": "d30183ed6dddd5770ad53c75ce2e8d9038b45347de211e658f167b92a280929a"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_ops.png": {
+    "bytes": 178986,
+    "sha256": "9a8984256753a5d3894995fae0f89d870b2c7d3c7d9fc6d71acbcb16e5754771"
+  },
+  "EVIDENCE/runtime_screenshots/README.md": {
+    "bytes": 1001,
+    "sha256": "dc97fa4ea518c18332b6f5d0ae2e77db2a082b9f792400849fca69a37f648ace"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_stage09.png": {
+    "bytes": 192135,
+    "sha256": "1ba58efc19c6ba03a962f3bd7e1560fe9727449dbed634bc7088f699c9df0814"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_stage03.png": {
+    "bytes": 215956,
+    "sha256": "61bd942652258fa56f47b654b2ab7611beeb0685bef756eb4186bfbb4ec0e2bf"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_home.png": {
+    "bytes": 164160,
+    "sha256": "3d521954459c68b2d3a46b3257a1949c0d854f665c45ba7e99c6a2d361e5820c"
+  },
+  "EVIDENCE/runtime_screenshots/submission_explorer.png": {
+    "bytes": 154149,
+    "sha256": "0ddfe3355c8f5b74776386cd37eae5c0d54aa302ba5e1789613a7ec2cde85523"
+  },
+  "EVIDENCE/runtime_screenshots/recovery_atlas.png": {
+    "bytes": 169892,
+    "sha256": "4d484ede07eca975d556d402ac68b0dfcc07f75910e65ba6b47611d88e5730a2"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_ops.png": {
+    "bytes": 183344,
+    "sha256": "af5ab1f03acb49d44d298ba262e2dc5bb7d3b6bb120d7fb6482ee80382fa0d2d"
+  },
+  "EVIDENCE/runtime_screenshots/runtime_stage07_testing.png": {
+    "bytes": 224160,
+    "sha256": "fead2b3a47f8696410afc0e5bb54dafa87b2a3a05cba38991ee7bd41280469f7"
+  },
+  "DESIGN/HANDOFF_ORIGINAL_DOCUMENTS/ACCEPTANCE_MATRIX.md": {
+    "bytes": 4677,
+    "sha256": "35d2ea650150b8920dc148f3ef1b089eeacd06d5b08365d6a01382ab68da7840"
+  },
+  "DESIGN/HANDOFF_ORIGINAL_DOCUMENTS/AUDIT_IMPLEMENTATION_GAPS.md": {
+    "bytes": 2845,
+    "sha256": "639b08e602ce0ad3f8017b54b0e3a3e74fdfdaa4b4aecbe2e24a37a645d9660a"
+  },
+  "DESIGN/HANDOFF_ORIGINAL_DOCUMENTS/WORK_START_PROMPT.txt": {
+    "bytes": 9758,
+    "sha256": "66c16b38788078d3c76c512618b59a831afc19780cd77024b0adbc08d1cac9f2"
+  },
+  "DESIGN/HANDOFF_ORIGINAL_DOCUMENTS/FILE_MANIFEST.json": {
+    "bytes": 42207,
+    "sha256": "58f33b0a40281cd961417dee43ddcb66e536fdd42ddc09af5afa7f483aacb2c3"
+  },
+  "DESIGN/HANDOFF_ORIGINAL_DOCUMENTS/PROJECT_PACKAGE_INDEX.md": {
+    "bytes": 1055,
+    "sha256": "df6c7d3418a45d35bf7676dac8f1867ebee0bc028b8b688a7cd5331443800be9"
+  },
+  "DESIGN/HANDOFF_ORIGINAL_DOCUMENTS/README_CLICK_BY_CLICK_BN.md": {
+    "bytes": 1864,
+    "sha256": "f01d7276dc19fb1e2e4a27bffc30d090abff0f01e1fb90b83555b72e0fef87dd"
+  },
+  "DESIGN/REFERENCE_VIDEO/video_2.mp4": {
+    "bytes": 60088674,
+    "sha256": "91eecf30c2b762b7c51b7b7dfbc33e60f621919f277e6cc1d2be14b4ee720a8e"
+  },
+  "DESIGN/APPROVED_UI/03_GAMEPLAY_HUD_APPROVED.png": {
+    "bytes": 270565,
+    "sha256": "f73fe760c5784fd2a021729dee39c18ecedb49a4bd2b8fb12cda31f25fd625c2"
+  },
+  "DESIGN/APPROVED_UI/04_CREW_SELECTION_APPROVED.png": {
+    "bytes": 256926,
+    "sha256": "de6b71a43eaedd839fea056778863ba84f7ab616ef5eb6c7bd7f60ef0347d797"
+  },
+  "DESIGN/APPROVED_UI/01_HOMEPAGE_APPROVED.png": {
+    "bytes": 474889,
+    "sha256": "4f4812d3cc6ccdea6f1c642bd1de6962412853ec92c714300b1956ee286c22fd"
+  },
+  "DESIGN/APPROVED_UI/02_SIDE_BY_SIDE_HOME_GAME.png": {
+    "bytes": 312003,
+    "sha256": "09f7d80ae254f0daaf05ab167467809b298b75a5055a8392779c056c87f39728"
+  },
+  "THIRD_PARTY/dependency_licenses/ndarray-pixels__LICENSE": {
+    "bytes": 1078,
+    "sha256": "ec5114155d92f326802c964dcf9eb5261e09192c62f14d195d2a8be49eb1d489"
+  },
+  "THIRD_PARTY/dependency_licenses/@img__sharp-linux-x64__LICENSE": {
+    "bytes": 10273,
+    "sha256": "73ba74dfaa520b49a401b5d21459a8523a146f3b7518a833eea5efa85130bf68"
+  },
+  "THIRD_PARTY/dependency_licenses/tslib__LICENSE.txt": {
+    "bytes": 655,
+    "sha256": "210b19e543130388c68654b7497e967119ce17145f66ab7d85688fbd70f08751"
+  },
+  "THIRD_PARTY/dependency_licenses/uniq__LICENSE": {
+    "bytes": 1082,
+    "sha256": "e67aed7df22dc8031e4fcf5338fe91cb33e3817e5c58a99a2a2802eea9069791"
+  },
+  "THIRD_PARTY/dependency_licenses/postcss__LICENSE": {
+    "bytes": 1095,
+    "sha256": "5be1f3465bba68a626777f984878814aaf35e7ef8e9fd314d469bcf887050fb8"
+  },
+  "THIRD_PARTY/dependency_licenses/@gltf-transform__extensions__LICENSE.md": {
+    "bytes": 1078,
+    "sha256": "2c4f111d00dbf22b10d31a14813c5f5de6a828640f7311f26b9dda89b3fce165"
+  },
+  "THIRD_PARTY/dependency_licenses/@gltf-transform__functions__LICENSE.md": {
+    "bytes": 1078,
+    "sha256": "2c4f111d00dbf22b10d31a14813c5f5de6a828640f7311f26b9dda89b3fce165"
+  },
+  "THIRD_PARTY/dependency_licenses/source-map-js__LICENSE": {
+    "bytes": 1526,
+    "sha256": "6cb0631f71c7749763fd3dd1d5bee52dd1070ec17f2edc1710079ad070bd2fbd"
+  },
+  "THIRD_PARTY/dependency_licenses/fdir__LICENSE": {
+    "bytes": 1053,
+    "sha256": "9a39f2aadab11a3697edd668ff2d8ad885b649737b7ab4d3bf12b34e5ada0c86"
+  },
+  "THIRD_PARTY/dependency_licenses/picocolors__LICENSE": {
+    "bytes": 787,
+    "sha256": "6582629e2979466878f6014313dcc2f3756c9616148682227ce3063dde310750"
+  },
+  "THIRD_PARTY/dependency_licenses/sharp__LICENSE": {
+    "bytes": 10273,
+    "sha256": "73ba74dfaa520b49a401b5d21459a8523a146f3b7518a833eea5efa85130bf68"
+  },
+  "THIRD_PARTY/dependency_licenses/iota-array__LICENSE": {
+    "bytes": 1082,
+    "sha256": "e67aed7df22dc8031e4fcf5338fe91cb33e3817e5c58a99a2a2802eea9069791"
+  },
+  "THIRD_PARTY/dependency_licenses/meshoptimizer__LICENSE.md": {
+    "bytes": 1079,
+    "sha256": "f03037ca7bad1e3eb7f4a63fa6084a8baabd5ba30d3c239a9a7f35705d873e26"
+  },
+  "THIRD_PARTY/dependency_licenses/three__examples__fonts__LICENSE": {
+    "bytes": 2006,
+    "sha256": "35e8279356d7890871c4fce804d157e3f21456a7311ef2caab5cb4705c71b6bd"
+  },
+  "THIRD_PARTY/dependency_licenses/tinyglobby__LICENSE": {
+    "bytes": 1076,
+    "sha256": "22c68811e174cbbfb3813d4135918df4f540959c14d872e601d9abe83d3cde8f"
+  },
+  "THIRD_PARTY/dependency_licenses/ndarray-lanczos__vendor__LICENSE": {
+    "bytes": 1088,
+    "sha256": "fbe1dfa21129681cace5466716b4be00e95792c581b7e37b3ff43f18fe817c16"
+  },
+  "THIRD_PARTY/dependency_licenses/@img__sharp-wasm32__LICENSE": {
+    "bytes": 10273,
+    "sha256": "73ba74dfaa520b49a401b5d21459a8523a146f3b7518a833eea5efa85130bf68"
+  },
+  "THIRD_PARTY/dependency_licenses/@img__colour__LICENSE.md": {
+    "bytes": 4433,
+    "sha256": "e2eaa4603c14cb26f301e88648c12a853fa3f0f5da6d4b0972958c666e7f2ab8"
+  },
+  "THIRD_PARTY/dependency_licenses/cwise-compiler__LICENSE": {
+    "bytes": 1082,
+    "sha256": "e67aed7df22dc8031e4fcf5338fe91cb33e3817e5c58a99a2a2802eea9069791"
+  },
+  "THIRD_PARTY/dependency_licenses/detect-libc__LICENSE": {
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  "THIRD_PARTY/dependency_licenses/ndarray-lanczos__LICENSE": {
+    "bytes": 1078,
+    "sha256": "ec5114155d92f326802c964dcf9eb5261e09192c62f14d195d2a8be49eb1d489"
+  },
+  "THIRD_PARTY/dependency_licenses/rollup__LICENSE.md": {
+    "bytes": 35231,
+    "sha256": "fa1bd040c5bdeefe65b3821cebf474f2733ce65df13089bd151dda1778e62fe8"
+  },
+  "THIRD_PARTY/dependency_licenses/vite__LICENSE.md": {
+    "bytes": 101176,
+    "sha256": "a77a1c089806b39ad339535bdf3677f636c91d96693e8ad7b11fe733f650ea64"
+  },
+  "THIRD_PARTY/dependency_licenses/nanoid__LICENSE": {
+    "bytes": 1095,
+    "sha256": "da4db1480d9beea3483a2eda5c53b22238d0827d57da162b48f122e04d2d9987"
+  },
+  "THIRD_PARTY/dependency_licenses/@gltf-transform__core__LICENSE.md": {
+    "bytes": 1078,
+    "sha256": "2c4f111d00dbf22b10d31a14813c5f5de6a828640f7311f26b9dda89b3fce165"
+  },
+  "THIRD_PARTY/dependency_licenses/three__LICENSE": {
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  "THIRD_PARTY/dependency_licenses/@types__ndarray__LICENSE": {
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+  },
+  "THIRD_PARTY/dependency_licenses/esbuild__LICENSE.md": {
+    "bytes": 1069,
+    "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681"
+  },
+  "THIRD_PARTY/dependency_licenses/@types__estree__LICENSE": {
+    "bytes": 1141,
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+  },
+  "THIRD_PARTY/dependency_licenses/semver__LICENSE": {
+    "bytes": 765,
+    "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+  },
+  "THIRD_PARTY/dependency_licenses/property-graph__LICENSE": {
+    "bytes": 1078,
+    "sha256": "ec5114155d92f326802c964dcf9eb5261e09192c62f14d195d2a8be49eb1d489"
+  },
+  "THIRD_PARTY/dependency_licenses/ktx-parse__LICENSE": {
+    "bytes": 1078,
+    "sha256": "79847431f9ecef9cf399085cb863452e71a6dab99738f4f0c1ea06c6484b5692"
+  },
+  "THIRD_PARTY/dependency_licenses/@emnapi__runtime__LICENSE": {
+    "bytes": 1076,
+    "sha256": "2088f55c6731498410b20c95ebd345ed4a4a800bf74c0fba4d282fd2a021daaa"
+  },
+  "THIRD_PARTY/dependency_licenses/ndarray-ops__LICENSE": {
+    "bytes": 1082,
+    "sha256": "e67aed7df22dc8031e4fcf5338fe91cb33e3817e5c58a99a2a2802eea9069791"
+  },
+  "THIRD_PARTY/dependency_licenses/is-buffer__LICENSE": {
+    "bytes": 1081,
+    "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac"
+  },
+  "THIRD_PARTY/dependency_licenses/picomatch__LICENSE": {
+    "bytes": 1091,
+    "sha256": "d0cd141b0c322fded5dfad1d4645bb2fedfc05b7321fe1009469638190d59ef9"
+  },
+  "THIRD_PARTY/dependency_licenses/ndarray__LICENSE": {
+    "bytes": 1087,
+    "sha256": "f149791eb5101f10b1fb88997310f2b054604106c4bf6050e0aee66a5bd35cc7"
+  },
+  "SOURCE_CURRENT/viewer/package-lock.json": {
+    "bytes": 61336,
+    "sha256": "a5a6eed56a95bda15842b1219e802025d93771b9c7a90c76eadcc0ddafbcdf01"
+  },
+  "SOURCE_CURRENT/viewer/decode_assets.mjs": {
+    "bytes": 790,
+    "sha256": "705f1a921ac1c723e922e7cf91afbf98af8b8028e6294932e490e139f064681e"
+  },
+  "SOURCE_CURRENT/viewer/index.html": {
+    "bytes": 10319,
+    "sha256": "122c54c234557e92f03cf89f8231dcff2013828622a6ddf009f1ae7e59d063a7"
+  },
+  "SOURCE_CURRENT/viewer/package.json": {
+    "bytes": 550,
+    "sha256": "69891ce6250beb819625b0d0644c222f6d4e41eafdb13b35352e3c28c076fd26"
+  },
+  "SOURCE_CURRENT/tests/test_processor.py": {
+    "bytes": 1878,
+    "sha256": "0965e9f7416137d8d42b940273802d19f536e0677cf0de56b0321eac69567e35"
+  },
+  "SOURCE_CURRENT/asset_pipeline/habitat.blend": {
+    "bytes": 5430520,
+    "sha256": "5bc20fac190f85fe4aade9446c62a6d004dded9ddf298497b68165ffd23d8b8b"
+  },
+  "SOURCE_CURRENT/asset_pipeline/eva_rig.blend": {
+    "bytes": 10862620,
+    "sha256": "2937db3229ed207819639c93b10fbf2dd98fc07df299a4c408e9290f6b0e0876"
+  },
+  "SOURCE_CURRENT/asset_pipeline/optimize_scans.py": {
+    "bytes": 1048,
+    "sha256": "c71ae9ca1ad5b6027605b80bca90467e68b85eb0e35fa1958920c4d8e990e23c"
+  },
+  "SOURCE_CURRENT/asset_pipeline/repair_cliff_surface.py": {
+    "bytes": 1043,
+    "sha256": "abde2ced6be80a2b5e99beda2df9ec3373891ff26ac3c40a2d9b5f089e7d98ed"
+  },
+  "SOURCE_CURRENT/asset_pipeline/atlas6_inspection.png": {
+    "bytes": 153967,
+    "sha256": "6444d3182e1f739e71d968f6fd3190fca79dabd86ed5c88e7f3039a4f6a9aaa5"
+  },
+  "SOURCE_CURRENT/asset_pipeline/alpha.blend": {
+    "bytes": 28267828,
+    "sha256": "76b2094def6982886afb83d784c301082e71fc4d8fd4ec3ec24a6723533afca9"
+  },
+  "SOURCE_CURRENT/asset_pipeline/build_pebble_lod.py": {
+    "bytes": 1029,
+    "sha256": "5a973939ab987c86e1f718b61ea11c7bcfbd4dd746c9bfae25450c7026fc2205"
+  },
+  "SOURCE_CURRENT/asset_pipeline/upgrade_assets.py": {
+    "bytes": 5275,
+    "sha256": "b344babf7ac530c546b7e4b99ef03e19003b1ddca41baa2a9dd434a273c2e66e"
+  },
+  "SOURCE_CURRENT/asset_pipeline/skyscout_inspection.png": {
+    "bytes": 91748,
+    "sha256": "efcf9cb7d802d25cc82468140bfa30cc0c585039f45318945a8238c751ec2ee4"
+  },
+  "SOURCE_CURRENT/asset_pipeline/fetch_assets.py": {
+    "bytes": 2060,
+    "sha256": "40f767a60ff44be091d04892226898f607e12342491bdb80342d855af1be8bde"
+  },
+  "SOURCE_CURRENT/asset_pipeline/check_assets.py": {
+    "bytes": 1300,
+    "sha256": "e262017a7bbd84a89624d8dc0cd47ef712c9850bd40929348ed96cc932acbf89"
+  },
+  "SOURCE_CURRENT/asset_pipeline/download_sources.json": {
+    "bytes": 4349,
+    "sha256": "e7283a7dfbcaab8221412631f55b5babb26ac93e9b51aff2c7726e7105914b58"
+  },
+  "SOURCE_CURRENT/asset_pipeline/atlas6.blend": {
+    "bytes": 27812293,
+    "sha256": "428276d644e9c456fad5daf8e5ed0672a8ee04ee832d2aad6d7865ac16c694c2"
+  },
+  "SOURCE_CURRENT/asset_pipeline/alpha_inspection.png": {
+    "bytes": 93286,
+    "sha256": "8af278bd28d2181fd4e18ed20ef2ce99357f23546e2bfc3927019e957d2cf5ae"
+  },
+  "SOURCE_CURRENT/asset_pipeline/skyscout.blend": {
+    "bytes": 5797136,
+    "sha256": "0f19b3217f1e40eb8bfdecc411adac215e481c23eb4eb7c0add10988a80a348b"
+  },
+  "SOURCE_CURRENT/asset_pipeline/build_assets.py": {
+    "bytes": 8302,
+    "sha256": "47f7c95f6c353dcfe7f9270333a5d9a66bd1509c240b91a3bda626424969076e"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/audio.js": {
+    "bytes": 5708,
+    "sha256": "85e33de3522acb7e23bf22ef6e5d434010c7c4bb552ce4b51f7fa63319d02baa"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/challenges.js": {
+    "bytes": 3290,
+    "sha256": "78554f7c3a946f5b5c6a15b3953e46b6b8f2c16ff1844da3528ad41bc4a8f380"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/missions.js": {
+    "bytes": 6077,
+    "sha256": "08f016aa6f2fcf52bfde426231438528d34fddf578e550446f88f4c1cf442084"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/style.css": {
+    "bytes": 10622,
+    "sha256": "35993a0770b42e5bb0ccc39376b6bed0ec83c23799b9b0428b3cfc9b65e1bfe2"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/main.js": {
+    "bytes": 50113,
+    "sha256": "e5d4390ae11cb3dd015183eb968e221082e01d3745a8124f0ed024f8af5a272f"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/visual_detail.js": {
+    "bytes": 4241,
+    "sha256": "2b6720cc3250cad682d574b02034449aa272560030283d0ef6183a54a4602058"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/router.js": {
+    "bytes": 2054,
+    "sha256": "a01bfe552f29f1e37fd553b17f26bc8793d9af3b0dda9601f3d03403e7d55edc"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/router.test.mjs": {
+    "bytes": 772,
+    "sha256": "26c2fcf26b7c511dc02b7e830a3bece87d48aeded16af3d456c3eb09425b013d"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/stage_props.js": {
+    "bytes": 7326,
+    "sha256": "3872ee676e443279f487dee00d69d868ef462a3c13caf3c16eb23347545d7c38"
+  },
+  "SOURCE_CURRENT/viewer/tests/presenter_guidance.test.mjs": {
+    "bytes": 1418,
+    "sha256": "16f1b666d4dd9811af9b6e9f6543d0c122db9389087d39e9788bee4688fdc626"
+  },
+  "SOURCE_CURRENT/viewer/tests/submission.test.mjs": {
+    "bytes": 1445,
+    "sha256": "4bb30f72b00b94874be226e52d3353229900739648fb321b491dbb2c6ad7b2b1"
+  },
+  "SOURCE_CURRENT/viewer/tests/engine.test.mjs": {
+    "bytes": 7268,
+    "sha256": "2d115786524ac8759abca814e24fbf0f3b531d9f7c3820e635d5514eeb9a5816"
+  },
+  "SOURCE_CURRENT/viewer/src/audio.js": {
+    "bytes": 8889,
+    "sha256": "bcec2ecf8582f353658c8d3ebedab07c09bd10fcc95676f3313fed822be27ccf"
+  },
+  "SOURCE_CURRENT/viewer/src/controller.js": {
+    "bytes": 7163,
+    "sha256": "a84f3d71b3c9fbd386e84054da82eaee63f13c3bc9b4c9e2711e6e88c04567bd"
+  },
+  "SOURCE_CURRENT/viewer/src/missions.js": {
+    "bytes": 13604,
+    "sha256": "9cd1d05e71c7b76fbd87e139fcd11fa32c20bf527fb81d3f358683cf9538bc5c"
+  },
+  "SOURCE_CURRENT/viewer/src/style.css": {
+    "bytes": 19742,
+    "sha256": "1625b3da338956d0d06d3f6a2eb31532ac4ab40593edcd559e083b3cf5c82164"
+  },
+  "SOURCE_CURRENT/viewer/src/tools.js": {
+    "bytes": 5225,
+    "sha256": "7fac4e237309203e9fba86118051d69882cbecbe7b2bbd9b265f3a02226f375f"
+  },
+  "SOURCE_CURRENT/viewer/src/submission_audit.js": {
+    "bytes": 4522,
+    "sha256": "c0cff727ac1b23ce95a9b299833d53c1a92dade9eb78796bdcead6f75667b71c"
+  },
+  "SOURCE_CURRENT/viewer/src/runtime_qa.js": {
+    "bytes": 11421,
+    "sha256": "72fd523791c5014277a212e4dbec2662ca3417aa647de86905ce4ac0f1f110a3"
+  },
+  "SOURCE_CURRENT/viewer/src/demo_guidance.js": {
+    "bytes": 3933,
+    "sha256": "ad9f719e2bfd4907c03935c79a28092d2ff866c431b2648b43a9523e1868b9ed"
+  },
+  "SOURCE_CURRENT/viewer/src/main.js": {
+    "bytes": 54833,
+    "sha256": "9a4d5f3937f4c35f05c043e5f9046d050672e229e80ae40a77d1fc530495c0aa"
+  },
+  "SOURCE_CURRENT/viewer/src/router.js": {
+    "bytes": 4312,
+    "sha256": "33e8258a6168791fb4b9175fa5ccb24e094ac146749d5d48d972f16687aacac8"
+  },
+  "SOURCE_CURRENT/viewer/src/save.js": {
+    "bytes": 2316,
+    "sha256": "45b934bc72749100cb18010e7dee33b798eb4dd81e635046e6809fbc2207010f"
+  },
+  "SOURCE_CURRENT/viewer/src/world.js": {
+    "bytes": 30567,
+    "sha256": "6c37c7497cbbf82e4664b7742108dcf303ec0588c02c0902d9346f64def762a7"
+  },
+  "SOURCE_CURRENT/viewer/dist/index.html": {
+    "bytes": 10607,
+    "sha256": "809ceef39c30d173061cc43e66ef47157c0d4b2daa192656929fd0781388e0ae"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/orbit.json": {
+    "bytes": 6924,
+    "sha256": "39e62978c8930ca05737a98f14690b9b47a0f1dcdffa399df3de671427cf777a"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/fetch_status.json": {
+    "bytes": 1165,
+    "sha256": "b41f77e9b26c8b169846e1c5f13c209da94cb23492c62ab039a10c4930018095"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/catalog.json": {
+    "bytes": 1965,
+    "sha256": "7e4badee24ffefaa659a00a5f91931d8a37975b3c1b6d8f2f597fa1b272ae19d"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/image_1.jpg": {
+    "bytes": 159998,
+    "sha256": "9858c27b9d75f8ddabcb19437515e8c682102026c0e78ccfe445430d2f4a6566"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/insight.json": {
+    "bytes": 38928,
+    "sha256": "d070eb86c7902e1d257ac347f9caaa004c50253cfde3578928e8f778c85f70f3"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/images_perseverance.json": {
+    "bytes": 22461,
+    "sha256": "85f839b2312e0251bb0e2d3dadac5f675865ec5677b8608ed00c98fe480cd598"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/meda_wind_index.csv": {
+    "bytes": 82758,
+    "sha256": "611d7d0ef918ddfc82be7fa4666d507a775aaaa944528227d77624c1a8c8e91a"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/mars_facts.html": {
+    "bytes": 300755,
+    "sha256": "98fd2ff4b4f153e9307c2a972d3d50c049eca2e85095aac25d064911d1cf6754"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/trek_capabilities.xml": {
+    "bytes": 7040,
+    "sha256": "2fb4722b5af0417980052354eab806cb9bdea003617548433cec8d8813d8d125"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/meda_product.xml": {
+    "bytes": 10671,
+    "sha256": "ca9a6770fd831f4c121ae7f63e25c180a4e09b899f062edebaf16ddd848abaa3"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/environment.json": {
+    "bytes": 5710,
+    "sha256": "badba314cc7f3c078250cd4d604f2066ec46bb252b2c67471e31901c585fedf3"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/meda_page.html": {
+    "bytes": 30620,
+    "sha256": "e55d40c49b18c3c52daed2d26dadac6cab05e9c91a229aa6e8758499fddb2c12"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/WE__0036___________DER_WS__________________P02.CSV": {
+    "bytes": 2657575,
+    "sha256": "cad6cf9c2fb2918c4047d254f682663d241eceaea20ae60cd3fa3e07ffd3c426"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/trek_east.jpg": {
+    "bytes": 62983,
+    "sha256": "581f9fa5565176f08cac1b1aabb7c8897eac284c1d4b9c0a25d19445713189e5"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/trek_west.jpg": {
+    "bytes": 62976,
+    "sha256": "e6107f23837680f0bacbf7e9d0fc3fb364e897039203eff9c6f2e8af73191856"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/meda_directory.html": {
+    "bytes": 15937,
+    "sha256": "99f4c35479ed854fd4491ef53817547af97afd3f93ac05728b488f562d349e13"
+  },
+  "SOURCE_CURRENT/viewer/public/nasa/image_0.jpg": {
+    "bytes": 170604,
+    "sha256": "74ebb9d1771ddf93cad56e6650596adacc534d9fc4208c997afd9966c829ce14"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/crew_sadia.glb": {
+    "bytes": 4878368,
+    "sha256": "777f6e123af74c87e47066e640f8a069bd42686c9c42d4a69fe13f3da29b83c8"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/scanned_pebbles.glb": {
+    "bytes": 7634528,
+    "sha256": "f517c1fc6fb6df109eb5d95f5095a74ea8ff41b0123afbda3fd454fbe730543e"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/nasa_sol1.mp3": {
+    "bytes": 102476,
+    "sha256": "0f7dc76e5ad2757b8014bd3d322b0b178fa0b0a9d329dfe3332a1cdb1732af70"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/crew_leon.glb": {
+    "bytes": 4878968,
+    "sha256": "e3a95ae6b38eee6ae668319bdb4ca6be012fcd4eabc9459a6aea9c6dececd52f"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/rock_face_03_nor_gl.webp": {
+    "bytes": 1892786,
+    "sha256": "63bd82787148b88200f761c7ffa01b4ff990233a036e249fe5f7a309d731ce7d"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/crew_amelia.glb": {
+    "bytes": 4878764,
+    "sha256": "b8f3ea90d2654a534b2ca7118d0ab0fcddc8fe97534c86900a39eb1fc0d7666e"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/crew_ethan.glb": {
+    "bytes": 4878992,
+    "sha256": "3e3c8f7343c4bd880976d53615f748fc8205b00d8b549953cb0632ae62f928c9"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/rock_face_03_diff.webp": {
+    "bytes": 537540,
+    "sha256": "2ed4455422e532fb6260e259900f8d2ff0af95c993fcbe0c036580ad782a4805"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/crew_noor.glb": {
+    "bytes": 4877972,
+    "sha256": "99a96c69f17346a01986f3b18c522e16807faf8456e68363f06cfb6c22031a27"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/aerial_rocks_02_rough.webp": {
+    "bytes": 802914,
+    "sha256": "75a3cb90d6ee8fde2ed71e2d9d63cf6e47e832b41fca686f3e8409ad090ba2ac"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/atlas6.glb": {
+    "bytes": 6690088,
+    "sha256": "8e35ef0eee104b2106a58790e02aa1d199ce0bec3d9b5d60c6743350a9ba473b"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/crew_orion.glb": {
+    "bytes": 4878316,
+    "sha256": "d7a54eb7528f37eed16a31a5a4f2b94d6a0025ea7add371030da3e8a51878ae1"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/scanned_boulder.glb": {
+    "bytes": 7824708,
+    "sha256": "e78c5a4de4869f30cc8b2d94361bd1208c5bdb18d92edd4c95ef73c0ebd175ef"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/eva_rig.glb": {
+    "bytes": 4843048,
+    "sha256": "642b96734d8dd344b46939a5573a22ea5226e7adcaf26a734b79a69d32938bd4"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/rock_face_03_rough.webp": {
+    "bytes": 880644,
+    "sha256": "79960d7da9a9379dd37f0b9643f282573c89c99627e9b187515e7b122edb146e"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/alpha.glb": {
+    "bytes": 6981412,
+    "sha256": "ddf7afce9573fb90efceb780d6e3b0fd36652833b2cb5dc21450a0951e7810db"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/aerial_rocks_02_diff.webp": {
+    "bytes": 721852,
+    "sha256": "9eea283a6498cabd2af1142e94eb11ef35920f311929fc7d712e4cee8c6fa9c0"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/skyscout.glb": {
+    "bytes": 629692,
+    "sha256": "ae196a3de20fd8e4d6500cd7e5a582e3e20305530daf86da027299b52f08428c"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/habitat.glb": {
+    "bytes": 102132,
+    "sha256": "0c6e69faf56e658a946009857cd468b63fece82a5747744c50d5b734eb3ebcab"
+  },
+  "SOURCE_CURRENT/viewer/public/assets/aerial_rocks_02_nor_gl.webp": {
+    "bytes": 1988406,
+    "sha256": "fd1610a91c4cde01d4c9fecbcd77488a6376a1ae703a9ff826ed2987662884f0"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/manifest.json": {
+    "bytes": 14240,
+    "sha256": "9a9f71f71d19dd99b0e5d4f7f778cf91cadec177a2876f312f68a6b27ef74b22"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "35120fee92cca3aee11ab15d8acfdffefad51776299a6d3832a077733bb45a65"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_1/optical_observed.png": {
+    "bytes": 129285,
+    "sha256": "17dbea93f1fa11cb0bf1b9a063964daa47a7de7688da0e42082be16f58642d7b"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_1/optical_styled.png": {
+    "bytes": 253933,
+    "sha256": "54d8e8d47a7b129e3f9c59eadca51c390c3ac9148db33092dbf1995fb26c91c1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "61ecfff0bf6bc67f5ef7f483c9ca20536e7a936fde6a76ebead37efaff61b7a1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_0/optical_observed.png": {
+    "bytes": 121936,
+    "sha256": "f6f70443452e442a05904d6b2f10951667f526cb78899c80b5e7ced8edc3881c"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_0/optical_styled.png": {
+    "bytes": 235545,
+    "sha256": "543cec612c6b0216b91337788c8899f589fefaca989e939468bbc386d256eeee"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "452eb1a07bfd7aba361f4c07e72d5dfa9ea32f358f90a9871efc53da715670eb"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_1/optical_observed.png": {
+    "bytes": 131343,
+    "sha256": "6810b65d778c3096ff2bce3b50fa173f0799a859c80177874cc57d1c705db235"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_1/optical_styled.png": {
+    "bytes": 257038,
+    "sha256": "32857bde6632d07411437358edf4d3f7fd8d0ff8eda3e567c7e682e111d9a7bb"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "2b22562087cc92012990461ce38ce462d237d592110a8ccf8c8cc730cf3430c7"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_2/optical_observed.png": {
+    "bytes": 122314,
+    "sha256": "0bd934135717ee3a43dccc166bb58ba6bbf70537c1961e929438f706f978fc16"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_2/optical_styled.png": {
+    "bytes": 239103,
+    "sha256": "1d65ead1c139e18d6254f595793e8a3b55ed2fb8c61845682fa6e655d0acc361"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "2818a77ccb8f496978c512e9efc583dfa78a05959de746c7872560d2f3f95123"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_0/optical_observed.png": {
+    "bytes": 120458,
+    "sha256": "fd27ef64c270909e828894f9b4215329e27581c3fc6027c1f22335cf0ea6e515"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_0/optical_styled.png": {
+    "bytes": 235558,
+    "sha256": "33318dd6cae4204ea3dced4fd8c87278efce4986d90d6ccecbe0bb5c42f255e0"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "dbcf3e0b3540db8e7eb273d83d98f134b804c86a1f6e17ebbc1ce9e235e53300"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_3/optical_observed.png": {
+    "bytes": 118383,
+    "sha256": "13aa28e94ee79a76799dd031b00af1e2ee0d82de8377e49e71c4db8f53393276"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_3/optical_styled.png": {
+    "bytes": 231551,
+    "sha256": "b693e3de7c2d15854060cda6c0a4e6eb0074344400c87fdf8c01a58b48e278cc"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "c952a3b9896a0ecc99c0065901fcbe2b15ca28b2146dfcb39252383f5cc1f852"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_2/optical_observed.png": {
+    "bytes": 124723,
+    "sha256": "d27cbebde5e766d787649596f338197f56f3389e9487a39b9629fd1b952bb47f"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_2/optical_styled.png": {
+    "bytes": 242519,
+    "sha256": "d5aaf652f48a4be8d40f79555e972c416c4a8a9cf1d53453c547c6532f7dedf2"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "a032a1eb2ef7adb34e8af19b5f4bd4e9a19f5ecf56be07fafbcfaa7f1fbcd7bf"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_0/optical_observed.png": {
+    "bytes": 129673,
+    "sha256": "efeccb40adf0f826d773f1e72f09ffca4f93abb3f5aaf0e8beb1b3def09a9cbd"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_0/optical_styled.png": {
+    "bytes": 255115,
+    "sha256": "e457e53d398cb3b66893634cd01bd5f8a2111340593c1088147c9621b53ad64e"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "1e562e0ddd46ce68b7fd1a071981887798bff74d59f51bb10af372e9843c18e5"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_3/optical_observed.png": {
+    "bytes": 114346,
+    "sha256": "605c9ec1f0d9943dccf64e0b26eef3ea4809d7035ffde27d79fa168ac9c53471"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_3/optical_styled.png": {
+    "bytes": 216729,
+    "sha256": "bf7c3e14fa6950191edf060d7b7dc5a91d3ce73ab60d7d5b0e4a1b4924062f73"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "7449a708a94b188ae92b0a3618f863ece88d2361b71d44759741bcf1a169b373"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_3/optical_observed.png": {
+    "bytes": 125586,
+    "sha256": "7d98e17851653cc64a9d6fe87cc21bbe0b07defe0bf70bfc3be3869f78bba09b"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_1_3/optical_styled.png": {
+    "bytes": 245514,
+    "sha256": "2afde5b43d7cec96bd59dc7274739d325f1ce620d8fe2e825b28bba6cae4aad7"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "cd1b193e3537b0bca2d499b19192f3b0a200d3c0b9ddb5da3ec3fbd7e581f776"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_1/optical_observed.png": {
+    "bytes": 129891,
+    "sha256": "8cfd5631f343a2726f4d6c1848553482d99424c566ef4c97a5f51bfa0cf00f88"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_1/optical_styled.png": {
+    "bytes": 253951,
+    "sha256": "ba5b5124ca0aaedc4da2e1f36d22a3901d846c09015e1bc5b0ea7f179f6b9c36"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "9d46fa75ae36122170c52a205249106b9b67682308fd558248e5403918d1dff0"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_2/optical_observed.png": {
+    "bytes": 120569,
+    "sha256": "a86e5882fbb27f52f4f93f7c11ab43adcf37c75ce12459e0e7216b3b9ac89b3c"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_2/optical_styled.png": {
+    "bytes": 238019,
+    "sha256": "a0b62664a10bd736075a283437f50883286560fa0a66f6445f9eee73700524db"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "ac84f16ab13811fca4d4ac92af4dc59fd5d324299f11f4f9cbc849be2fd403d0"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_3/optical_observed.png": {
+    "bytes": 123745,
+    "sha256": "64d270e256aa4cc84fd6422eb613e50941dff275ebb19a4b5feb69eb7fbfd7bd"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_3/optical_styled.png": {
+    "bytes": 236931,
+    "sha256": "71acaca5e14f78aebc6ecef0c1f513462463190b9d592098bda2b7985b48034a"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "b46ebf6b06f5d4a8adabbd266b4fe240126c2c54f8bc37af3fffc053fb9e2b61"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_0/optical_observed.png": {
+    "bytes": 129289,
+    "sha256": "6960578d50480184103d4ea78000fcd2b7f0c5bb26675d70c25e5c7e57ffb89a"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_0_0/optical_styled.png": {
+    "bytes": 255252,
+    "sha256": "2e2ad64c3513c1e3c7e95a3d5a7a80aa2909f4dd69d5ad439f8aac0d5cf47c86"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "d9d3aab6c2cc231a58b0b0e06ba51ad8c61a45c97d7196fe54ee3995899f7653"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_2/optical_observed.png": {
+    "bytes": 121877,
+    "sha256": "d570982302264945807ccb1fcaabc581946a70310c11f717dc7b5a171a59724c"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_3_2/optical_styled.png": {
+    "bytes": 239121,
+    "sha256": "f0549c658f83cfa4bd75a38e54e168615583603c7d1948374fa23a8daf28ee40"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "9ad4bdd8133dbed5fb84b754f075b4dfc8b741796d44ba87d88f94d6699125be"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_1/optical_observed.png": {
+    "bytes": 128118,
+    "sha256": "a6660203b1209b2e7ad090642326a4cb642850ca6fe3bb2c713e2f96935b3357"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_CENTER/tile_2_1/optical_styled.png": {
+    "bytes": 253191,
+    "sha256": "3d79399820185a92f8397941aea9b1d110d5b0e13b65ec0b83b594262c700f90"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "b74042abca374e4c5237d09720f90b930a22937b845e70ab2c023e595f81bafb"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_1/optical_observed.png": {
+    "bytes": 121415,
+    "sha256": "31b71c53ea0039c9c467d11d9bde96353fbb97bef84b6b4f8f2f2459deb633da"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_1/optical_styled.png": {
+    "bytes": 234072,
+    "sha256": "b01ce3b80b182f1828f4fef913585abde5dc5aa64257ac7fe6505ce00b7bcd5d"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "7012ce3ae7d21f59a3f988b3f4fe014a5b053ffd1ddd7931e1a067c16cc652be"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_0/optical_observed.png": {
+    "bytes": 121458,
+    "sha256": "9779acb67158ff15e6ec69d3779196d2cb43a8c59b969f5a65f082bdbae92483"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_0/optical_styled.png": {
+    "bytes": 231954,
+    "sha256": "63b0994959121f0bcdfd0329b62b6eaedc3ae510420c054f983f27b2f33b540b"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "9b6dc571aafb517be7b038cec299593de53f6e6af5de7949e8cceac0a6a18125"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_1/optical_observed.png": {
+    "bytes": 108097,
+    "sha256": "40b35c17ef23a8fd23fc73851d068e63438a3838c78309d10ab9fdad3f4eecf8"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_1/optical_styled.png": {
+    "bytes": 207602,
+    "sha256": "1659d503dda4dd3504de7bc77941c69b18be55590ce8948ae566c8cb900faa8a"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "f460c73cd8bd8131252ecd998bab599cff2d1e079f350946afe213461392f5a9"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_2/optical_observed.png": {
+    "bytes": 117058,
+    "sha256": "e8c1739752e5d9b4ddf9310f4135a57944cb8916f58e4e9f532becfe2908f4b7"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_2/optical_styled.png": {
+    "bytes": 225459,
+    "sha256": "2f8f05bbbc66a9f85af05f3e0dd5bb4ce25074ad32e670da356f782e3c68bae3"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "c79ca00159e64565ebc906d0227614e71fb90dce13f722dd96ce3404c6ecbf87"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_0/optical_observed.png": {
+    "bytes": 113054,
+    "sha256": "48101f9d989b766ed554c0fdb8a2ada9075381414a763dddc5ca68056b2a8798"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_0/optical_styled.png": {
+    "bytes": 219625,
+    "sha256": "2af93799476ab22c9b73d96c1f02c2ac84cf81970a8df0f2148ccb9912cbe2ce"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "b6616ea636a8f28cbaa234626ffd761d1a75826bb778159ec15787731e5d0d05"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_3/optical_observed.png": {
+    "bytes": 116015,
+    "sha256": "ada431ad0d1aa5e71d4a58741478b60803a76211fea79fed79dd9fc0ed65aaba"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_3/optical_styled.png": {
+    "bytes": 220107,
+    "sha256": "402ec1d1bfa78c8fbf89b34afe8ae1170cbf08b677c47810230ac59580f84656"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "5f4443c52e8142e5fbebdc1112b8d710933a0860cbd3caf6756b147edd649ec5"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_2/optical_observed.png": {
+    "bytes": 123992,
+    "sha256": "2d9dc31a8efb88112fa14f9c47053b587be10e25247126259c98c32f57db49d9"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_2/optical_styled.png": {
+    "bytes": 238441,
+    "sha256": "22e843b1cebd33d55877fecaf2392394e13f37b32f13ce99dcb761c9816b1bc8"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "5c63b4d43d1d0c7cd36dd808a9a327220a9a4f1ecd00910558643f48c8bbc324"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_0/optical_observed.png": {
+    "bytes": 124209,
+    "sha256": "d27267e7d1c134977e8b5b22ba2038083dfe8668975e6f978acd30f4d59fae20"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_0/optical_styled.png": {
+    "bytes": 238542,
+    "sha256": "dd4aa6f399fc18b07d5bf074a60ff00b31a648587118214e314ec8c6271ad7bf"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "c22ee83559e438e6002bc5edb1e0593625edbda84d785c22edc2f0c5c8050750"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_3/optical_observed.png": {
+    "bytes": 114109,
+    "sha256": "118465933e81f33f106b82b1d8a834f6f2b144808abff23790fef7046c8250d5"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_3/optical_styled.png": {
+    "bytes": 210643,
+    "sha256": "ce06f2aa134f6b5e993b5a312d2c0f011409935348194e823ba83477f2d9058f"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "995be0db33b94a2a7480fd3dc0146014bbe545f2ba97c94659670f285e05d748"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_3/optical_observed.png": {
+    "bytes": 111716,
+    "sha256": "d4cc2f0158bcc20eb984e8e4e3265382f6f3cffac2151deb7665c119505300d4"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_1_3/optical_styled.png": {
+    "bytes": 212996,
+    "sha256": "9943865494e953a2df520d580a955fefcebea601dcfca88796d84a8182c247cb"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "52f0c9fe4699cd6d1f02eefcf05339cd5efa6f4209422661b4c6923a4b3b6030"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_1/optical_observed.png": {
+    "bytes": 111576,
+    "sha256": "f9e26ec77138b2218664f04e2b40c9953d930383a861a8fbeb3a0cdc2d53fea9"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_1/optical_styled.png": {
+    "bytes": 210342,
+    "sha256": "081aaf52ed727cd6eef89f07e4f121b46d718e0c50768ef36954b7c4eb5a0f93"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "11f583d238b78c2f49996fe57b134d1840d160c1dfed10f343108806e9ba13bc"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_2/optical_observed.png": {
+    "bytes": 112392,
+    "sha256": "294c0ee664c359bdcd936041208b65b4a9febaa4b36283d4e446c0810bf42dec"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_2/optical_styled.png": {
+    "bytes": 213075,
+    "sha256": "e1128ba04cd616f18195c7433838a6fedd5a4daba97265ee376aeca3cd2731c7"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "082d37273dbf4b656228afd0bbf33dc1a85727b6562bf086548d961d935f6e7e"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_3/optical_observed.png": {
+    "bytes": 111441,
+    "sha256": "c65c10a2f51cc7cbe4b0e7bcb9ae8c43f19b66148b528b7a0d6ec3fb807e18b1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_3/optical_styled.png": {
+    "bytes": 214782,
+    "sha256": "71c30040efd47342b92b17733a14867f98bb4f6df9bd22c21fc76dfa77c354b4"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "945d529be575630b7d95eccbdf642ec90595e93242b1106f4a4a68d5e130e0ba"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_0/optical_observed.png": {
+    "bytes": 111802,
+    "sha256": "c35455a4589a63a9790b9e06ad7f186231e70fdffebaaa1fae228d48d0d7d211"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_0_0/optical_styled.png": {
+    "bytes": 217328,
+    "sha256": "31a6be27654972647f77216d6026417fd9660a6314b3dd5b3a7d363f37699b4b"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "90012e98830da5ffc12026912f88c5f73ac59dbaca120ac1a395b1347b6c4a1e"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_2/optical_observed.png": {
+    "bytes": 115836,
+    "sha256": "9c8abad4cdf6d1af2649ef38727e11e92208ca804adaa6abb738c5bb1d8d0d8f"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_3_2/optical_styled.png": {
+    "bytes": 218722,
+    "sha256": "5b7dce26c339dec346c6277ae8090d9ad87d64da549a4aaef2890d117ca5f4e9"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "cf8e68dd96b72c8ac7e776769aaa92155d7f5abe92789e41a9edcee2419e9705"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_1/optical_observed.png": {
+    "bytes": 124805,
+    "sha256": "653496ea6b110661fa8bad1d16b1dd1fa5cc41f257af7b105126a4e3829ec3c6"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/public/terrain/JEZERO_NORTHWEST/tile_2_1/optical_styled.png": {
+    "bytes": 241863,
+    "sha256": "24891030bb17191f9e9ba17bb40f29c4b60a95bbc63e93ad370ae0a36ad844be"
+  },
+  "SOURCE_CURRENT/viewer/vendor/three/LICENSE": {
+    "bytes": 1081,
+    "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+  },
+  "SOURCE_CURRENT/viewer/vendor/three/build/three.core.js": {
+    "bytes": 1405971,
+    "sha256": "03fb6e9fa08628385a9096948593251ae473239c7039496d7c280cba73d84631"
+  },
+  "SOURCE_CURRENT/viewer/vendor/three/build/three.module.js": {
+    "bytes": 626071,
+    "sha256": "1bb0b770bac5da2b59b21aa5fff4c547eeb864d4e408e4c36fbc6ced1dce0e9e"
+  },
+  "SOURCE_CURRENT/viewer/vendor/three/examples/jsm/controls/OrbitControls.js": {
+    "bytes": 38697,
+    "sha256": "e1cdf5833c6e0aa095bd1a4f67dffe68f35677a992e1fb26fe374b5b759ce267"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/orbit.json": {
+    "bytes": 6924,
+    "sha256": "39e62978c8930ca05737a98f14690b9b47a0f1dcdffa399df3de671427cf777a"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/fetch_status.json": {
+    "bytes": 1165,
+    "sha256": "b41f77e9b26c8b169846e1c5f13c209da94cb23492c62ab039a10c4930018095"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/catalog.json": {
+    "bytes": 1965,
+    "sha256": "7e4badee24ffefaa659a00a5f91931d8a37975b3c1b6d8f2f597fa1b272ae19d"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/image_1.jpg": {
+    "bytes": 159998,
+    "sha256": "9858c27b9d75f8ddabcb19437515e8c682102026c0e78ccfe445430d2f4a6566"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/insight.json": {
+    "bytes": 38928,
+    "sha256": "d070eb86c7902e1d257ac347f9caaa004c50253cfde3578928e8f778c85f70f3"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/images_perseverance.json": {
+    "bytes": 22461,
+    "sha256": "85f839b2312e0251bb0e2d3dadac5f675865ec5677b8608ed00c98fe480cd598"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/meda_wind_index.csv": {
+    "bytes": 82758,
+    "sha256": "611d7d0ef918ddfc82be7fa4666d507a775aaaa944528227d77624c1a8c8e91a"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/mars_facts.html": {
+    "bytes": 300755,
+    "sha256": "98fd2ff4b4f153e9307c2a972d3d50c049eca2e85095aac25d064911d1cf6754"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/trek_capabilities.xml": {
+    "bytes": 7040,
+    "sha256": "2fb4722b5af0417980052354eab806cb9bdea003617548433cec8d8813d8d125"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/meda_product.xml": {
+    "bytes": 10671,
+    "sha256": "ca9a6770fd831f4c121ae7f63e25c180a4e09b899f062edebaf16ddd848abaa3"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/environment.json": {
+    "bytes": 5710,
+    "sha256": "badba314cc7f3c078250cd4d604f2066ec46bb252b2c67471e31901c585fedf3"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/meda_page.html": {
+    "bytes": 30620,
+    "sha256": "e55d40c49b18c3c52daed2d26dadac6cab05e9c91a229aa6e8758499fddb2c12"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/WE__0036___________DER_WS__________________P02.CSV": {
+    "bytes": 2657575,
+    "sha256": "cad6cf9c2fb2918c4047d254f682663d241eceaea20ae60cd3fa3e07ffd3c426"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/trek_east.jpg": {
+    "bytes": 62983,
+    "sha256": "581f9fa5565176f08cac1b1aabb7c8897eac284c1d4b9c0a25d19445713189e5"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/trek_west.jpg": {
+    "bytes": 62976,
+    "sha256": "e6107f23837680f0bacbf7e9d0fc3fb364e897039203eff9c6f2e8af73191856"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/meda_directory.html": {
+    "bytes": 15937,
+    "sha256": "99f4c35479ed854fd4491ef53817547af97afd3f93ac05728b488f562d349e13"
+  },
+  "SOURCE_CURRENT/viewer/dist/nasa/image_0.jpg": {
+    "bytes": 170604,
+    "sha256": "74ebb9d1771ddf93cad56e6650596adacc534d9fc4208c997afd9966c829ce14"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/crew_sadia.glb": {
+    "bytes": 4878368,
+    "sha256": "777f6e123af74c87e47066e640f8a069bd42686c9c42d4a69fe13f3da29b83c8"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/scanned_pebbles.glb": {
+    "bytes": 7634528,
+    "sha256": "f517c1fc6fb6df109eb5d95f5095a74ea8ff41b0123afbda3fd454fbe730543e"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/nasa_sol1.mp3": {
+    "bytes": 102476,
+    "sha256": "0f7dc76e5ad2757b8014bd3d322b0b178fa0b0a9d329dfe3332a1cdb1732af70"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/crew_leon.glb": {
+    "bytes": 4878968,
+    "sha256": "e3a95ae6b38eee6ae668319bdb4ca6be012fcd4eabc9459a6aea9c6dececd52f"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/rock_face_03_nor_gl.webp": {
+    "bytes": 1892786,
+    "sha256": "63bd82787148b88200f761c7ffa01b4ff990233a036e249fe5f7a309d731ce7d"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/crew_amelia.glb": {
+    "bytes": 4878764,
+    "sha256": "b8f3ea90d2654a534b2ca7118d0ab0fcddc8fe97534c86900a39eb1fc0d7666e"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/three.core-D4HbIbV9.js": {
+    "bytes": 229988,
+    "sha256": "f97c244a6cb4f48b01eaf5f92ac2104443e63b7d77024c55dd3ad0befc9c8c18"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/crew_ethan.glb": {
+    "bytes": 4878992,
+    "sha256": "3e3c8f7343c4bd880976d53615f748fc8205b00d8b549953cb0632ae62f928c9"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/rock_face_03_diff.webp": {
+    "bytes": 537540,
+    "sha256": "2ed4455422e532fb6260e259900f8d2ff0af95c993fcbe0c036580ad782a4805"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/preload-helper-BXl3LOEh.js": {
+    "bytes": 1110,
+    "sha256": "d887044e7c17fd90344fc4f74f53cac686584daf2a458ab2136d36f1946e9ab6"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/crew_noor.glb": {
+    "bytes": 4877972,
+    "sha256": "99a96c69f17346a01986f3b18c522e16807faf8456e68363f06cfb6c22031a27"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/submission_audit-t-7n-aoW.js": {
+    "bytes": 4207,
+    "sha256": "4456a94b33aae97bfc87d6603715de3d42c53e6ed493e43571681af321ab2122"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/aerial_rocks_02_rough.webp": {
+    "bytes": 802914,
+    "sha256": "75a3cb90d6ee8fde2ed71e2d9d63cf6e47e832b41fca686f3e8409ad090ba2ac"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/atlas6.glb": {
+    "bytes": 6690088,
+    "sha256": "8e35ef0eee104b2106a58790e02aa1d199ce0bec3d9b5d60c6743350a9ba473b"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/crew_orion.glb": {
+    "bytes": 4878316,
+    "sha256": "d7a54eb7528f37eed16a31a5a4f2b94d6a0025ea7add371030da3e8a51878ae1"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/scanned_boulder.glb": {
+    "bytes": 7824708,
+    "sha256": "e78c5a4de4869f30cc8b2d94361bd1208c5bdb18d92edd4c95ef73c0ebd175ef"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/eva_rig.glb": {
+    "bytes": 4843048,
+    "sha256": "642b96734d8dd344b46939a5573a22ea5226e7adcaf26a734b79a69d32938bd4"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/rock_face_03_rough.webp": {
+    "bytes": 880644,
+    "sha256": "79960d7da9a9379dd37f0b9643f282573c89c99627e9b187515e7b122edb146e"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/runtime_qa-DwhR1-oG.js": {
+    "bytes": 9820,
+    "sha256": "3b19066aef32f8944f3aafda47f4a1efc6e573a5c9b77db45ef2968a38573c04"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/index-g9eRPl9i.css": {
+    "bytes": 20004,
+    "sha256": "bbcf8f0e3049ce9c3a42f91826b1426c5c2eb2fa43b7db014b4817e6bece61fb"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/alpha.glb": {
+    "bytes": 6981412,
+    "sha256": "ddf7afce9573fb90efceb780d6e3b0fd36652833b2cb5dc21450a0951e7810db"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/index-DOVx2JOa.js": {
+    "bytes": 491127,
+    "sha256": "e632df20e8f18d554adb92599caab08d203cc019a1b17ca60ff1f40de83acf7b"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/aerial_rocks_02_diff.webp": {
+    "bytes": 721852,
+    "sha256": "9eea283a6498cabd2af1142e94eb11ef35920f311929fc7d712e4cee8c6fa9c0"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/skyscout.glb": {
+    "bytes": 629692,
+    "sha256": "ae196a3de20fd8e4d6500cd7e5a582e3e20305530daf86da027299b52f08428c"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/save-Wskmz71n.js": {
+    "bytes": 14806,
+    "sha256": "841353384e85077834e88927e3e0694978982feb9dcc4eaffc24cea339b8eaae"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/habitat.glb": {
+    "bytes": 102132,
+    "sha256": "0c6e69faf56e658a946009857cd468b63fece82a5747744c50d5b734eb3ebcab"
+  },
+  "SOURCE_CURRENT/viewer/dist/assets/aerial_rocks_02_nor_gl.webp": {
+    "bytes": 1988406,
+    "sha256": "fd1610a91c4cde01d4c9fecbcd77488a6376a1ae703a9ff826ed2987662884f0"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/manifest.json": {
+    "bytes": 14240,
+    "sha256": "9a9f71f71d19dd99b0e5d4f7f778cf91cadec177a2876f312f68a6b27ef74b22"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "35120fee92cca3aee11ab15d8acfdffefad51776299a6d3832a077733bb45a65"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_1/optical_observed.png": {
+    "bytes": 129285,
+    "sha256": "17dbea93f1fa11cb0bf1b9a063964daa47a7de7688da0e42082be16f58642d7b"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_1/optical_styled.png": {
+    "bytes": 253933,
+    "sha256": "54d8e8d47a7b129e3f9c59eadca51c390c3ac9148db33092dbf1995fb26c91c1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "61ecfff0bf6bc67f5ef7f483c9ca20536e7a936fde6a76ebead37efaff61b7a1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_0/optical_observed.png": {
+    "bytes": 121936,
+    "sha256": "f6f70443452e442a05904d6b2f10951667f526cb78899c80b5e7ced8edc3881c"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_0/optical_styled.png": {
+    "bytes": 235545,
+    "sha256": "543cec612c6b0216b91337788c8899f589fefaca989e939468bbc386d256eeee"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "452eb1a07bfd7aba361f4c07e72d5dfa9ea32f358f90a9871efc53da715670eb"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_1/optical_observed.png": {
+    "bytes": 131343,
+    "sha256": "6810b65d778c3096ff2bce3b50fa173f0799a859c80177874cc57d1c705db235"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_1/optical_styled.png": {
+    "bytes": 257038,
+    "sha256": "32857bde6632d07411437358edf4d3f7fd8d0ff8eda3e567c7e682e111d9a7bb"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "2b22562087cc92012990461ce38ce462d237d592110a8ccf8c8cc730cf3430c7"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_2/optical_observed.png": {
+    "bytes": 122314,
+    "sha256": "0bd934135717ee3a43dccc166bb58ba6bbf70537c1961e929438f706f978fc16"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_2/optical_styled.png": {
+    "bytes": 239103,
+    "sha256": "1d65ead1c139e18d6254f595793e8a3b55ed2fb8c61845682fa6e655d0acc361"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "2818a77ccb8f496978c512e9efc583dfa78a05959de746c7872560d2f3f95123"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_0/optical_observed.png": {
+    "bytes": 120458,
+    "sha256": "fd27ef64c270909e828894f9b4215329e27581c3fc6027c1f22335cf0ea6e515"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_0/optical_styled.png": {
+    "bytes": 235558,
+    "sha256": "33318dd6cae4204ea3dced4fd8c87278efce4986d90d6ccecbe0bb5c42f255e0"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "dbcf3e0b3540db8e7eb273d83d98f134b804c86a1f6e17ebbc1ce9e235e53300"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_3/optical_observed.png": {
+    "bytes": 118383,
+    "sha256": "13aa28e94ee79a76799dd031b00af1e2ee0d82de8377e49e71c4db8f53393276"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_3/optical_styled.png": {
+    "bytes": 231551,
+    "sha256": "b693e3de7c2d15854060cda6c0a4e6eb0074344400c87fdf8c01a58b48e278cc"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "c952a3b9896a0ecc99c0065901fcbe2b15ca28b2146dfcb39252383f5cc1f852"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_2/optical_observed.png": {
+    "bytes": 124723,
+    "sha256": "d27cbebde5e766d787649596f338197f56f3389e9487a39b9629fd1b952bb47f"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_2/optical_styled.png": {
+    "bytes": 242519,
+    "sha256": "d5aaf652f48a4be8d40f79555e972c416c4a8a9cf1d53453c547c6532f7dedf2"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "a032a1eb2ef7adb34e8af19b5f4bd4e9a19f5ecf56be07fafbcfaa7f1fbcd7bf"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_0/optical_observed.png": {
+    "bytes": 129673,
+    "sha256": "efeccb40adf0f826d773f1e72f09ffca4f93abb3f5aaf0e8beb1b3def09a9cbd"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_0/optical_styled.png": {
+    "bytes": 255115,
+    "sha256": "e457e53d398cb3b66893634cd01bd5f8a2111340593c1088147c9621b53ad64e"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "1e562e0ddd46ce68b7fd1a071981887798bff74d59f51bb10af372e9843c18e5"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_3/optical_observed.png": {
+    "bytes": 114346,
+    "sha256": "605c9ec1f0d9943dccf64e0b26eef3ea4809d7035ffde27d79fa168ac9c53471"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_3/optical_styled.png": {
+    "bytes": 216729,
+    "sha256": "bf7c3e14fa6950191edf060d7b7dc5a91d3ce73ab60d7d5b0e4a1b4924062f73"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "7449a708a94b188ae92b0a3618f863ece88d2361b71d44759741bcf1a169b373"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_3/optical_observed.png": {
+    "bytes": 125586,
+    "sha256": "7d98e17851653cc64a9d6fe87cc21bbe0b07defe0bf70bfc3be3869f78bba09b"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_1_3/optical_styled.png": {
+    "bytes": 245514,
+    "sha256": "2afde5b43d7cec96bd59dc7274739d325f1ce620d8fe2e825b28bba6cae4aad7"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "cd1b193e3537b0bca2d499b19192f3b0a200d3c0b9ddb5da3ec3fbd7e581f776"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_1/optical_observed.png": {
+    "bytes": 129891,
+    "sha256": "8cfd5631f343a2726f4d6c1848553482d99424c566ef4c97a5f51bfa0cf00f88"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_1/optical_styled.png": {
+    "bytes": 253951,
+    "sha256": "ba5b5124ca0aaedc4da2e1f36d22a3901d846c09015e1bc5b0ea7f179f6b9c36"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "9d46fa75ae36122170c52a205249106b9b67682308fd558248e5403918d1dff0"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_2/optical_observed.png": {
+    "bytes": 120569,
+    "sha256": "a86e5882fbb27f52f4f93f7c11ab43adcf37c75ce12459e0e7216b3b9ac89b3c"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_2/optical_styled.png": {
+    "bytes": 238019,
+    "sha256": "a0b62664a10bd736075a283437f50883286560fa0a66f6445f9eee73700524db"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "ac84f16ab13811fca4d4ac92af4dc59fd5d324299f11f4f9cbc849be2fd403d0"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_3/optical_observed.png": {
+    "bytes": 123745,
+    "sha256": "64d270e256aa4cc84fd6422eb613e50941dff275ebb19a4b5feb69eb7fbfd7bd"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_3/optical_styled.png": {
+    "bytes": 236931,
+    "sha256": "71acaca5e14f78aebc6ecef0c1f513462463190b9d592098bda2b7985b48034a"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "b46ebf6b06f5d4a8adabbd266b4fe240126c2c54f8bc37af3fffc053fb9e2b61"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_0/optical_observed.png": {
+    "bytes": 129289,
+    "sha256": "6960578d50480184103d4ea78000fcd2b7f0c5bb26675d70c25e5c7e57ffb89a"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_0_0/optical_styled.png": {
+    "bytes": 255252,
+    "sha256": "2e2ad64c3513c1e3c7e95a3d5a7a80aa2909f4dd69d5ad439f8aac0d5cf47c86"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "d9d3aab6c2cc231a58b0b0e06ba51ad8c61a45c97d7196fe54ee3995899f7653"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_2/optical_observed.png": {
+    "bytes": 121877,
+    "sha256": "d570982302264945807ccb1fcaabc581946a70310c11f717dc7b5a171a59724c"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_3_2/optical_styled.png": {
+    "bytes": 239121,
+    "sha256": "f0549c658f83cfa4bd75a38e54e168615583603c7d1948374fa23a8daf28ee40"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "9ad4bdd8133dbed5fb84b754f075b4dfc8b741796d44ba87d88f94d6699125be"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_1/optical_observed.png": {
+    "bytes": 128118,
+    "sha256": "a6660203b1209b2e7ad090642326a4cb642850ca6fe3bb2c713e2f96935b3357"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_CENTER/tile_2_1/optical_styled.png": {
+    "bytes": 253191,
+    "sha256": "3d79399820185a92f8397941aea9b1d110d5b0e13b65ec0b83b594262c700f90"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "b74042abca374e4c5237d09720f90b930a22937b845e70ab2c023e595f81bafb"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_1/optical_observed.png": {
+    "bytes": 121415,
+    "sha256": "31b71c53ea0039c9c467d11d9bde96353fbb97bef84b6b4f8f2f2459deb633da"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_1/optical_styled.png": {
+    "bytes": 234072,
+    "sha256": "b01ce3b80b182f1828f4fef913585abde5dc5aa64257ac7fe6505ce00b7bcd5d"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "7012ce3ae7d21f59a3f988b3f4fe014a5b053ffd1ddd7931e1a067c16cc652be"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_0/optical_observed.png": {
+    "bytes": 121458,
+    "sha256": "9779acb67158ff15e6ec69d3779196d2cb43a8c59b969f5a65f082bdbae92483"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_0/optical_styled.png": {
+    "bytes": 231954,
+    "sha256": "63b0994959121f0bcdfd0329b62b6eaedc3ae510420c054f983f27b2f33b540b"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "9b6dc571aafb517be7b038cec299593de53f6e6af5de7949e8cceac0a6a18125"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_1/optical_observed.png": {
+    "bytes": 108097,
+    "sha256": "40b35c17ef23a8fd23fc73851d068e63438a3838c78309d10ab9fdad3f4eecf8"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_1/optical_styled.png": {
+    "bytes": 207602,
+    "sha256": "1659d503dda4dd3504de7bc77941c69b18be55590ce8948ae566c8cb900faa8a"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "f460c73cd8bd8131252ecd998bab599cff2d1e079f350946afe213461392f5a9"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_2/optical_observed.png": {
+    "bytes": 117058,
+    "sha256": "e8c1739752e5d9b4ddf9310f4135a57944cb8916f58e4e9f532becfe2908f4b7"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_2/optical_styled.png": {
+    "bytes": 225459,
+    "sha256": "2f8f05bbbc66a9f85af05f3e0dd5bb4ce25074ad32e670da356f782e3c68bae3"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "c79ca00159e64565ebc906d0227614e71fb90dce13f722dd96ce3404c6ecbf87"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_0/optical_observed.png": {
+    "bytes": 113054,
+    "sha256": "48101f9d989b766ed554c0fdb8a2ada9075381414a763dddc5ca68056b2a8798"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_0/optical_styled.png": {
+    "bytes": 219625,
+    "sha256": "2af93799476ab22c9b73d96c1f02c2ac84cf81970a8df0f2148ccb9912cbe2ce"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "b6616ea636a8f28cbaa234626ffd761d1a75826bb778159ec15787731e5d0d05"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_3/optical_observed.png": {
+    "bytes": 116015,
+    "sha256": "ada431ad0d1aa5e71d4a58741478b60803a76211fea79fed79dd9fc0ed65aaba"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_3/optical_styled.png": {
+    "bytes": 220107,
+    "sha256": "402ec1d1bfa78c8fbf89b34afe8ae1170cbf08b677c47810230ac59580f84656"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "5f4443c52e8142e5fbebdc1112b8d710933a0860cbd3caf6756b147edd649ec5"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_2/optical_observed.png": {
+    "bytes": 123992,
+    "sha256": "2d9dc31a8efb88112fa14f9c47053b587be10e25247126259c98c32f57db49d9"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_2/optical_styled.png": {
+    "bytes": 238441,
+    "sha256": "22e843b1cebd33d55877fecaf2392394e13f37b32f13ce99dcb761c9816b1bc8"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "5c63b4d43d1d0c7cd36dd808a9a327220a9a4f1ecd00910558643f48c8bbc324"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_0/optical_observed.png": {
+    "bytes": 124209,
+    "sha256": "d27267e7d1c134977e8b5b22ba2038083dfe8668975e6f978acd30f4d59fae20"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_0/optical_styled.png": {
+    "bytes": 238542,
+    "sha256": "dd4aa6f399fc18b07d5bf074a60ff00b31a648587118214e314ec8c6271ad7bf"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "c22ee83559e438e6002bc5edb1e0593625edbda84d785c22edc2f0c5c8050750"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_3/optical_observed.png": {
+    "bytes": 114109,
+    "sha256": "118465933e81f33f106b82b1d8a834f6f2b144808abff23790fef7046c8250d5"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_3/optical_styled.png": {
+    "bytes": 210643,
+    "sha256": "ce06f2aa134f6b5e993b5a312d2c0f011409935348194e823ba83477f2d9058f"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "995be0db33b94a2a7480fd3dc0146014bbe545f2ba97c94659670f285e05d748"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_3/optical_observed.png": {
+    "bytes": 111716,
+    "sha256": "d4cc2f0158bcc20eb984e8e4e3265382f6f3cffac2151deb7665c119505300d4"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_1_3/optical_styled.png": {
+    "bytes": 212996,
+    "sha256": "9943865494e953a2df520d580a955fefcebea601dcfca88796d84a8182c247cb"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "52f0c9fe4699cd6d1f02eefcf05339cd5efa6f4209422661b4c6923a4b3b6030"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_1/optical_observed.png": {
+    "bytes": 111576,
+    "sha256": "f9e26ec77138b2218664f04e2b40c9953d930383a861a8fbeb3a0cdc2d53fea9"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_1/optical_styled.png": {
+    "bytes": 210342,
+    "sha256": "081aaf52ed727cd6eef89f07e4f121b46d718e0c50768ef36954b7c4eb5a0f93"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "11f583d238b78c2f49996fe57b134d1840d160c1dfed10f343108806e9ba13bc"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_2/optical_observed.png": {
+    "bytes": 112392,
+    "sha256": "294c0ee664c359bdcd936041208b65b4a9febaa4b36283d4e446c0810bf42dec"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_2/optical_styled.png": {
+    "bytes": 213075,
+    "sha256": "e1128ba04cd616f18195c7433838a6fedd5a4daba97265ee376aeca3cd2731c7"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_3/height.f32": {
+    "bytes": 66564,
+    "sha256": "082d37273dbf4b656228afd0bbf33dc1a85727b6562bf086548d961d935f6e7e"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_3/optical_observed.png": {
+    "bytes": 111441,
+    "sha256": "c65c10a2f51cc7cbe4b0e7bcb9ae8c43f19b66148b528b7a0d6ec3fb807e18b1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_3/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_3/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_3/optical_styled.png": {
+    "bytes": 214782,
+    "sha256": "71c30040efd47342b92b17733a14867f98bb4f6df9bd22c21fc76dfa77c354b4"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_0/height.f32": {
+    "bytes": 66564,
+    "sha256": "945d529be575630b7d95eccbdf642ec90595e93242b1106f4a4a68d5e130e0ba"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_0/optical_observed.png": {
+    "bytes": 111802,
+    "sha256": "c35455a4589a63a9790b9e06ad7f186231e70fdffebaaa1fae228d48d0d7d211"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_0/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_0/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_0_0/optical_styled.png": {
+    "bytes": 217328,
+    "sha256": "31a6be27654972647f77216d6026417fd9660a6314b3dd5b3a7d363f37699b4b"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_2/height.f32": {
+    "bytes": 66564,
+    "sha256": "90012e98830da5ffc12026912f88c5f73ac59dbaca120ac1a395b1347b6c4a1e"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_2/optical_observed.png": {
+    "bytes": 115836,
+    "sha256": "9c8abad4cdf6d1af2649ef38727e11e92208ca804adaa6abb738c5bb1d8d0d8f"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_2/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_2/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_3_2/optical_styled.png": {
+    "bytes": 218722,
+    "sha256": "5b7dce26c339dec346c6277ae8090d9ad87d64da549a4aaef2890d117ca5f4e9"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_1/height.f32": {
+    "bytes": 66564,
+    "sha256": "cf8e68dd96b72c8ac7e776769aaa92155d7f5abe92789e41a9edcee2419e9705"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_1/optical_observed.png": {
+    "bytes": 124805,
+    "sha256": "653496ea6b110661fa8bad1d16b1dd1fa5cc41f257af7b105126a4e3829ec3c6"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_1/optical_valid.png": {
+    "bytes": 919,
+    "sha256": "bcd735b2fd94028e2f7b9109c5d6a2180c7128ecaf1a8ccf2e0b08788fda9493"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_1/height_valid.u8": {
+    "bytes": 16641,
+    "sha256": "cc14b008e2254671740ef4983ab8a3763cff252a9648f6451fd7b3928b7c37d1"
+  },
+  "SOURCE_CURRENT/viewer/dist/terrain/JEZERO_NORTHWEST/tile_2_1/optical_styled.png": {
+    "bytes": 241863,
+    "sha256": "24891030bb17191f9e9ba17bb40f29c4b60a95bbc63e93ad370ae0a36ad844be"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/caucasian-male-young.target": {
+    "bytes": 396479,
+    "sha256": "70e228ba7164737dae664454394536fc5935fa48d333c1a97d77e2dc6eacc5f5"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/makehuman_targets.json": {
+    "bytes": 124411,
+    "sha256": "cc51ae12511b810c510352aca3b0473a1bd0dde3dfd471102904729c299928b9"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/makehuman_asset_license.md": {
+    "bytes": 6962,
+    "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/african-male-young.target": {
+    "bytes": 406170,
+    "sha256": "894abc1fbb3d28543a51fef16f89d5d4bdf9aa2e1534413339811a3d47818b7d"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/asian-male-young.target": {
+    "bytes": 421040,
+    "sha256": "ed2e8c191cb6b87b4a2d97c80486acb2604fa549316c7aa2a738a5d5a14334dc"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/makehuman_base.obj": {
+    "bytes": 1749303,
+    "sha256": "8e761e6624b8f54536409135d1636da63b32486a90d4897f84e121d144f6fb4c"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/polyhaven_models.json": {
+    "bytes": 550529,
+    "sha256": "bba99bb5ad1f27e6eb9164f9a3b7a5602601d37969445d18e7c91ca715feb5bb"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/caucasian-female-young.target": {
+    "bytes": 420559,
+    "sha256": "118379f6e8ba9266247fdb8788a20e1df40a239f97ced0b9905bcbcc74f6e820"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/boulder_01_files.json": {
+    "bytes": 24428,
+    "sha256": "c2b21c87241cbe9a46c190c6cd231cd943c4ff5dbd28b634cf19613a21a75167"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/african-female-young.target": {
+    "bytes": 411735,
+    "sha256": "92d61eeb3c164b421fd5a7c3537ee45e7e1a51de4d49bf312e19c3df2be1d8fc"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/asian-female-young.target": {
+    "bytes": 435553,
+    "sha256": "095fe79694fa19e1fe98d93009ec116199bd524e081c640351a10eccf2cca1eb"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/makehuman_tree.json": {
+    "bytes": 3857,
+    "sha256": "0f0af3a111291424251f4468f51e4971b6ed8fdd26141c70c777ea4f5d82681b"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/boulder_01/boulder_01.bin": {
+    "bytes": 2938808,
+    "sha256": "7f5b06503d62bd95bfe9c6b8a354a5cc8ff04a4d271a8cf87a3e3125db4232d7"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/boulder_01/boulder_01.gltf": {
+    "bytes": 2773,
+    "sha256": "52d118b56748a18509e4ec0075d07b254d72a0401793f22363c0bb3a682e7361"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/boulder_01/textures/boulder_01_nor_gl_2k.jpg": {
+    "bytes": 4649207,
+    "sha256": "5174b318712ac7725cbcb55d422607f9c66d7f8d035c5412ab897b5939e2db6b"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/boulder_01/textures/boulder_01_arm_2k.jpg": {
+    "bytes": 2273068,
+    "sha256": "ab52859dde519b4822111aa60916b6d21f8a6966c67b6cec44d1cd0775b8a86a"
+  },
+  "SOURCE_CURRENT/asset_pipeline/new_sources/boulder_01/textures/boulder_01_diff_2k.jpg": {
+    "bytes": 3672483,
+    "sha256": "90bbaa17c1fe0254d2b0b6e5148264fa834953a72724d566f14af029eebe3ca3"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/ORIGINAL_HANDOFF/README_START_HERE.md": {
+    "bytes": 4421,
+    "sha256": "aa8da8a249a6eed2dc0d3682d6d023a5ce2e1290f4c55e69981f9efd00d105ce"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/ORIGINAL_HANDOFF/PREVIOUS_BUILD_STATUS.md": {
+    "bytes": 3350,
+    "sha256": "0769c9e422944e61c4f5d80d48c5a4d2e6c412846b903bd1d80a5dd66467acd6"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/ORIGINAL_HANDOFF/START_VIEWER_WINDOWS.bat": {
+    "bytes": 58,
+    "sha256": "f66659207414204365caa12ab1a565c521d72f3edb644901089c44837909fb39"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/ORIGINAL_HANDOFF/START_PATHFINDER_WINDOWS.bat": {
+    "bytes": 724,
+    "sha256": "5f1e552537492496d7033e44ab61a6f4171e86ca01585686119eb59f8d580086"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/ORIGINAL_HANDOFF/README_CLICK_BY_CLICK_BN.md": {
+    "bytes": 1678,
+    "sha256": "a0890f552d7822cd3fb8364423d98789df123802f18f763760b79ce89524b0d1"
+  },
+  "SOURCE_CURRENT/BASELINE_REFERENCE/ORIGINAL_HANDOFF/TECHNICAL_QA_STATUS.md": {
+    "bytes": 1643,
+    "sha256": "07043ee7c2f1edd597fa18f8a96f59fde5172f2ee07e0daf6949f5888a22d5a7"
+  }
+}

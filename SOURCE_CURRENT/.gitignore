@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.nasa_cache/
+node_modules/
+__pycache__/
+*.pyc
+asset_pipeline/originals/
+asset_pipeline/decoded/
+*.blend1

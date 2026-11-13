@@ -1,0 +1,53 @@
+PROJECT: ARES PATHFINDER — FULL CODE EXECUTION / TEAM PROXIMA
+MODE: Use ChatGPT Work (cloud computer + code editor/browser). Do not respond with a plan-only answer or mockup. Implement code in the attached repository and export a complete, runnable ZIP plus verified screenshots/video and test results. Work from the files in this HANDOFF package, not from an older ARES build and not from a blank project.
+
+PROJECT PRIORITY: Deadline-sensitive final NASA Space Apps 2026 submission. The user has repeatedly received incomplete low-poly prototypes. Do not deliver another placeholder masquerading as the finished game. The approved 75-page Master Blueprint is AUTHORITATIVE. `TEXT_REQUIREMENTS.txt` adds full detail; the four approved screenshots determine visual composition; the reference mp4 informs motion and quality, but must not be copied or used as a fake rendered game.
+
+FILES TO REVIEW FIRST (already provided in handoff archive):
+- SOURCE_CURRENT/ : actual latest ARES_PATHFINDER_GAMEPLAY_INTEGRATION_2026 codebase; source has viewer/src/main.js, missions.js, challenges.js, router.js, audio.js, and 32 locally processed Jezero terrain tile sets. Preserve and improve existing functional code/data.
+- DESIGN/MASTER_BLUEPRINT.pdf : full 75-page final specification (Nov 11 edition)
+- DESIGN/TEXT_REQUIREMENTS.txt : explicit user decisions and ten full mission narratives
+- DESIGN/APPROVED_UI/ : four user-supplied screenshot references (home, HUD, loadout)
+- DESIGN/REFERENCE_VIDEO/video_2.mp4 : motion reference
+- DATA_QA/: small NASA metadata, alignment and SHA-256 manifests. Original ~5GB GeoTIFFs reside on the user's Windows laptop and are NOT contained in this package; DO NOT pretend you can read them or demand upload of the giant originals. Use the existing derived tile sets for the verified local demo and write local importer instructions for any additional raw processing.
+- AUDIT_IMPLEMENTATION_GAPS.md and ACCEPTANCE_MATRIX.md
+
+MANDATORY EXECUTION RULES:
+1. Inspect and run the existing source. Identify everything currently rendered as primitives or decorative UI; replace with valid, properly licensed high-fidelity GLB/PBR models or an original asset creation pipeline. Character portraits/background concept art are NOT substitute for live animated GLBs. Do not use other people's copyrighted art/models without license; record permissions and sources.
+2. Homepage: keep the approved concept, no astronaut. Full-browser real 3D Mars-scene with detailed and moving six-wheel ATLAS-6 rover (wheel rotation, suspension response, mast scans), slowly passing SKYSCOUT drone with animated rotors, a plausible base and Mars-specific sky. Text ONLY brand logo/large ARES PATHFINDER, top nav MARS ATLAS, MARS ODYSSEY, MISSION OPS, PROFILE, and START EXPEDITION / EXPLORE ATLAS buttons. NO slogans, OFFLINE DEMO pill, proof strips, decorative reports. Honest source limitations must be available in context-aware science/about views rather than permanent home decorations.
+3. Gameplay HUD EXACT: top-left compact objective; slim O2/POWER/RETURN meters directly BELOW it; centered compass; top-right circular live minimap showing player, path and destination; large draggable movement wheel DIRECTLY BELOW minimap ON THE RIGHT; bottom bar MAP, ROVER, INTERACT, SLIDE, JUMP, RUN/BOOST. Working WASD + mouse orbit + E/R/M/Shift/Space/Ctrl/Esc; responsive phone touch and legitimate WebXR adapter if supported and QA-tested; no ornamental controls. Player follows terrain with camera collision and responsive animation.
+4. Six rigged astronauts: Leon, Ethan, Orion, Sadia, Amelia, Noor. Shared skeleton and real animation clips for idle, walk, run, turns, crouch/slide, jump/step, hand/flag, scan, sample, drill/repair as needed. Different suit look/identifiers; no primitive cubes. Asset sourcing MUST be lawful and recorded. If a high-quality rig cannot be legally acquired within available tool budget, do not claim success or fake it with a still image.
+5. Three independently functional vehicles: ATLAS-6 six-wheel ground rover (steering/rolling/approx suspension/collision/driving/recovery); SKYSCOUT drone (real rotor animation + bounded flight/scouting + dust constraints); ALPHA utility robot (articulated arm and physical relay/sample interactions). Movement and abilities genuinely affect missions.
+6. Real NASA terrain: use existing Jezero DTM+optical-derived tiles with correct coordinate spacing and NoData masks, preserve metadata, and show clear provenance on request. Further scientific layers only when legitimate source footprint exists. For other regions use clearly documented modeled terrain; DO NOT claim sampled/verified Mars topography without the source. Stream tiles/LOD for smooth RTX4060 laptop performance; distinctly different surfaces for Jezero flat/plain, layered delta, Gale dunes, Nili fractured outcrops, Elysium basalt/fissures, Noctis labyrinth, Valles canyons, south pole frost, dust scenario, and final composite.
+7. Mars sky realistic: thin/dusty butterscotch, blue glow around sunset sun only, appropriate night/polar/dust sky. No Earth blue sky, rain or cartoon snow. Actual Sun/moons/Earth celestial directions if SPICE is verified; otherwise label sky scenario illustrative in science context, not fake ephemeris.
+8. Mission Ops: same coordinate system between Atlas, route selection, and 3D game. A* fastest/lower-hazard/reserve-conserving with blocked slopes/NoData, oxygen/power/time/return reserve. Hazard event triggers replan and constraints can return infeasible. Do not show fake fixed success/route metrics. Where possible write deterministic tests against known toy grids and output a trace.
+9. Every stage MUST contain physical interaction, multiple subgoals, meaningful decisions, hazard + recover/replan and safe return — not 'walk to marker and press E' or a slider minigame. See ACCEPTANCE_MATRIX.md and 75-page blueprint for stage-specific sequence:
+01 EVA checks + compass + dropped marker + tripod + national flag + panorama + return
+02 three outcrops + drill pressure/contact interaction + core pack/label + return
+03 rover driving + traction/slip + winch rescue + loaded return
+04 evidence-limited spectral scan + three outcrops + uncertainty/unknown + markers
+05 fissure crossing + anchoring bridge/cable + thermal probe + return
+06 signal shadow + ALPHA arm relay placement + LOS signal restore + return
+07 SKYSCOUT canyon scouting + rover repair + tow/escort + hazard replan
+08 heater/traction tradeoff + frost sensor + sample + safe return
+09 rising dust reducing visibility/power + navigation loss + beacon/backup + forced return
+10 five-act multi-robot scientific expedition + route invalidation + coordinated return
+All 10 levels must be distinct visually, in mechanics and in reward; no artificially forced waiting or walking padding. Stage gates and fail/recovery tested, local save/unlock/equipment credits work (never real-money payments).
+10. Audio: NASA Perseverance historical mic recordings MAY be integrated only after sourcing and rights/source checks; distinguish historical NASA recording from synthesized game SFX. Functional spatial/helmet/vehicle/game mix with event-driven interactions, independent sliders, pause/mute, positional attenuation. Do not claim synthesized beeps are NASA recordings. Browser audio must be gesture-unlocked.
+11. First-play optional skippable Earth-to-Mars cinematic, six-character/three-robot selection, inventory/earned-only shop, stage grid, profile/save history; both primary CTAs and every nav item work. Minimal premium navy/black + rust orange + subtle cyan composition; NO filler panels.
+12. Responsive desktop+mobile, accessible buttons, optional VR ONLY if headset/browser truly tested; otherwise state NOT VERIFIED in technical report, not in a permanent distracting UI badge.
+13. Deliver only the actual code ZIP, launcher, source manifest, license/credits, a launch guide, a short verified demo walkthrough, screenshots from RUNNING game, a concise PASS/FAIL/NOT TESTED matrix, and clear limitations. Do not substitute static concept art for gameplay screenshots.
+
+WORK METHOD — ACT, DON'T DEFER:
+A. Audit and launch existing source and compare runtime against reference screenshots.
+B. Replace the actual scene asset pipeline and character/rover runtime before spending time restyling cards.
+C. Integrate grounded terrain and route engine; implement stages with proper state and 3D interactions.
+D. Implement audio; build all global navigation and inventory.
+E. Use browser to record images for home/Atlas/Mission Ops/character select/stage 01/07/09/10. Do a successful real gameplay loop and a deliberate failure/recovery in relevant missions. Script automated tests for mission state, routing and save. Run production build.
+F. Rework failing parts until tests pass. No repeated generic 'tests successful' without outputs. Package as `ARES_PATHFINDER_FINAL_VERIFIED_2026.zip` with evidence and clearly delineated incomplete areas.
+
+DO NOT EXCEED THE EVIDENCE: no claim of NASA endorsement, flight certification, total 10-stage completion, photoreal runtime, authentic audio or universal VR support unless demonstrated. Do not silently replace the requested full project with a different concept or feature list. If genuine blockers remain, prioritize the playable NASA-grounded connected experience and report precise blockers instead of giving another unfinished package the label FINAL.
+
+USER'S LANGUAGE: Communicate click-by-click Windows setup in Bangla; source and code in English. The user's source and NASA tile data are supplied. Avoid requesting the same downloads or pointless repeated manual setup/tests.
+
+BEGIN WORK FROM SOURCE_CURRENT NOW. DO NOT ASK THE USER TO REEXPLAIN THE REQUIREMENTS.

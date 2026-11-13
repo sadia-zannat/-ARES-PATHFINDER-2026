@@ -1,0 +1,82 @@
+{
+  "title": "ARES PATHFINDER | READ-ONLY NASA DTM/OPTICAL ALIGNMENT QA",
+  "created_utc": "2026-11-10T18:13:05.284050+00:00",
+  "source": {
+    "dtm_filename": "JEZ_hirise_soc_006_DTM_MOLAtopography_DeltaGeoid_1m_Eqc_latTs0_lon0_blend40.tif",
+    "optical_filename": "JEZ_hirise_soc_007_orthoMosaic_25cm_Ortho_blend120.tif",
+    "dtm_crs": "ESRI:103885",
+    "optical_crs": "PROJCS[\"unnamed\",GEOGCS[\"Geographic Coordinate System\",DATUM[\"Mars_2000_(Sphere)\",SPHEROID[\"Mars_2000_Sphere_IAU\",3396190,0],AUTHORITY[\"ESRI\",\"106971\"]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Orthographic\"],PARAMETER[\"latitude_of_origin\",18.4663],PARAMETER[\"central_meridian\",77.4298],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "dtm_resolution_m": [
+      1.0,
+      1.0
+    ],
+    "optical_resolution_m": [
+      0.25,
+      0.25
+    ]
+  },
+  "method": "Optical resampled by WarpedVRT into DTM (Equirectangular) coordinate system; five local patches; hillshade vs optical vs blend.",
+  "patches": [
+    {
+      "name": "CENTER",
+      "dtm_valid_fraction": 1.0,
+      "optical_valid_fraction": 1.0,
+      "both_valid_fraction": 1.0,
+      "bounds_in_dtm_crs_m": [
+        4587491.0,
+        1095299.0,
+        4588641.0,
+        1096449.0
+      ]
+    },
+    {
+      "name": "NW",
+      "dtm_valid_fraction": 0.99997,
+      "optical_valid_fraction": 0.99993,
+      "both_valid_fraction": 0.99993,
+      "bounds_in_dtm_crs_m": [
+        4582141.0,
+        1100671.0,
+        4583291.0,
+        1101821.0
+      ]
+    },
+    {
+      "name": "NE",
+      "dtm_valid_fraction": 0.97142,
+      "optical_valid_fraction": 0.97065,
+      "both_valid_fraction": 0.97065,
+      "bounds_in_dtm_crs_m": [
+        4592841.0,
+        1100671.0,
+        4593991.0,
+        1101821.0
+      ]
+    },
+    {
+      "name": "SW",
+      "dtm_valid_fraction": 1.0,
+      "optical_valid_fraction": 1.0,
+      "both_valid_fraction": 1.0,
+      "bounds_in_dtm_crs_m": [
+        4582141.0,
+        1089927.0,
+        4583291.0,
+        1091077.0
+      ]
+    },
+    {
+      "name": "SE",
+      "dtm_valid_fraction": 1.0,
+      "optical_valid_fraction": 1.0,
+      "both_valid_fraction": 1.0,
+      "bounds_in_dtm_crs_m": [
+        4592841.0,
+        1089927.0,
+        4593991.0,
+        1091077.0
+      ]
+    }
+  ],
+  "IMPORTANT": "This contact sheet is a visual QA aid, NOT a formal proof of registration, official hash matching, pixel integrity, flight readiness or complete Mars coverage."
+}

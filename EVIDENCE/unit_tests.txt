@@ -1,0 +1,31 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> ares-pathfinder@0.3.0 test
+> node --test tests/*.test.mjs
+
+✔ A* flat-grid distance equals independent octile optimum (3.917951ms)
+✔ NoData and invalid endpoints cannot be crossed (0.981401ms)
+✔ Diagonal corners cannot cut through blocked cells (0.23996ms)
+✔ Metric slope cap rejects steep cliffs (0.211847ms)
+✔ Risk mode detours around rough cells while fast takes shortest (45.151806ms)
+✔ New hazard changes an existing valid route (29.885639ms)
+✔ Round trip budgets reject time, O2 and battery failures (4.808763ms)
+✔ Route statistics preserve metric ascent and travel time (4.709257ms)
+✔ All ten missions have distinct typed physical sequences (0.568487ms)
+✔ Distance and wrong evidence cannot advance any first objective (11.1484ms)
+✔ Physical mode and actual rover distance gate traversal (0.389221ms)
+✔ Sample sealing requires correct identity and intact recovered core (0.465844ms)
+✔ All ten stages fail on exhausted resources and permit checkpoint recovery (2.975985ms)
+✔ Rewards require completion and cannot be duplicated (1.132405ms)
+✔ Progress round-trip and equipment transaction preserve state (0.587262ms)
+✔ Exported astronaut contains actual skin weights, 18 bones and 17 clips (16.037994ms)
+✔ Three NASA vehicles have animated wheel, rotor and limb articulation nodes (61.408592ms)
+✔ All 32 processed NASA terrain tiles load finite valid measurements (161.059521ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 835.368494

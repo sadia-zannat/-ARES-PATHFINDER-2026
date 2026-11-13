@@ -1,0 +1,35 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> ares-pathfinder@0.3.0 test
+> node --test tests/*.test.mjs
+
+✔ A* flat-grid distance equals independent octile optimum (3.299916ms)
+✔ NoData and invalid endpoints cannot be crossed (0.923171ms)
+✔ Diagonal corners cannot cut through blocked cells (0.435827ms)
+✔ Metric slope cap rejects steep cliffs (0.321513ms)
+✔ Risk mode detours around rough cells while fast takes shortest (1.85596ms)
+✔ New hazard changes an existing valid route (1.735423ms)
+✔ Round trip budgets reject time, O2 and battery failures (0.449513ms)
+✔ Route statistics preserve metric ascent and travel time (0.50137ms)
+✔ All ten missions have distinct typed physical sequences (0.420749ms)
+✔ Distance and wrong evidence cannot advance any first objective (2.066524ms)
+✔ Physical mode and actual rover distance gate traversal (0.422843ms)
+✔ Sample sealing requires correct identity and intact recovered core (0.350678ms)
+✔ All ten stages fail on exhausted resources and permit checkpoint recovery (1.463924ms)
+✔ Rewards require completion and cannot be duplicated (1.387461ms)
+✔ Progress round-trip and equipment transaction preserve state (0.55972ms)
+✔ Exported astronaut contains actual skin weights, 18 bones and 17 clips (15.646713ms)
+✔ Three NASA vehicles have animated wheel, rotor and limb articulation nodes (113.525921ms)
+✔ All 32 processed NASA terrain tiles load finite valid measurements (219.950433ms)
+✔ Six individually exported heads and skinned EVA meshes are present (280.141911ms)
+✔ Photogrammetry scan and dense LOD are actual imported meshes (101.332339ms)
+✔ Final expedition requires physical ALPHA repair before convoy (0.42682ms)
+✔ Modeled radiation limit can reject an otherwise feasible EVA (0.408415ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1186.131501

@@ -1,0 +1,71 @@
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+11:27:17 | INFO: Starting glTF 2.0 export
+11:27:17 | INFO: Extracting primitive: Z2
+11:27:19 | INFO: Primitives created: 2
+11:27:19 | INFO: Extracting primitive: Leon_Scalp
+11:27:20 | INFO: Primitives created: 1
+11:27:20 | INFO: Extracting primitive: Leon_MakeHuman_Head
+11:27:20 | INFO: Primitives created: 1
+11:27:20 | INFO: Finished glTF 2.0 export in 2.5045523643493652 s
+
+CREW EXPORTED Leon 4387
+11:27:21 | INFO: Starting glTF 2.0 export
+11:27:21 | INFO: Extracting primitive: Z2
+11:27:23 | INFO: Primitives created: 2
+11:27:23 | INFO: Extracting primitive: Ethan_Scalp
+11:27:23 | INFO: Primitives created: 1
+11:27:23 | INFO: Extracting primitive: Ethan_MakeHuman_Head
+11:27:23 | INFO: Primitives created: 1
+11:27:23 | INFO: Finished glTF 2.0 export in 1.9215638637542725 s
+
+CREW EXPORTED Ethan 4387
+11:27:24 | INFO: Starting glTF 2.0 export
+11:27:24 | INFO: Extracting primitive: Z2
+11:27:25 | INFO: Primitives created: 2
+11:27:25 | INFO: Extracting primitive: Orion_Scalp
+11:27:25 | INFO: Primitives created: 1
+11:27:25 | INFO: Extracting primitive: Orion_MakeHuman_Head
+11:27:25 | INFO: Primitives created: 1
+11:27:25 | INFO: Finished glTF 2.0 export in 1.1301045417785645 s
+
+CREW EXPORTED Orion 4387
+11:27:26 | INFO: Starting glTF 2.0 export
+11:27:26 | INFO: Extracting primitive: Z2
+11:27:27 | INFO: Primitives created: 2
+11:27:27 | INFO: Extracting primitive: Sadia_Scalp
+11:27:27 | INFO: Primitives created: 1
+11:27:27 | INFO: Extracting primitive: Sadia_MakeHuman_Head
+11:27:27 | INFO: Primitives created: 1
+11:27:27 | INFO: Finished glTF 2.0 export in 1.2038919925689697 s
+
+CREW EXPORTED Sadia 4387
+11:27:28 | INFO: Starting glTF 2.0 export
+11:27:28 | INFO: Extracting primitive: Z2
+11:27:29 | INFO: Primitives created: 2
+11:27:30 | INFO: Extracting primitive: Amelia_Scalp
+11:27:30 | INFO: Primitives created: 1
+11:27:30 | INFO: Extracting primitive: Amelia_MakeHuman_Head
+11:27:30 | INFO: Primitives created: 1
+11:27:30 | INFO: Finished glTF 2.0 export in 1.6654393672943115 s
+
+CREW EXPORTED Amelia 4387
+11:27:31 | INFO: Starting glTF 2.0 export
+11:27:31 | INFO: Extracting primitive: Z2
+11:27:33 | INFO: Primitives created: 2
+11:27:33 | INFO: Extracting primitive: Noor_Scalp
+11:27:33 | INFO: Primitives created: 1
+11:27:33 | INFO: Extracting primitive: Noor_MakeHuman_Head
+11:27:33 | INFO: Primitives created: 1
+11:27:33 | INFO: Finished glTF 2.0 export in 1.7805054187774658 s
+
+CREW EXPORTED Noor 4387
+Six separate skinned characters and photogrammetry LODs exported
+Blender 4.3.2
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+Read blend: "/workspace/scratch/af181bb6dd08/ARES_PATHFINDER/SOURCE_CURRENT/asset_pipeline/eva_rig.blend"
+
+Blender quit

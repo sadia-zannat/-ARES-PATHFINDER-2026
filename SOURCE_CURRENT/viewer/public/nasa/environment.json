@@ -1,0 +1,183 @@
+{
+  "source": "https://atmos.nmsu.edu/PDS/data/PDS4/Mars2020/mars2020_meda/data_derived_env/sol_0000_0089/sol_0036/WE__0036___________DER_WS__________________P02.xml",
+  "historical": true,
+  "live": false,
+  "summary": "Historical Mars 2020 MEDA wind observation product, Sol 36, March 27\u201328 2021. PDS table and units are preserved locally. Game weather is modeled.",
+  "measurementLabel": "Not a live weather stream. Quality flags must be respected.",
+  "productFiles": [
+    "WE__0036___________DER_WS__________________P02.CSV"
+  ],
+  "sol": 36,
+  "earthDate": "2021-03-27 to 2021-03-28",
+  "unit": "m/s",
+  "validStationaryRecords": 40543,
+  "totalRecords": 41538,
+  "windSpeedRange": [
+    0.0,
+    16.24
+  ],
+  "windSpeedMedian": 4.86,
+  "filter": "Reject blank / sentinel 999999999 and values outside 0\u2013100 m/s; ROVER_STILL=1. Full source columns and uncertainty preserved. Descriptive subset, not an independent instrument calibration.",
+  "samples": [
+    {
+      "LMST": "00036M01:32:10.411",
+      "HORIZONTAL_WIND_SPEED": "1.46",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "135.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M01:48:36.802",
+      "HORIZONTAL_WIND_SPEED": "0.74",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "70.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M05:07:15.246",
+      "HORIZONTAL_WIND_SPEED": "1.43",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "95.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M05:23:41.636",
+      "HORIZONTAL_WIND_SPEED": "1.54",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "160.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M12:14:08.804",
+      "HORIZONTAL_WIND_SPEED": "2.55",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "50.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M12:30:35.195",
+      "HORIZONTAL_WIND_SPEED": "1.49",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "70.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M12:47:15.212",
+      "HORIZONTAL_WIND_SPEED": "5.07",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "120.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M13:03:41.602",
+      "HORIZONTAL_WIND_SPEED": "0.55",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "335.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M14:09:29.112",
+      "HORIZONTAL_WIND_SPEED": "13.37",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "130.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M14:26:18.861",
+      "HORIZONTAL_WIND_SPEED": "3.95",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "110.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M14:42:55.471",
+      "HORIZONTAL_WIND_SPEED": "9.08",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "130.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M14:59:49.113",
+      "HORIZONTAL_WIND_SPEED": "6.02",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "75.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M15:16:22.317",
+      "HORIZONTAL_WIND_SPEED": "6.51",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "50.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M16:12:35.122",
+      "HORIZONTAL_WIND_SPEED": "4.64",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "110.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M16:29:06.379",
+      "HORIZONTAL_WIND_SPEED": "5.36",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "105.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M16:45:33.256",
+      "HORIZONTAL_WIND_SPEED": "8.42",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "105.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M17:01:59.647",
+      "HORIZONTAL_WIND_SPEED": "8.48",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "110.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M22:15:44.287",
+      "HORIZONTAL_WIND_SPEED": "3.06",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "260.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M22:32:10.678",
+      "HORIZONTAL_WIND_SPEED": "4.66",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "290.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    },
+    {
+      "LMST": "00036M22:48:37.069",
+      "HORIZONTAL_WIND_SPEED": "5.07",
+      "HORIZONTAL_WIND_SPEED_UNCERTAINTY": "",
+      "WIND_DIRECTION": "290.57",
+      "BOTH_BOOMS_USED_FOR_RETRIEVAL": "",
+      "ROVER_STILL": "1"
+    }
+  ]
+}

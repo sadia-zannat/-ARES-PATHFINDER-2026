@@ -1,0 +1,26 @@
+11:36:38 | INFO: Data are loaded, start creating Blender stuff
+11:36:38 | INFO: Blender create Mesh node rock_PROXY_5m.002
+11:36:38 | INFO: glTF import finished in 0.13s
+Info: Removed 28685 vertices
+scanned_boulder 26603 -> 12269
+ERROR Draco mesh compression is not available because library could not be found at /usr/bin/4.3/python/lib/python3.13/site-packages/libextern_draco.so
+11:36:39 | INFO: Starting glTF 2.0 export
+11:36:39 | INFO: Extracting primitive: rock_PROXY_5m.002
+11:36:39 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+11:36:39 | INFO: Primitives created: 1
+11:36:39 | INFO: Finished glTF 2.0 export in 0.35289454460144043 s
+
+11:36:39 | INFO: Data are loaded, start creating Blender stuff
+11:36:39 | INFO: Blender create Mesh node rock_PROXY_5m.002
+11:36:39 | INFO: glTF import finished in 0.07s
+Info: Removed 14854 vertices
+scanned_pebbles 12269 -> 6399
+11:36:40 | INFO: Starting glTF 2.0 export
+11:36:40 | INFO: Extracting primitive: rock_PROXY_5m.001
+11:36:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+11:36:40 | INFO: Primitives created: 1
+11:36:40 | INFO: Finished glTF 2.0 export in 0.3492391109466553 s
+
+Blender 4.3.2
+
+Blender quit
