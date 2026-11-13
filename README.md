@@ -11,7 +11,7 @@ An educational Mars exploration and mission-planning experience combining NASA/U
 | Item | Link |
 |---|---|
 | Local video - 240 seconds | (https://www.youtube.com/watch?v=YgeHU-Mt72I) |
-| Global video - 30 seconds | To be added |
+| Global video - 30 seconds | https://youtu.be/5IhqnBGNmAM |
 | NASA Project Page | https://www.spaceappschallenge.org/2026/find-a-team/proxima15/?tab=details|
 | Source Code | https://github.com/sadia-zannat/-ARES-PATHFINDER-2026 |
 
