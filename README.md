@@ -131,7 +131,7 @@ Authenticated InSight integration uses `NASA_API_KEY` only on the Python server.
 
 Mission Ops dose is an explicit educational model at 0.03 mSv/hour; it is not a local NASA radiation measurement or an operational EVA recommendation. The radiation budget can reject an otherwise feasible route.
 
-## NOVEMBER 13 â€” DEMO NAVIGATION UPDATE
+## DEMO NAVIGATION UPDATE
 
 For urgent local video recording, extract the ZIP and double-click **`START_ARES_PRESENTER_WINDOWS.bat`**. This launches a local recording-only presenter view with all ten mission cards selectable, while keeping normal player progress separate. It is not an authenticated web admin account. Standard player play-through uses **`START_ARES_WINDOWS.bat`**.
 
